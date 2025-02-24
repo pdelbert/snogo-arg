@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "current": {
     "color_body_bg": "#ffffff",
@@ -67,17 +76,18 @@
     "collection_grid_opacity": 12,
     "collection_grid_gutter": true,
     "cart_type": "drawer",
+    "cart_icon": "bag",
     "cart_additional_buttons": false,
     "cart_notes_enable": false,
     "cart_terms_conditions_enable": false,
-    "social_facebook_link": "https:\/\/www.facebook.com\/shopify",
-    "social_pinterest_link": "https:\/\/www.pinterest.com\/shopify",
-    "social_instagram_link": "https:\/\/instagram.com\/shopify",
+    "social_facebook_link": "https://www.facebook.com/shopify",
+    "social_pinterest_link": "https://www.pinterest.com/shopify",
+    "social_instagram_link": "https://instagram.com/shopify",
     "share_facebook": true,
     "share_twitter": true,
     "share_pinterest": true,
-    "favicon": "shopify:\/\/shop_images\/imageedit_9_9978243905.png",
-    "checkout_logo_image": "shopify:\/\/shop_images\/imageedit_9_9978243905.png",
+    "favicon": "shopify://shop_images/imageedit_9_9978243905.png",
+    "checkout_logo_image": "shopify://shop_images/imageedit_9_9978243905.png",
     "checkout_logo_position": "left",
     "checkout_logo_size": "small",
     "checkout_body_background_color": "#fff",
@@ -94,7 +104,6 @@
           "1524770014057": {
             "type": "logo",
             "settings": {
-              "logo": "shopify:\/\/shop_images\/imageedit_9_9978243905.png",
               "desktop_logo_width": 140,
               "mobile_logo_width": 110
             }
@@ -103,14 +112,16 @@
             "type": "announcement",
             "settings": {
               "text": "Free shipping",
-              "link_text": "On All Orders Over $100"
+              "link_text": "On All Orders Over $100",
+              "link": ""
             }
           },
           "1524770296206": {
             "type": "announcement",
             "settings": {
               "text": "Easy returns",
-              "link_text": "30 Day Hassle-Free Returns"
+              "link_text": "30 Day Hassle-Free Returns",
+              "link": ""
             }
           }
         },
@@ -122,13 +133,13 @@
         "settings": {
           "main_menu_link_list": "main-menu",
           "mega_menu_images": true,
-          "main_menu_alignment": "center-left",
+          "main_menu_alignment": "left",
           "header_style": "sticky",
           "sticky_index": false,
-          "sticky_collection": false,
+          "sticky_collection": true,
           "announcement_compact": true,
           "announcement_above_header": true,
-          "toolbar_menu": "",
+          "toolbar_menu": "customer-account-main-menu",
           "toolbar_social": false,
           "show_locale_selector": true,
           "show_currency_selector": true,
@@ -151,14 +162,13 @@
             "settings": {
               "show_footer_title": true,
               "title": "Sign up and save",
-              "text": "<p>Subscribe to get special offers, free giveaways, and once-in-a-lifetime deals.<\/p>",
+              "text": "<p>Subscribe to get special offers, free giveaways, and once-in-a-lifetime deals.</p>",
               "container_width": 33
             }
           },
           "1494301487048": {
             "type": "logo_social",
             "settings": {
-              "logo": "shopify:\/\/shop_images\/imageedit_9_9978243905.png",
               "desktop_logo_height": 50,
               "container_width": 95
             }
@@ -217,7 +227,7 @@
         "type": "featured-content",
         "settings": {
           "title": "",
-          "text": "<p>AFX is a worldwide fashion brand encouraging independent, powerful, and loving women who thrive from helping others and giving back... because the best way <a href=\"\/pages\/charities\" title=\"Giving Back\" target=\"_blank\"><strong>to get<\/strong>, <em>is to give<\/em><\/a>. ♡ <\/p>",
+          "text": "<p>AFX is a worldwide fashion brand encouraging independent, powerful, and loving women who thrive from helping others and giving back... because the best way <a href=\"/pages/charities\" title=\"Giving Back\" target=\"_blank\"><strong>to get</strong>, <em>is to give</em></a>. ♡ </p>",
           "align_text": "center",
           "narrow_column": true,
           "enlarge_text": true,
@@ -238,7 +248,6 @@
       },
       "1499789718857": {
         "type": "featured-collections",
-        "disabled": true,
         "blocks": {
           "1499789718857-0": {
             "type": "collection",
@@ -279,6 +288,7 @@
           "1499789718857-2",
           "1499789718857-3"
         ],
+        "disabled": true,
         "settings": {
           "title": "Shop by category",
           "divider": false,
@@ -292,10 +302,9 @@
         "settings": {
           "subtitle": "Impressive",
           "title": "Large image with text box",
-          "text": "<p>Pair large text with a full-width image to draw attention to an important detail of your brand or product line.<\/p>",
+          "text": "<p>Pair large text with a full-width image to draw attention to an important detail of your brand or product line.</p>",
           "button_label": "",
-          "button_link": "shopify:\/\/collections\/all",
-          "image": "shopify:\/\/shop_images\/flowing-summer-green-dress.jpg",
+          "button_link": "shopify://collections/all",
           "focal_point": "80% 0",
           "color_border": "#cdb8ac",
           "layout": "left",
@@ -412,11 +421,11 @@
           "popup_seconds": 5,
           "popup_days": 2,
           "popup_title": "Sign up and save 15%!",
-          "popup_image": "shopify:\/\/shop_images\/lauren-bow-1346435-unsplash.jpg",
-          "popup_text": "<p>Sign up for our mailing list to receive discounts, exclusive offers, and invites for special events. First time customers will receive a 15% off discount code for their purchase!<\/p>",
+          "popup_text": "<p>Sign up for our mailing list to receive discounts, exclusive offers, and invites for special events. First time customers will receive a 15% off discount code for their purchase!</p>",
           "close_text": "No thanks",
           "enable_newsletter": true,
           "button_label": "Optional button",
+          "button_link": "",
           "enable_button": false
         }
       },
@@ -430,13 +439,12 @@
               "title": "15% of All Swimwear\nSales are donated",
               "title_size": 80,
               "subheading": "Learn more about the charities we work with.",
-              "link": "shopify:\/\/collections\/swim",
+              "link": "shopify://collections/swim",
               "link_text": "Shop Swim",
-              "link_2": "shopify:\/\/collections\/all",
+              "link_2": "shopify://collections/all",
               "link_text_2": "Charities we love ♡",
               "color_accent": "#000000",
               "text_align": "vertical-bottom horizontal-left",
-              "image": "shopify:\/\/shop_images\/roberto-nickson-1526208-unsplash.jpg",
               "focal_point": "top center"
             }
           },
@@ -447,13 +455,12 @@
               "title": "New cute tops, \nmore fun accessories.",
               "title_size": 80,
               "subheading": "Even better sales. Limited time only.",
-              "link": "shopify:\/\/collections\/blouses-tops",
+              "link": "shopify://collections/blouses-tops",
               "link_text": "Shop Tops",
-              "link_2": "shopify:\/\/collections\/all",
+              "link_2": "shopify://collections/all",
               "link_text_2": "Shop all",
               "color_accent": "#000000",
               "text_align": "vertical-bottom horizontal-left",
-              "image": "shopify:\/\/shop_images\/fashion-model-under-carnival-lights.jpg",
               "focal_point": "center center"
             }
           }
@@ -530,7 +537,7 @@
         "disabled": true,
         "settings": {
           "map_title": "Our retail store",
-          "address": "<p>301 Front St W<br\/>Toronto, Canada<\/p><p>Mon - Fri, 8:30am - 10:30pm<br\/>Saturday, 8:30am - 10:30pm<br\/>Sunday, 8:30am - 10:30pm<\/p>",
+          "address": "<p>301 Front St W<br/>Toronto, Canada</p><p>Mon - Fri, 8:30am - 10:30pm<br/>Saturday, 8:30am - 10:30pm<br/>Sunday, 8:30am - 10:30pm</p>",
           "map_address": "301 Front St W, Toronto, ON M5V 2T6",
           "api_key": "",
           "show_button": true,
@@ -560,10 +567,9 @@
               "heading": "All shoes on sale",
               "textarea": "Select Shoes - Buy One, Get One FREE!",
               "cta_text1": "Shop Shoes",
-              "cta_link1": "shopify:\/\/collections\/shoes",
+              "cta_link1": "shopify://collections/shoes",
               "cta_text2": "Shop All",
-              "cta_link2": "shopify:\/\/collections\/all",
-              "image": "shopify:\/\/shop_images\/low-shot-of-women-sitting-on-velvet-couch.jpg",
+              "cta_link2": "shopify://collections/all",
               "video_url": "",
               "width": "100",
               "height": 720,
@@ -626,10 +632,9 @@
               "heading": "promotion",
               "textarea": "All jewelry items on sale!",
               "cta_text1": "Shop This",
-              "cta_link1": "shopify:\/\/collections\/jewelry",
+              "cta_link1": "shopify://collections/jewelry",
               "cta_text2": "Shop All",
-              "cta_link2": "https:\/\/afx.life\/collections\/all",
-              "image": "shopify:\/\/shop_images\/sun-friendship-bracelet.jpg",
+              "cta_link2": "https://afx.life/collections/all",
               "video_url": "",
               "width": "50",
               "height": 800,
@@ -648,10 +653,9 @@
               "heading": "promotion",
               "textarea": "All beauty items on sale!",
               "cta_text1": "Shop This",
-              "cta_link1": "shopify:\/\/collections\/self-care",
+              "cta_link1": "shopify://collections/self-care",
               "cta_text2": "Shop All",
-              "cta_link2": "https:\/\/afx.life\/collections\/all",
-              "image": "shopify:\/\/shop_images\/model-in-gold-fashion.jpg",
+              "cta_link2": "https://afx.life/collections/all",
               "video_url": "",
               "width": "50",
               "height": 500,
@@ -684,7 +688,7 @@
               "promo_collection": "shop-all",
               "heading": "Semi-annual winter sale",
               "text": "For a limited time the entire store is on sale!",
-              "link": "shopify:\/\/collections\/all",
+              "link": "shopify://collections/all",
               "label": "Shop now",
               "color_tint": "#e95454",
               "color_tint_opacity": 10,
@@ -699,10 +703,10 @@
               "heading": "promotion",
               "textarea": "Entire store on sale!",
               "cta_text1": "Shop Eyewear",
-              "cta_link1": "shopify:\/\/collections\/eyewear",
+              "cta_link1": "shopify://collections/eyewear",
               "cta_text2": "Shop All",
-              "cta_link2": "shopify:\/\/collections\/all",
-              "image": "shopify:\/\/shop_images\/happy-woman.jpg",
+              "cta_link2": "shopify://collections/all",
+              "image": "shopify://shop_images/happy-woman.jpg",
               "video_url": "",
               "width": "100",
               "height": 500,
@@ -731,8 +735,9 @@
             "settings": {
               "enable_image": false,
               "title": "Site-wide promotion",
-              "text": "<p>Entire store on sale!<\/p>",
-              "button_label": "shop now"
+              "text": "<p>Entire store on sale!</p>",
+              "button_label": "shop now",
+              "button_link": ""
             }
           },
           "3abf7455-cb1f-47ec-b93b-8dea62d40520": {
@@ -740,8 +745,9 @@
             "settings": {
               "enable_image": false,
               "title": "Site-wide promotion",
-              "text": "<p>Entire store on sale!<\/p>",
-              "button_label": "shop now"
+              "text": "<p>Entire store on sale!</p>",
+              "button_label": "shop now",
+              "button_link": ""
             }
           }
         },
@@ -765,26 +771,25 @@
       },
       "16111386568c2d3def": {
         "type": "testimonials",
-        "disabled": true,
         "blocks": {
           "16111386568c2d3def-0": {
             "type": "testimonial",
             "settings": {
-              "testimonial": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>",
+              "testimonial": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.</p>",
               "author": "Author's name"
             }
           },
           "16111386568c2d3def-1": {
             "type": "testimonial",
             "settings": {
-              "testimonial": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>",
+              "testimonial": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.</p>",
               "author": "Author's name"
             }
           },
           "16111386568c2d3def-2": {
             "type": "testimonial",
             "settings": {
-              "testimonial": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>",
+              "testimonial": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.</p>",
               "author": "Author's name"
             }
           }
@@ -794,6 +799,7 @@
           "16111386568c2d3def-1",
           "16111386568c2d3def-2"
         ],
+        "disabled": true,
         "settings": {
           "title": "Testimonials",
           "align_text": "left",
@@ -907,9 +913,9 @@
       "share_pinterest": true,
       "share_twitter": true,
       "sku_enable": false,
-      "social_facebook_link": "https:\/\/www.facebook.com\/shopify",
-      "social_instagram_link": "https:\/\/instagram.com\/shopify",
-      "social_pinterest_link": "https:\/\/www.pinterest.com\/shopify",
+      "social_facebook_link": "https://www.facebook.com/shopify",
+      "social_instagram_link": "https://instagram.com/shopify",
+      "social_pinterest_link": "https://www.pinterest.com/shopify",
       "type_base_font_family": "futura_n4",
       "type_base_line_height": 1.6,
       "type_base_size": 16,
@@ -1086,7 +1092,7 @@
         "1499790633921": {
           "type": "background-image-text",
           "settings": {
-            "button_link": "shopify:\/\/collections\/all",
+            "button_link": "shopify://collections/all",
             "focal_point": "80% 0",
             "color_border": "#cdb8ac",
             "layout": "left",
@@ -1207,9 +1213,9 @@
               "type": "image",
               "settings": {
                 "title_size": 80,
-                "link": "shopify:\/\/collections\/all",
+                "link": "shopify://collections/all",
                 "link_text": "Shop this",
-                "link_2": "shopify:\/\/collections\/all",
+                "link_2": "shopify://collections/all",
                 "link_text_2": "Shop all",
                 "color_accent": "#000000",
                 "text_align": "vertical-center horizontal-center",
@@ -1220,9 +1226,9 @@
               "type": "image",
               "settings": {
                 "title_size": 80,
-                "link": "shopify:\/\/collections\/all",
+                "link": "shopify://collections/all",
                 "link_text": "Shop all",
-                "link_2": "shopify:\/\/collections\/all",
+                "link_2": "shopify://collections/all",
                 "link_text_2": "Shop all",
                 "color_accent": "#000000",
                 "text_align": "vertical-bottom horizontal-left",
@@ -1308,7 +1314,7 @@
             "1525886482727": {
               "type": "advanced",
               "settings": {
-                "cta_link1": "shopify:\/\/collections\/all",
+                "cta_link1": "shopify://collections/all",
                 "width": "100",
                 "height": 720,
                 "text_size": 120,
@@ -1352,7 +1358,7 @@
             "1525912530555-0": {
               "type": "advanced",
               "settings": {
-                "cta_link1": "shopify:\/\/collections\/all",
+                "cta_link1": "shopify://collections/all",
                 "width": "50",
                 "height": 800,
                 "text_size": 100,
@@ -1365,7 +1371,7 @@
             "1525912530555-1": {
               "type": "advanced",
               "settings": {
-                "cta_link1": "shopify:\/\/collections\/all",
+                "cta_link1": "shopify://collections/all",
                 "width": "50",
                 "height": 500,
                 "text_size": 100,
@@ -1393,7 +1399,7 @@
             "1526403837307": {
               "type": "banner",
               "settings": {
-                "link": "shopify:\/\/collections\/all",
+                "link": "shopify://collections/all",
                 "label": "Shop now",
                 "color_tint": "#e95454",
                 "color_tint_opacity": 10,
@@ -1403,7 +1409,7 @@
             "1526496043079": {
               "type": "advanced",
               "settings": {
-                "cta_link1": "shopify:\/\/collections\/all",
+                "cta_link1": "shopify://collections/all",
                 "width": "100",
                 "height": 500,
                 "text_size": 120,
@@ -1500,10 +1506,10 @@
       "cart_type": "drawer",
       "cart_notes_enable": false,
       "cart_terms_conditions_enable": false,
-      "social_facebook_link": "https:\/\/www.facebook.com\/shopify",
-      "social_twitter_link": "https:\/\/twitter.com\/shopify",
-      "social_instagram_link": "https:\/\/instagram.com\/shopify",
-      "social_youtube_link": "https:\/\/www.youtube.com\/user\/shopify",
+      "social_facebook_link": "https://www.facebook.com/shopify",
+      "social_twitter_link": "https://twitter.com/shopify",
+      "social_instagram_link": "https://instagram.com/shopify",
+      "social_youtube_link": "https://www.youtube.com/user/shopify",
       "share_facebook": true,
       "share_twitter": true,
       "share_pinterest": true,
@@ -1530,7 +1536,7 @@
               "settings": {
                 "text": "Free shipping",
                 "link_text": "On all orders over $100",
-                "link": "shopify:\/\/collections\/all"
+                "link": "shopify://collections/all"
               }
             },
             "1520888647304": {
@@ -1538,7 +1544,7 @@
               "settings": {
                 "text": "Hassle-free returns",
                 "link_text": "30-day postage paid returns",
-                "link": "shopify:\/\/collections\/all"
+                "link": "shopify://collections/all"
               }
             }
           },
@@ -1640,7 +1646,7 @@
         "1499790633921": {
           "type": "background-image-text",
           "settings": {
-            "button_link": "shopify:\/\/collections\/all",
+            "button_link": "shopify://collections/all",
             "focal_point": "center",
             "color_border": "#6a635b",
             "layout": "right",
@@ -1863,7 +1869,7 @@
         "1524685456938": {
           "type": "background-image-text",
           "settings": {
-            "button_link": "shopify:\/\/collections\/all",
+            "button_link": "shopify://collections/all",
             "focal_point": "center",
             "color_border": "#655147",
             "layout": "right",
@@ -1925,7 +1931,7 @@
             "1525879359021": {
               "type": "advanced",
               "settings": {
-                "cta_link1": "shopify:\/\/collections\/all",
+                "cta_link1": "shopify://collections/all",
                 "width": "100",
                 "height": 500,
                 "text_size": 120,
@@ -1952,7 +1958,7 @@
             "1525881312850": {
               "type": "banner",
               "settings": {
-                "link": "shopify:\/\/collections\/all",
+                "link": "shopify://collections/all",
                 "label": "Learn more",
                 "color_tint": "#d69344",
                 "color_tint_opacity": 14,
@@ -2047,7 +2053,7 @@
               "type": "banner",
               "settings": {
                 "heading": "Free shipping",
-                "link": "shopify:\/\/collections\/all",
+                "link": "shopify://collections/all",
                 "label": "Learn more",
                 "color_tint": "#d69344",
                 "color_tint_opacity": 14,
@@ -2154,9 +2160,9 @@
       "collection_grid_opacity": 10,
       "collection_grid_gutter": true,
       "cart_type": "drawer",
-      "social_facebook_link": "https:\/\/www.facebook.com\/shopify",
-      "social_twitter_link": "https:\/\/twitter.com\/shopify",
-      "social_youtube_link": "https:\/\/www.youtube.com\/user\/shopify",
+      "social_facebook_link": "https://www.facebook.com/shopify",
+      "social_twitter_link": "https://twitter.com/shopify",
+      "social_youtube_link": "https://www.youtube.com/user/shopify",
       "share_facebook": true,
       "share_twitter": true,
       "share_pinterest": true,
@@ -2280,7 +2286,7 @@
         "1499790633921": {
           "type": "background-image-text",
           "settings": {
-            "button_link": "shopify:\/\/collections\/all",
+            "button_link": "shopify://collections/all",
             "focal_point": "center",
             "color_border": "#090909",
             "layout": "right",
@@ -2295,7 +2301,7 @@
             "product-background-image-text": {
               "type": "background-image-text",
               "settings": {
-                "button_link": "shopify:\/\/collections\/all",
+                "button_link": "shopify://collections/all",
                 "alignment": "top left",
                 "color_border": "#3a6815",
                 "layout": "right",
@@ -2372,7 +2378,7 @@
             "1524768368258-0": {
               "type": "image",
               "settings": {
-                "link": "shopify:\/\/collections\/all",
+                "link": "shopify://collections/all",
                 "link_text": "Shop all",
                 "text_align": "vertical-center horizontal-left",
                 "focal_point": "top center"
@@ -2527,7 +2533,7 @@
             "1526501090474": {
               "type": "advanced",
               "settings": {
-                "cta_link1": "shopify:\/\/collections\/all",
+                "cta_link1": "shopify://collections/all",
                 "width": "50",
                 "height": 400,
                 "text_size": 120,
@@ -2567,7 +2573,7 @@
         "1526480838446": {
           "type": "background-image-text",
           "settings": {
-            "button_link": "shopify:\/\/collections\/all",
+            "button_link": "shopify://collections/all",
             "focal_point": "center",
             "color_border": "#f4f4f4",
             "layout": "left",
