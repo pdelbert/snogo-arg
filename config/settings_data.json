@@ -101,13 +101,12 @@
       "header": {
         "type": "header",
         "blocks": {
-          "1524770014057": {
+          "logo_VfjKcC": {
             "type": "logo",
             "settings": {
-              "logo": "shopify://shop_images/capitan_tostadas.jpg",
-              "logo-inverted": "shopify://shop_images/capitan_tostadas.jpg",
-              "desktop_logo_width": 100,
-              "mobile_logo_width": 110
+              "logo": "shopify://shop_images/SNO-GO_full_logo_white.png",
+              "desktop_logo_width": 200,
+              "mobile_logo_width": 140
             }
           },
           "1524770292306": {
@@ -128,7 +127,7 @@
           }
         },
         "block_order": [
-          "1524770014057",
+          "logo_VfjKcC",
           "1524770292306",
           "1524770296206"
         ],
