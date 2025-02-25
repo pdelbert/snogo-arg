@@ -839,10 +839,44 @@
           "feed_width": 90,
           "html_area": ""
         }
+      },
+      "slideshow_KaXKfq": {
+        "type": "slideshow",
+        "blocks": {
+          "image_Trb4qz": {
+            "type": "image",
+            "settings": {
+              "top_subheading": "",
+              "title": "Endless\npossibilities.",
+              "title_size": 80,
+              "subheading": "Bring your brand to life",
+              "link": "",
+              "link_text": "Optional button",
+              "link_2": "",
+              "link_text_2": "",
+              "color_accent": "rgba(0,0,0,0)",
+              "text_align": "vertical-center horizontal-center",
+              "image": "shopify://shop_images/banner-2_01.png",
+              "focal_point": "center center"
+            }
+          }
+        },
+        "block_order": [
+          "image_Trb4qz"
+        ],
+        "settings": {
+          "section_height": "650px",
+          "mobile_height": "auto",
+          "parallax": true,
+          "style": "minimal",
+          "autoplay": true,
+          "autoplay_speed": 5
+        }
       }
     },
     "content_for_index": [
       "1524769873765",
+      "slideshow_KaXKfq",
       "1498163293234",
       "1525912530555",
       "1499789718857",
