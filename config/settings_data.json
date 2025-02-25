@@ -989,6 +989,23 @@
           "full_width": true,
           "space_around": false
         }
+      },
+      "background_image_text_eAhabD": {
+        "type": "background-image-text",
+        "settings": {
+          "subtitle": "Impressive",
+          "title": "Large image with text box",
+          "text": "<p>Pair large text with a full-width image to draw attention to an important detail of your brand or product line.</p>",
+          "button_label": "asdfadsf",
+          "button_link": "",
+          "image": "shopify://shop_images/4T0A6492.jpg",
+          "focal_point": "center",
+          "color_border": "#ff6565",
+          "layout": "right",
+          "height": 550,
+          "framed": false,
+          "parallax": true
+        }
       }
     },
     "content_for_index": [
@@ -999,6 +1016,7 @@
       "1525912530555",
       "1499789718857",
       "1525295772132",
+      "background_image_text_eAhabD",
       "1525886124958",
       "1611170395dc5e4332",
       "1613155067bae53f29",
