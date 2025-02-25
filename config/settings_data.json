@@ -418,7 +418,7 @@
       "newsletter-popup": {
         "type": "newsletter-popup",
         "settings": {
-          "mode": "enabled",
+          "mode": "disabled",
           "popup_seconds": 5,
           "popup_days": 2,
           "popup_title": "Sign up and save 15%!",
@@ -476,7 +476,7 @@
           "section_height": "750px",
           "mobile_height": "auto",
           "parallax": true,
-          "style": "bars",
+          "style": "minimal",
           "autoplay": true,
           "autoplay_speed": 9
         }
@@ -848,16 +848,16 @@
             "settings": {
               "top_subheading": "",
               "title": "Endless\npossibilities.",
-              "title_size": 80,
+              "title_size": 52,
               "subheading": "Bring your brand to life",
               "link": "",
               "link_text": "Optional button",
               "link_2": "",
               "link_text_2": "",
-              "color_accent": "rgba(0,0,0,0)",
-              "text_align": "vertical-center horizontal-center",
+              "color_accent": "#000000",
+              "text_align": "vertical-bottom horizontal-left",
               "image": "shopify://shop_images/banner-2_01.png",
-              "focal_point": "center center"
+              "focal_point": "bottom center"
             }
           }
         },
