@@ -457,7 +457,7 @@
               "link_2": "shopify://collections/all",
               "link_text_2": "Charities we love ♡",
               "color_accent": "#000000",
-              "text_align": "vertical-bottom horizontal-left",
+              "text_align": "vertical-center horizontal-center",
               "image": "shopify://shop_images/person-stands-on-rocks-poking-out-of-the-ocean-shoreline.jpg",
               "focal_point": "center center"
             }
@@ -968,10 +968,32 @@
           "logo_opacity": 100,
           "divider": false
         }
+      },
+      "advanced_content_wn3zCd": {
+        "type": "advanced-content",
+        "blocks": {
+          "image_ika3Cm": {
+            "type": "image",
+            "settings": {
+              "image": "shopify://shop_images/banner-2_01.jpg",
+              "link": "",
+              "width": "100%",
+              "alignment": "center"
+            }
+          }
+        },
+        "block_order": [
+          "image_ika3Cm"
+        ],
+        "settings": {
+          "full_width": true,
+          "space_around": true
+        }
       }
     },
     "content_for_index": [
       "1524769873765",
+      "advanced_content_wn3zCd",
       "slideshow_KaXKfq",
       "1498163293234",
       "1525912530555",
