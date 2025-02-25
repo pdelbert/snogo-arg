@@ -2807,5 +2807,10 @@
         "1526481405629"
       ]
     }
+  },
+  "platform_customizations": {
+    "custom_css": [
+      ".animation-cropper {width: 50%;}"
+    ]
   }
 }
