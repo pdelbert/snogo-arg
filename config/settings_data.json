@@ -14,7 +14,7 @@
     "color_price": "#d1ba98",
     "color_savings_text": "#ff6565",
     "color_borders": "#2b2a27",
-    "color_button": "#9f8561",
+    "color_button": "#c14144",
     "color_button_text": "#ffffff",
     "color_sale_tag": "#990000",
     "color_cart_dot": "#9f8561",
@@ -993,18 +993,18 @@
       "background_image_text_eAhabD": {
         "type": "background-image-text",
         "settings": {
-          "subtitle": "Impressive",
-          "title": "Large image with text box",
-          "text": "<p>Pair large text with a full-width image to draw attention to an important detail of your brand or product line.</p>",
-          "button_label": "asdfadsf",
-          "button_link": "",
+          "subtitle": "RESORT AND RENTAL LOCATIONS",
+          "title": "WHERE CAN I RIDE MY SNO-GO ski bike?",
+          "text": "<p>There are plenty of options especially in Colorado and Utah. SNO-GO ski bikes are <strong>allowed at more than half of the ski resorts in North America </strong>with many more destinations being added every season. If you have a disability, SNO-GO bikes are welcome everywhere as adaptive ski equipment.</p><p>Renting from one of our Authorized rental dealers<strong>is a great way to start riding.</strong></p>",
+          "button_label": "WHERE TO RIDE",
+          "button_link": "shopify://collections/all",
           "image": "shopify://shop_images/4T0A6492.jpg",
           "focal_point": "center",
           "color_border": "#ff6565",
           "layout": "right",
-          "height": 550,
+          "height": 750,
           "framed": false,
-          "parallax": true
+          "parallax": false
         }
       }
     },
