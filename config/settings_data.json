@@ -883,6 +883,79 @@
           "autoplay": true,
           "autoplay_speed": 5
         }
+      },
+      "slideshow_CkibVL": {
+        "type": "slideshow",
+        "blocks": {
+          "image_incaDt": {
+            "type": "image",
+            "settings": {
+              "top_subheading": "",
+              "title": "Endless\npossibilities.",
+              "title_size": 80,
+              "subheading": "Bring your brand to life",
+              "link": "",
+              "link_text": "Optional button",
+              "link_2": "",
+              "link_text_2": "",
+              "color_accent": "rgba(0,0,0,0)",
+              "text_align": "vertical-center horizontal-center",
+              "image": "shopify://shop_images/banner-2_01.jpg",
+              "focal_point": "center center"
+            }
+          }
+        },
+        "block_order": [
+          "image_incaDt"
+        ],
+        "settings": {
+          "section_height": "650px",
+          "mobile_height": "auto",
+          "parallax": true,
+          "style": "minimal",
+          "autoplay": true,
+          "autoplay_speed": 5
+        }
+      },
+      "logo_list_CazYM6": {
+        "type": "logo-list",
+        "blocks": {
+          "logo_image_6GeyPp": {
+            "type": "logo_image",
+            "settings": {
+              "link": ""
+            }
+          },
+          "logo_image_JVM4gy": {
+            "type": "logo_image",
+            "settings": {
+              "link": ""
+            }
+          },
+          "logo_image_wRemeJ": {
+            "type": "logo_image",
+            "settings": {
+              "link": ""
+            }
+          },
+          "logo_image_rdwqEy": {
+            "type": "logo_image",
+            "settings": {
+              "link": ""
+            }
+          }
+        },
+        "block_order": [
+          "logo_image_6GeyPp",
+          "logo_image_JVM4gy",
+          "logo_image_wRemeJ",
+          "logo_image_rdwqEy"
+        ],
+        "settings": {
+          "title": "",
+          "logo_opacity": 100,
+          "divider": false
+        }
       }
     },
     "content_for_index": [
@@ -898,7 +971,9 @@
       "1499790633921",
       "16111386568c2d3def",
       "1525115199973",
-      "1525118065355"
+      "1525118065355",
+      "logo_list_CazYM6",
+      "slideshow_CkibVL"
     ]
   },
   "presets": {
