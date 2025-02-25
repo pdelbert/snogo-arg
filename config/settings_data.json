@@ -70,6 +70,7 @@
     "product_hover_image": false,
     "product_color_swatches": false,
     "collection_color_swatches": false,
+    "swatch_style": "round",
     "product_content_collapse_1": false,
     "product_content_collapse_2": true,
     "product_content_collapse_3": true,
@@ -106,7 +107,7 @@
     "checkout_heading_font": "Helvetica Neue",
     "checkout_body_font": "Helvetica Neue",
     "checkout_accent_color": "#ae9878",
-    "checkout_button_color": "#ae9878",
+    "checkout_button_color": "#c14144",
     "checkout_error_color": "#ff6d6d",
     "breadcrumb": true,
     "sections": {
