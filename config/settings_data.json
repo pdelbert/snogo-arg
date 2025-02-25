@@ -184,7 +184,7 @@
           "show_locale_selector": true,
           "show_currency_selector": true,
           "show_currency_flags": true,
-          "show_payment_icons": true,
+          "show_payment_icons": false,
           "show_copyright": true,
           "copyright_text": ""
         }
@@ -447,7 +447,7 @@
               "color_accent": "#000000",
               "text_align": "vertical-bottom horizontal-left",
               "image": "shopify://shop_images/banner-01_01.png",
-              "focal_point": "top center"
+              "focal_point": "center center"
             }
           },
           "1524769873765-1": {
@@ -455,7 +455,7 @@
             "settings": {
               "top_subheading": "",
               "title": "New cute tops, \nmore fun accessories.",
-              "title_size": 80,
+              "title_size": 58,
               "subheading": "Even better sales. Limited time only.",
               "link": "shopify://collections/blouses-tops",
               "link_text": "Shop Tops",
@@ -743,6 +743,16 @@
               "button_link": ""
             }
           },
+          "promotion_mj3tG9": {
+            "type": "promotion",
+            "settings": {
+              "enable_image": true,
+              "title": "Site-wide promotion",
+              "text": "<p>Use this section to promote content throughout every page of your site. Add images for further impact.</p>",
+              "button_label": "Optional button",
+              "button_link": ""
+            }
+          },
           "3abf7455-cb1f-47ec-b93b-8dea62d40520": {
             "type": "promotion",
             "settings": {
@@ -756,6 +766,7 @@
         },
         "block_order": [
           "footer-promotions-2",
+          "promotion_mj3tG9",
           "3abf7455-cb1f-47ec-b93b-8dea62d40520"
         ],
         "settings": {
@@ -856,7 +867,7 @@
               "link_text_2": "",
               "color_accent": "#000000",
               "text_align": "vertical-bottom horizontal-left",
-              "image": "shopify://shop_images/banner-2_01.png",
+              "image": "shopify://shop_images/banner-2_01.jpg",
               "focal_point": "bottom center"
             }
           }
