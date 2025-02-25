@@ -987,7 +987,7 @@
         ],
         "settings": {
           "full_width": true,
-          "space_around": true
+          "space_around": false
         }
       }
     },
