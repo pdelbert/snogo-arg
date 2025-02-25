@@ -2811,7 +2811,8 @@
   "platform_customizations": {
     "custom_css": [
       ".animation-cropper {width: 50%;}",
-      ".background-media-text__aligner {margin: 0px;}"
+      ".background-media-text__aligner {margin: 0px;}",
+      ".animation-cropper .animation-contents .background-media-text__text{padding: 50px;}"
     ]
   }
 }
