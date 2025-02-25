@@ -9,7 +9,7 @@
  */
 {
   "current": {
-    "color_body_bg": "#303030",
+    "color_body_bg": "#ffffff",
     "color_body_text": "#ffffff",
     "color_price": "#d1ba98",
     "color_savings_text": "#ff6565",
@@ -95,7 +95,8 @@
     "share_twitter": true,
     "share_pinterest": true,
     "favicon": "shopify://shop_images/imageedit_9_9978243905.png",
-    "search_enable": false,
+    "search_enable": true,
+    "show_breadcrumbs": false,
     "checkout_logo_image": "shopify://shop_images/imageedit_9_9978243905.png",
     "checkout_logo_position": "left",
     "checkout_logo_size": "small",
