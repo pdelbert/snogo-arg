@@ -445,23 +445,6 @@
       "1524769873765": {
         "type": "slideshow",
         "blocks": {
-          "1524769873765-0": {
-            "type": "image",
-            "settings": {
-              "top_subheading": "",
-              "title": "15% of All Swimwear\nSales are donated",
-              "title_size": 80,
-              "subheading": "Learn more about the charities we work with.",
-              "link": "shopify://collections/swim",
-              "link_text": "Shop Swim",
-              "link_2": "shopify://collections/all",
-              "link_text_2": "Charities we love ♡",
-              "color_accent": "#000000",
-              "text_align": "vertical-center horizontal-center",
-              "image": "shopify://shop_images/person-stands-on-rocks-poking-out-of-the-ocean-shoreline.jpg",
-              "focal_point": "center center"
-            }
-          },
           "1524769873765-1": {
             "type": "image",
             "settings": {
@@ -478,11 +461,28 @@
               "image": "shopify://shop_images/banner-01_02.png",
               "focal_point": "center center"
             }
+          },
+          "1524769873765-0": {
+            "type": "image",
+            "settings": {
+              "top_subheading": "",
+              "title": "15% of All Swimwear\nSales are donated",
+              "title_size": 80,
+              "subheading": "Learn more about the charities we work with.",
+              "link": "shopify://collections/swim",
+              "link_text": "Shop Swim",
+              "link_2": "shopify://collections/all",
+              "link_text_2": "Charities we love ♡",
+              "color_accent": "#000000",
+              "text_align": "vertical-center horizontal-center",
+              "image": "shopify://shop_images/person-stands-on-rocks-poking-out-of-the-ocean-shoreline.jpg",
+              "focal_point": "center center"
+            }
           }
         },
         "block_order": [
-          "1524769873765-0",
-          "1524769873765-1"
+          "1524769873765-1",
+          "1524769873765-0"
         ],
         "settings": {
           "section_height": "750px",
