@@ -2813,7 +2813,8 @@
       ".animation-cropper {width: 50%;}",
       ".background-media-text__aligner {margin: 0px;}",
       ".animation-cropper .animation-contents .background-media-text__text {padding: 50px;}",
-      ".background-media-text__text .btn {margin-bottom: -109px;}"
+      ".background-media-text__text .btn {margin-bottom: -109px;}",
+      ".animation-cropper {overflow: visible;}"
     ]
   }
 }
