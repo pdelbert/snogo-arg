@@ -1017,7 +1017,7 @@
             "settings": {
               "enable_image": true,
               "image": "shopify://shop_images/logo-01.jpg",
-              "image_width": 650,
+              "image_width": 160,
               "title": "",
               "text": "<h1>FREE SHIPPING</h1><h1>FOR BIKE</h1><h1>ORDERS</h1>",
               "button_label": "",
@@ -1029,7 +1029,7 @@
             "settings": {
               "enable_image": true,
               "image": "shopify://shop_images/logo-01.jpg",
-              "image_width": 650,
+              "image_width": 160,
               "title": "",
               "text": "<h1>RIDE NOW. PAY</h1><h1>LATER.</h1>",
               "button_label": "",
