@@ -467,7 +467,7 @@
               "link_text": "TEST DRIVE ONE DAY",
               "link_2": "shopify://collections/all",
               "link_text_2": "",
-              "color_accent": "#000000",
+              "color_accent": "rgba(0,0,0,0)",
               "text_align": "vertical-center horizontal-center",
               "image": "shopify://shop_images/banner-01_01.png",
               "focal_point": "center center"
