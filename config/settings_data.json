@@ -933,7 +933,7 @@
         "settings": {
           "title": "",
           "logo_opacity": 68,
-          "divider": true
+          "divider": false
         }
       },
       "background_image_text_pFQrtG": {
