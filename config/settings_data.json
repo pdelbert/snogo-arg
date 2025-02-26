@@ -258,9 +258,20 @@
       },
       "1498163293234": {
         "type": "featured-content",
+        "blocks": {
+          "page_HLm3qV": {
+            "type": "page",
+            "settings": {
+              "home_page_content": "contact"
+            }
+          }
+        },
+        "block_order": [
+          "page_HLm3qV"
+        ],
         "settings": {
           "title": "",
-          "text": "<p>AFX is a worldwide fashion brand encouraging independent, powerful, and loving women who thrive from helping others and giving back... because the best way <a href=\"/pages/charities\" title=\"Giving Back\" target=\"_blank\"><strong>to get</strong>, <em>is to give</em></a>. ♡ </p>",
+          "text": "<p>BEST SELLING BIKES</p>",
           "align_text": "center",
           "narrow_column": true,
           "enlarge_text": true,
@@ -618,43 +629,45 @@
           "1525912530555-0": {
             "type": "advanced",
             "settings": {
-              "subheading": "Limited time",
-              "heading": "promotion",
-              "textarea": "All jewelry items on sale!",
+              "subheading": "",
+              "heading": "",
+              "textarea": "",
               "cta_text1": "Shop This",
               "cta_link1": "shopify://collections/jewelry",
-              "cta_text2": "Shop All",
+              "cta_text2": "",
               "cta_link2": "https://afx.life/collections/all",
+              "image": "shopify://shop_images/Shift_Hero_Trans_RF.png",
               "video_url": "",
               "width": "50",
               "height": 800,
               "text_size": 100,
-              "text_align": "vertical-center horizontal-center",
+              "text_align": "vertical-bottom horizontal-center",
               "focal_point": "center",
-              "color_accent": "rgba(0,0,0,0)",
+              "color_accent": "#c14144",
               "boxed": false,
-              "framed": true
+              "framed": false
             }
           },
           "1525912530555-1": {
             "type": "advanced",
             "settings": {
-              "subheading": "Limited time",
-              "heading": "promotion",
-              "textarea": "All beauty items on sale!",
+              "subheading": "",
+              "heading": "",
+              "textarea": "",
               "cta_text1": "Shop This",
               "cta_link1": "shopify://collections/self-care",
-              "cta_text2": "Shop All",
+              "cta_text2": "",
               "cta_link2": "https://afx.life/collections/all",
+              "image": "shopify://shop_images/Shifted_Hero_Trans_DM.png",
               "video_url": "",
               "width": "50",
-              "height": 500,
+              "height": 800,
               "text_size": 100,
               "text_align": "vertical-bottom horizontal-center",
               "focal_point": "80% 50%",
-              "color_accent": "rgba(0,0,0,0)",
+              "color_accent": "#c14144",
               "boxed": true,
-              "framed": true
+              "framed": false
             }
           }
         },
@@ -664,7 +677,7 @@
         ],
         "settings": {
           "full_width": true,
-          "gutter_size": 20,
+          "gutter_size": 40,
           "space_above": false,
           "space_below": false
         }
