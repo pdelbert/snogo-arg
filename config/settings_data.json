@@ -257,28 +257,6 @@
           "social_sharing_blog": true
         }
       },
-      "1498163293234": {
-        "type": "featured-content",
-        "blocks": {
-          "page_HLm3qV": {
-            "type": "page",
-            "settings": {
-              "home_page_content": "contact"
-            }
-          }
-        },
-        "block_order": [
-          "page_HLm3qV"
-        ],
-        "settings": {
-          "title": "",
-          "text": "<p>BEST SELLING BIKES</p>",
-          "align_text": "center",
-          "narrow_column": true,
-          "enlarge_text": true,
-          "divider": false
-        }
-      },
       "blog-template": {
         "type": "blog-template",
         "settings": {
@@ -289,56 +267,6 @@
           "blog_show_comments": true,
           "blog_show_author": false,
           "blog_image_size": "wide"
-        }
-      },
-      "1499789718857": {
-        "type": "featured-collections",
-        "blocks": {
-          "1499789718857-0": {
-            "type": "collection",
-            "settings": {
-              "collection": "activewear",
-              "title": "",
-              "focal_point": "center center"
-            }
-          },
-          "1499789718857-1": {
-            "type": "collection",
-            "settings": {
-              "collection": "self-care",
-              "title": "",
-              "focal_point": "center center"
-            }
-          },
-          "1499789718857-2": {
-            "type": "collection",
-            "settings": {
-              "collection": "bags",
-              "title": "",
-              "focal_point": "center center"
-            }
-          },
-          "1499789718857-3": {
-            "type": "collection",
-            "settings": {
-              "collection": "dresses",
-              "title": "",
-              "focal_point": "center center"
-            }
-          }
-        },
-        "block_order": [
-          "1499789718857-0",
-          "1499789718857-1",
-          "1499789718857-2",
-          "1499789718857-3"
-        ],
-        "disabled": true,
-        "settings": {
-          "title": "Shop by category",
-          "divider": false,
-          "per_row": 4,
-          "enable_gutter": true
         }
       },
       "product-sections-template": {
@@ -546,19 +474,6 @@
           "enable_sort": true
         }
       },
-      "1525295772132": {
-        "type": "featured-collection",
-        "disabled": true,
-        "settings": {
-          "title": "Featured collection",
-          "home_featured_products": "shifted",
-          "per_row": 5,
-          "rows": 4,
-          "mobile_scrollable": true,
-          "view_all": true,
-          "divider": true
-        }
-      },
       "1525886124958": {
         "type": "promo-grid",
         "blocks": {
@@ -621,65 +536,6 @@
           "full_width": false,
           "gutter_size": 19,
           "space_above": true,
-          "space_below": false
-        }
-      },
-      "1525912530555": {
-        "type": "promo-grid",
-        "blocks": {
-          "1525912530555-0": {
-            "type": "advanced",
-            "settings": {
-              "subheading": "",
-              "heading": "",
-              "textarea": "",
-              "cta_text1": "NEW LOWER PRICE",
-              "cta_link1": "shopify://collections/jewelry",
-              "cta_text2": "",
-              "cta_link2": "https://afx.life/collections/all",
-              "image": "shopify://shop_images/Shift_Hero_Trans_RF.png",
-              "video_url": "",
-              "width": "50",
-              "height": 800,
-              "text_size": 100,
-              "text_align": "vertical-top horizontal-right",
-              "focal_point": "center",
-              "color_accent": "#c14144",
-              "boxed": false,
-              "framed": false
-            }
-          },
-          "1525912530555-1": {
-            "type": "advanced",
-            "settings": {
-              "subheading": "",
-              "heading": "",
-              "textarea": "",
-              "cta_text1": "SOLD OUT",
-              "cta_link1": "shopify://collections/self-care",
-              "cta_text2": "",
-              "cta_link2": "https://afx.life/collections/all",
-              "image": "shopify://shop_images/Shifted_Hero_Trans_DM.png",
-              "video_url": "",
-              "width": "50",
-              "height": 800,
-              "text_size": 200,
-              "text_align": "vertical-top horizontal-right",
-              "focal_point": "80% 50%",
-              "color_accent": "rgba(0,0,0,0)",
-              "boxed": false,
-              "framed": false
-            }
-          }
-        },
-        "block_order": [
-          "1525912530555-0",
-          "1525912530555-1"
-        ],
-        "settings": {
-          "full_width": true,
-          "gutter_size": 40,
-          "space_above": false,
           "space_below": false
         }
       },
@@ -1096,12 +952,6 @@
           "parallax": false
         }
       },
-      "judgeme_carousel_section_A8UJWR": {
-        "type": "judgeme_carousel_section",
-        "settings": {
-          "maxwidth": 1080
-        }
-      },
       "slideshow_YmnD9t": {
         "type": "slideshow",
         "blocks": {
@@ -1141,10 +991,10 @@
           "title": "BEST SELLING BIKES",
           "home_featured_products": "shifted",
           "per_row": 2,
-          "rows": 2,
+          "rows": 1,
           "mobile_scrollable": true,
           "view_all": false,
-          "divider": false
+          "divider": true
         }
       }
     },
@@ -1157,11 +1007,6 @@
       "logo_list_tDXAKd",
       "slideshow_YmnD9t",
       "background_image_text_pFQrtG",
-      "judgeme_carousel_section_A8UJWR",
-      "1498163293234",
-      "1525912530555",
-      "1499789718857",
-      "1525295772132",
       "featured_collection_9jqqUU",
       "background_image_text_eAhabD",
       "1525886124958",
