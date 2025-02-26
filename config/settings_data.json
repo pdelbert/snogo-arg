@@ -909,11 +909,28 @@
               "text_align": "vertical-center horizontal-center",
               "focal_point": "center center"
             }
+          },
+          "image_Kh4cyL": {
+            "type": "image",
+            "settings": {
+              "top_subheading": "",
+              "title": "Two line\ntitle slide.",
+              "title_size": 80,
+              "subheading": "And optional subtext",
+              "link": "",
+              "link_text": "Optional button",
+              "link_2": "",
+              "link_text_2": "",
+              "color_accent": "rgba(0,0,0,0)",
+              "text_align": "vertical-center horizontal-center",
+              "focal_point": "center center"
+            }
           }
         },
         "block_order": [
           "image_Trb4qz",
-          "image_CxzLjg"
+          "image_CxzLjg",
+          "image_Kh4cyL"
         ],
         "settings": {
           "section_height": "750px",
@@ -1046,12 +1063,46 @@
           "autoplay": true,
           "autoplay_speed": 5
         }
+      },
+      "slideshow_FRrGY3": {
+        "type": "slideshow",
+        "blocks": {
+          "image_CBEGYA": {
+            "type": "image",
+            "settings": {
+              "top_subheading": "",
+              "title": "",
+              "title_size": 80,
+              "subheading": "",
+              "link": "",
+              "link_text": "LEARN MORE",
+              "link_2": "",
+              "link_text_2": "",
+              "color_accent": "#ffffff",
+              "text_align": "vertical-bottom horizontal-center",
+              "image": "shopify://shop_images/home-section-04.jpg",
+              "focal_point": "center center"
+            }
+          }
+        },
+        "block_order": [
+          "image_CBEGYA"
+        ],
+        "settings": {
+          "section_height": "100vh",
+          "mobile_height": "auto",
+          "parallax": false,
+          "style": "minimal",
+          "autoplay": true,
+          "autoplay_speed": 5
+        }
       }
     },
     "content_for_index": [
       "1524769873765",
       "slideshow_KaXKfq",
       "slideshow_JUbDnw",
+      "slideshow_FRrGY3",
       "1498163293234",
       "1525912530555",
       "1499789718857",
