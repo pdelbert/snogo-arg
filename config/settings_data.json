@@ -654,7 +654,7 @@
               "subheading": "",
               "heading": "",
               "textarea": "",
-              "cta_text1": "Shop This",
+              "cta_text1": "SOLD OUT",
               "cta_link1": "shopify://collections/self-care",
               "cta_text2": "",
               "cta_link2": "https://afx.life/collections/all",
@@ -662,11 +662,11 @@
               "video_url": "",
               "width": "50",
               "height": 800,
-              "text_size": 100,
-              "text_align": "vertical-bottom horizontal-center",
+              "text_size": 200,
+              "text_align": "vertical-top horizontal-right",
               "focal_point": "80% 50%",
-              "color_accent": "#c14144",
-              "boxed": true,
+              "color_accent": "rgba(0,0,0,0)",
+              "boxed": false,
               "framed": false
             }
           }
