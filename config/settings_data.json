@@ -320,23 +320,6 @@
           "enable_gutter": true
         }
       },
-      "1499790633921": {
-        "type": "background-image-text",
-        "disabled": true,
-        "settings": {
-          "subtitle": "Impressive",
-          "title": "Large image with text box",
-          "text": "<p>Pair large text with a full-width image to draw attention to an important detail of your brand or product line.</p>",
-          "button_label": "",
-          "button_link": "shopify://collections/all",
-          "focal_point": "80% 0",
-          "color_border": "#cdb8ac",
-          "layout": "left",
-          "height": 750,
-          "framed": true,
-          "parallax": true
-        }
-      },
       "product-sections-template": {
         "type": "product-sections-template",
         "blocks": {
@@ -540,34 +523,6 @@
           "filter_style": "drawer",
           "tags_combine": false,
           "enable_sort": true
-        }
-      },
-      "1525115199973": {
-        "type": "blog-posts",
-        "disabled": true,
-        "settings": {
-          "title": "From the journal",
-          "blog": "news",
-          "post_limit": 3,
-          "blog_show_tags": false,
-          "blog_show_date": true,
-          "blog_show_comments": false,
-          "blog_show_author": false,
-          "view_all": true,
-          "blog_image_size": "wide",
-          "divider": false
-        }
-      },
-      "1525118065355": {
-        "type": "map",
-        "disabled": true,
-        "settings": {
-          "map_title": "Our retail store",
-          "address": "<p>301 Front St W<br/>Toronto, Canada</p><p>Mon - Fri, 8:30am - 10:30pm<br/>Saturday, 8:30am - 10:30pm<br/>Sunday, 8:30am - 10:30pm</p>",
-          "map_address": "301 Front St W, Toronto, ON M5V 2T6",
-          "api_key": "",
-          "show_button": true,
-          "background_image_position": "center center"
         }
       },
       "1525295772132": {
@@ -806,44 +761,6 @@
           "grid": "3"
         }
       },
-      "16111386568c2d3def": {
-        "type": "testimonials",
-        "blocks": {
-          "16111386568c2d3def-0": {
-            "type": "testimonial",
-            "settings": {
-              "testimonial": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.</p>",
-              "author": "Author's name"
-            }
-          },
-          "16111386568c2d3def-1": {
-            "type": "testimonial",
-            "settings": {
-              "testimonial": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.</p>",
-              "author": "Author's name"
-            }
-          },
-          "16111386568c2d3def-2": {
-            "type": "testimonial",
-            "settings": {
-              "testimonial": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.</p>",
-              "author": "Author's name"
-            }
-          }
-        },
-        "block_order": [
-          "16111386568c2d3def-0",
-          "16111386568c2d3def-1",
-          "16111386568c2d3def-2"
-        ],
-        "disabled": true,
-        "settings": {
-          "title": "Testimonials",
-          "align_text": "left",
-          "round_images": false,
-          "divider": false
-        }
-      },
       "product-recommendations": {
         "type": "product-recommendations",
         "settings": {
@@ -857,21 +774,6 @@
         "settings": {
           "show_section": true,
           "recent_count": 5
-        }
-      },
-      "1611170395dc5e4332": {
-        "type": "judgeme_carousel_section",
-        "settings": {
-          "maxwidth": 1720
-        }
-      },
-      "1613155067bae53f29": {
-        "type": "instafeed",
-        "settings": {
-          "heading_font": "helvetica_n4",
-          "heading_size": 10,
-          "feed_width": 90,
-          "html_area": ""
         }
       },
       "slideshow_KaXKfq": {
@@ -1208,8 +1110,31 @@
         ],
         "settings": {
           "title": "",
-          "logo_opacity": 76,
+          "logo_opacity": 68,
           "divider": true
+        }
+      },
+      "background_image_text_pFQrtG": {
+        "type": "background-image-text",
+        "settings": {
+          "subtitle": "Impressive",
+          "title": "Large image with text box",
+          "text": "<p>Pair large text with a full-width image to draw attention to an important detail of your brand or product line.</p>",
+          "button_label": "asdf",
+          "button_link": "shopify://blogs/news",
+          "image": "shopify://shop_images/4T0A6492.jpg",
+          "focal_point": "center",
+          "color_border": "#f4f4f4",
+          "layout": "right",
+          "height": 550,
+          "framed": false,
+          "parallax": true
+        }
+      },
+      "judgeme_carousel_section_A8UJWR": {
+        "type": "judgeme_carousel_section",
+        "settings": {
+          "maxwidth": 1080
         }
       }
     },
@@ -1220,20 +1145,16 @@
       "slideshow_FRrGY3",
       "slideshow_Q4D7HE",
       "logo_list_tDXAKd",
+      "background_image_text_pFQrtG",
+      "judgeme_carousel_section_A8UJWR",
       "1498163293234",
       "1525912530555",
       "1499789718857",
       "1525295772132",
       "background_image_text_eAhabD",
       "1525886124958",
-      "1611170395dc5e4332",
-      "1613155067bae53f29",
-      "1499790633921",
-      "16111386568c2d3def",
-      "1525115199973",
-      "1525118065355",
-      "logo_list_CazYM6",
-      "slideshow_CkibVL"
+      "slideshow_CkibVL",
+      "logo_list_CazYM6"
     ]
   },
   "presets": {
