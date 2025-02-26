@@ -1141,7 +1141,7 @@
           "layout": "right",
           "height": 550,
           "framed": false,
-          "parallax": true
+          "parallax": false
         }
       },
       "judgeme_carousel_section_A8UJWR": {
