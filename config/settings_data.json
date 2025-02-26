@@ -882,7 +882,7 @@
               "color_accent": "#000000",
               "text_align": "vertical-bottom horizontal-left",
               "image": "shopify://shop_images/banner-2_01.jpg",
-              "focal_point": "bottom center"
+              "focal_point": "center center"
             }
           }
         },
