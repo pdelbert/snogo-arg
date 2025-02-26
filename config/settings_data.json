@@ -173,12 +173,20 @@
       "footer": {
         "type": "footer",
         "blocks": {
-          "1494301487049": {
+          "1494301487048": {
+            "type": "logo_social",
+            "settings": {
+              "logo": "shopify://shop_images/SNO-GO_full_logo_white.png",
+              "desktop_logo_height": 50,
+              "container_width": 30
+            }
+          },
+          "menu_KYDWA7": {
             "type": "menu",
             "settings": {
-              "show_footer_title": false,
+              "show_footer_title": true,
               "menu": "footer",
-              "container_width": 33
+              "container_width": 25
             }
           },
           "1494292487693": {
@@ -189,25 +197,18 @@
               "text": "<p>Subscribe to get special offers, free giveaways, and once-in-a-lifetime deals.</p>",
               "container_width": 33
             }
-          },
-          "1494301487048": {
-            "type": "logo_social",
-            "settings": {
-              "desktop_logo_height": 50,
-              "container_width": 95
-            }
           }
         },
         "block_order": [
-          "1494301487049",
-          "1494292487693",
-          "1494301487048"
+          "1494301487048",
+          "menu_KYDWA7",
+          "1494292487693"
         ],
         "settings": {
           "show_locale_selector": true,
           "show_currency_selector": true,
           "show_currency_flags": true,
-          "show_payment_icons": false,
+          "show_payment_icons": true,
           "show_copyright": true,
           "copyright_text": ""
         }
@@ -795,44 +796,10 @@
               "image": "shopify://shop_images/banner-2_01.jpg",
               "focal_point": "center center"
             }
-          },
-          "image_CxzLjg": {
-            "type": "image",
-            "settings": {
-              "top_subheading": "",
-              "title": "Two line\ntitle slide.",
-              "title_size": 80,
-              "subheading": "And optional subtext",
-              "link": "",
-              "link_text": "Optional button",
-              "link_2": "",
-              "link_text_2": "",
-              "color_accent": "rgba(0,0,0,0)",
-              "text_align": "vertical-center horizontal-center",
-              "focal_point": "center center"
-            }
-          },
-          "image_Kh4cyL": {
-            "type": "image",
-            "settings": {
-              "top_subheading": "",
-              "title": "Two line\ntitle slide.",
-              "title_size": 80,
-              "subheading": "And optional subtext",
-              "link": "",
-              "link_text": "Optional button",
-              "link_2": "",
-              "link_text_2": "",
-              "color_accent": "rgba(0,0,0,0)",
-              "text_align": "vertical-center horizontal-center",
-              "focal_point": "center center"
-            }
           }
         },
         "block_order": [
-          "image_Trb4qz",
-          "image_CxzLjg",
-          "image_Kh4cyL"
+          "image_Trb4qz"
         ],
         "settings": {
           "section_height": "750px",
@@ -874,46 +841,6 @@
           "style": "minimal",
           "autoplay": true,
           "autoplay_speed": 5
-        }
-      },
-      "logo_list_CazYM6": {
-        "type": "logo-list",
-        "blocks": {
-          "logo_image_6GeyPp": {
-            "type": "logo_image",
-            "settings": {
-              "link": ""
-            }
-          },
-          "logo_image_JVM4gy": {
-            "type": "logo_image",
-            "settings": {
-              "link": ""
-            }
-          },
-          "logo_image_wRemeJ": {
-            "type": "logo_image",
-            "settings": {
-              "link": ""
-            }
-          },
-          "logo_image_rdwqEy": {
-            "type": "logo_image",
-            "settings": {
-              "link": ""
-            }
-          }
-        },
-        "block_order": [
-          "logo_image_6GeyPp",
-          "logo_image_JVM4gy",
-          "logo_image_wRemeJ",
-          "logo_image_rdwqEy"
-        ],
-        "settings": {
-          "title": "",
-          "logo_opacity": 100,
-          "divider": false
         }
       },
       "background_image_text_eAhabD": {
@@ -1166,8 +1093,7 @@
       "1525295772132",
       "background_image_text_eAhabD",
       "1525886124958",
-      "slideshow_CkibVL",
-      "logo_list_CazYM6"
+      "slideshow_CkibVL"
     ]
   },
   "presets": {
