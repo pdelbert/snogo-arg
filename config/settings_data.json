@@ -1119,7 +1119,7 @@
           "logo_image_hx3CCj"
         ],
         "custom_css": [
-          ".logo-bar__item {flex: 0 0 160px;}"
+          ".logo-bar__item {flex: 0 0 260px;}"
         ],
         "settings": {
           "title": "",
