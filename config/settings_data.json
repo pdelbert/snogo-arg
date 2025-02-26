@@ -890,7 +890,7 @@
           "image_Trb4qz"
         ],
         "settings": {
-          "section_height": "100vh",
+          "section_height": "750px",
           "mobile_height": "auto",
           "parallax": false,
           "style": "minimal",
