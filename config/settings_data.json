@@ -968,7 +968,7 @@
               "link_2": "",
               "link_text_2": "",
               "color_accent": "#c14144",
-              "text_align": "vertical-center horizontal-center",
+              "text_align": "vertical-center horizontal-right",
               "image": "shopify://shop_images/home-section-06.jpg",
               "focal_point": "center center"
             }
