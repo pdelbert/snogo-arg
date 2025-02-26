@@ -1140,8 +1140,8 @@
         "settings": {
           "title": "BEST SELLING BIKES",
           "home_featured_products": "shifted",
-          "per_row": 1,
-          "rows": 1,
+          "per_row": 2,
+          "rows": 2,
           "mobile_scrollable": true,
           "view_all": false,
           "divider": false
