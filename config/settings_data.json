@@ -67,7 +67,7 @@
     "product_zoom_enable": false,
     "quick_shop_enable": false,
     "quick_shop_text": "Quick view",
-    "product_grid_image_size": "landscape",
+    "product_grid_image_size": "square",
     "product_hover_image": true,
     "product_color_swatches": false,
     "collection_color_swatches": true,
@@ -992,10 +992,10 @@
           "title": "BEST SELLING BIKES",
           "home_featured_products": "shifted",
           "per_row": 2,
-          "rows": 1,
+          "rows": 2,
           "mobile_scrollable": true,
           "view_all": false,
-          "divider": true
+          "divider": false
         }
       },
       "text_columns_PDdVFg": {
