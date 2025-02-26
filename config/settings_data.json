@@ -123,25 +123,34 @@
               "mobile_logo_width": 140
             }
           },
+          "announcement_W76tE8": {
+            "type": "announcement",
+            "settings": {
+              "text": "free shipping on bike orders //",
+              "link_text": "ARGENTINA",
+              "link": "shopify://collections"
+            }
+          },
           "1524770292306": {
             "type": "announcement",
             "settings": {
-              "text": "Free shipping",
-              "link_text": "On All Orders Over $100",
-              "link": ""
+              "text": "the best way into snow soport just got betters",
+              "link_text": "save $500",
+              "link": "shopify://collections"
             }
           },
           "1524770296206": {
             "type": "announcement",
             "settings": {
-              "text": "Easy returns",
-              "link_text": "30 Day Hassle-Free Returns",
-              "link": ""
+              "text": "shifted bikes now at scheels",
+              "link_text": "find \"scheels sotre here.\"",
+              "link": "shopify://collections"
             }
           }
         },
         "block_order": [
           "logo_VfjKcC",
+          "announcement_W76tE8",
           "1524770292306",
           "1524770296206"
         ],
