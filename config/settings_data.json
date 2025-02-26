@@ -881,15 +881,15 @@
             "type": "image",
             "settings": {
               "top_subheading": "",
-              "title": "Endless\npossibilities.",
+              "title": "",
               "title_size": 52,
-              "subheading": "Bring your brand to life",
+              "subheading": "",
               "link": "",
-              "link_text": "Optional button",
+              "link_text": "AS LOW AS $83/MO",
               "link_2": "",
               "link_text_2": "",
-              "color_accent": "#000000",
-              "text_align": "vertical-bottom horizontal-left",
+              "color_accent": "#ffffff",
+              "text_align": "vertical-bottom horizontal-right",
               "image": "shopify://shop_images/banner-2_01.jpg",
               "focal_point": "center center"
             }
