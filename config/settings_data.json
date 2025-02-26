@@ -550,12 +550,12 @@
         "disabled": true,
         "settings": {
           "title": "Featured collection",
-          "home_featured_products": "eyewear",
+          "home_featured_products": "shifted",
           "per_row": 5,
-          "rows": 1,
+          "rows": 4,
           "mobile_scrollable": true,
           "view_all": true,
-          "divider": false
+          "divider": true
         }
       },
       "1525886124958": {
@@ -585,14 +585,14 @@
           "1525886854810": {
             "type": "sale_collection",
             "settings": {
-              "sale_collection": "blouses-tops",
-              "top_text": "Up to",
-              "middle_text": "25% off",
-              "bottom_text": "Select products",
+              "sale_collection": "shifted",
+              "top_text": "",
+              "middle_text": "",
+              "bottom_text": "",
               "width": "50",
               "color_tint": "#000000",
               "color_tint_opacity": 6,
-              "boxed": false,
+              "boxed": true,
               "framed": true
             }
           },
