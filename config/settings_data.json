@@ -178,7 +178,7 @@
             "settings": {
               "logo": "shopify://shop_images/SNO-GO_full_logo_white.png",
               "desktop_logo_height": 50,
-              "container_width": 30
+              "container_width": 25
             }
           },
           "menu_KYDWA7": {
@@ -189,20 +189,28 @@
               "container_width": 25
             }
           },
-          "1494292487693": {
-            "type": "newsletter",
+          "menu_gaxgG8": {
+            "type": "menu",
             "settings": {
-              "show_footer_title": true,
-              "title": "Sign up and save",
-              "text": "<p>Subscribe to get special offers, free giveaways, and once-in-a-lifetime deals.</p>",
-              "container_width": 33
+              "show_footer_title": false,
+              "menu": "footer",
+              "container_width": 25
+            }
+          },
+          "menu_RHKMim": {
+            "type": "menu",
+            "settings": {
+              "show_footer_title": false,
+              "menu": "footer",
+              "container_width": 25
             }
           }
         },
         "block_order": [
           "1494301487048",
           "menu_KYDWA7",
-          "1494292487693"
+          "menu_gaxgG8",
+          "menu_RHKMim"
         ],
         "settings": {
           "show_locale_selector": true,
