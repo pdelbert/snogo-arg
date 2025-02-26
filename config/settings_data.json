@@ -66,10 +66,10 @@
     "product_zoom_enable": false,
     "quick_shop_enable": true,
     "quick_shop_text": "Quick view",
-    "product_grid_image_size": "square",
-    "product_hover_image": false,
+    "product_grid_image_size": "natural",
+    "product_hover_image": true,
     "product_color_swatches": false,
-    "collection_color_swatches": false,
+    "collection_color_swatches": true,
     "swatch_style": "round",
     "product_content_collapse_1": false,
     "product_content_collapse_2": true,
@@ -1133,6 +1133,18 @@
           "autoplay": true,
           "autoplay_speed": 5
         }
+      },
+      "featured_collection_9jqqUU": {
+        "type": "featured-collection",
+        "settings": {
+          "title": "BEST SELLING BIKES",
+          "home_featured_products": "shifted",
+          "per_row": 5,
+          "rows": 5,
+          "mobile_scrollable": true,
+          "view_all": true,
+          "divider": false
+        }
       }
     },
     "content_for_index": [
@@ -1149,6 +1161,7 @@
       "1525912530555",
       "1499789718857",
       "1525295772132",
+      "featured_collection_9jqqUU",
       "background_image_text_eAhabD",
       "1525886124958",
       "slideshow_CkibVL"
