@@ -451,16 +451,16 @@
             "type": "image",
             "settings": {
               "top_subheading": "",
-              "title": "New cute tops, \nmore fun accessories.",
-              "title_size": 58,
-              "subheading": "Even better sales. Limited time only.",
+              "title": "Find your flow",
+              "title_size": 55,
+              "subheading": "",
               "link": "shopify://collections/blouses-tops",
-              "link_text": "Shop Tops",
+              "link_text": "TEST DRIVE ONE DAY",
               "link_2": "shopify://collections/all",
-              "link_text_2": "Shop all",
+              "link_text_2": "",
               "color_accent": "#000000",
-              "text_align": "vertical-bottom horizontal-left",
-              "image": "shopify://shop_images/banner-01_02.png",
+              "text_align": "vertical-center horizontal-center",
+              "image": "shopify://shop_images/banner-01_01.png",
               "focal_point": "center center"
             }
           },
@@ -468,16 +468,16 @@
             "type": "image",
             "settings": {
               "top_subheading": "",
-              "title": "15% of All Swimwear\nSales are donated",
+              "title": "",
               "title_size": 80,
-              "subheading": "Learn more about the charities we work with.",
+              "subheading": "",
               "link": "shopify://collections/swim",
-              "link_text": "Shop Swim",
+              "link_text": "",
               "link_2": "shopify://collections/all",
-              "link_text_2": "Charities we love ♡",
+              "link_text_2": "",
               "color_accent": "#000000",
               "text_align": "vertical-center horizontal-center",
-              "image": "shopify://shop_images/person-stands-on-rocks-poking-out-of-the-ocean-shoreline.jpg",
+              "image": "shopify://shop_images/banner-01_02.png",
               "focal_point": "center center"
             }
           }
