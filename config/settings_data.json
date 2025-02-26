@@ -1118,6 +1118,9 @@
           "logo_image_wQJnzF",
           "logo_image_hx3CCj"
         ],
+        "custom_css": [
+          ".logo-bar__item {flex: 0 0 160px;}"
+        ],
         "settings": {
           "title": "",
           "logo_opacity": 68,
