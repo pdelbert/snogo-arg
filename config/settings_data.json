@@ -97,6 +97,7 @@
     "share_pinterest": true,
     "favicon": "shopify://shop_images/imageedit_9_9978243905.png",
     "search_enable": true,
+    "predictive_search_enabled": true,
     "show_breadcrumbs": false,
     "checkout_logo_image": "shopify://shop_images/imageedit_9_9978243905.png",
     "checkout_logo_position": "left",
@@ -153,11 +154,11 @@
           "sticky_collection": true,
           "announcement_compact": true,
           "announcement_above_header": true,
-          "toolbar_menu": "customer-account-main-menu",
+          "toolbar_menu": "",
           "toolbar_social": false,
           "show_locale_selector": true,
-          "show_currency_selector": true,
-          "show_currency_flags": true
+          "show_currency_selector": false,
+          "show_currency_flags": false
         }
       },
       "footer": {
@@ -2813,7 +2814,7 @@
       ".animation-cropper {width: 50%;}",
       ".background-media-text__aligner {margin: 0px;}",
       ".animation-cropper .animation-contents .background-media-text__text {padding: 50px;}",
-      ".background-media-text__text .btn {margin-bottom: -109px;}",
+      ".background-media-text__text .btn {margin-bottom: -70px;}",
       ".animation-cropper {overflow: visible;}"
     ]
   }
