@@ -1004,14 +1004,14 @@
             "type": "image",
             "settings": {
               "top_subheading": "",
-              "title": "Endless\npossibilities.",
+              "title": "kiss\nwinter woes\ngoodbye",
               "title_size": 80,
-              "subheading": "Bring your brand to life",
+              "subheading": "Shred Now. Pay Letter. $96/mo",
               "link": "",
-              "link_text": "Optional button",
+              "link_text": "shop shift",
               "link_2": "",
               "link_text_2": "",
-              "color_accent": "rgba(0,0,0,0)",
+              "color_accent": "#c14144",
               "text_align": "vertical-center horizontal-right",
               "image": "shopify://shop_images/home-section-03.jpg",
               "focal_point": "center center"
