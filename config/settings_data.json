@@ -1012,7 +1012,7 @@
               "link_2": "",
               "link_text_2": "",
               "color_accent": "#c14144",
-              "text_align": "vertical-center horizontal-right",
+              "text_align": "vertical-bottom horizontal-right",
               "image": "shopify://shop_images/home-section-03.jpg",
               "focal_point": "center center"
             }
