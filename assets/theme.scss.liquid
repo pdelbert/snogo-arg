@@ -9493,7 +9493,7 @@ a.color-swatch:hover,
 .article__excerpt {
   margin-top: 10px;
 }
-
+/*
 .logo-bar {
   text-align: center;
   margin-bottom: -$gutter;
@@ -9505,7 +9505,31 @@ a.color-swatch:hover,
       justify-content: center;
   -ms-flex-wrap: wrap;
       flex-wrap: wrap;
+} */
+
+.logo-bar {
+  column-gap: 10px;
+  align-items: center;
+  animation: scrolling-text 50slinear infinite;
+  animation-play-state: running;
+  display: inline-flex;
+  visibility: visible;
+  white-space: nowrap;
+  flex-wrap: nowrap !important;
 }
+
+@keyframes scrolling-text {
+  0% {
+    transform: translateX(0);
+    -webkit-transform: translateX(0); 
+  }
+
+  to {
+    transform: translateX(-100%);
+    -webkit-transform: translateX(-100%); 
+  } 
+}
+
 
 .logo-bar__item {
   -ms-flex: 0 1 110px;
