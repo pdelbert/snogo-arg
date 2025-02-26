@@ -135,7 +135,7 @@
             "type": "announcement",
             "settings": {
               "text": "the best way into snow sports just got betters",
-              "link_text": "save $500",
+              "link_text": "Save $500",
               "link": "shopify://collections"
             }
           },
@@ -143,7 +143,7 @@
             "type": "announcement",
             "settings": {
               "text": "shifted bikes now at scheels",
-              "link_text": "find \"scheels sotre here.\"",
+              "link_text": "Find \"Scheels sotre here\".",
               "link": "shopify://collections"
             }
           }
