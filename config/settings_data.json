@@ -978,7 +978,7 @@
           "image_bEk79w"
         ],
         "settings": {
-          "section_height": "750px",
+          "section_height": "100vh",
           "mobile_height": "auto",
           "parallax": false,
           "style": "minimal",
