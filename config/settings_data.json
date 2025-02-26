@@ -216,7 +216,7 @@
           "show_locale_selector": true,
           "show_currency_selector": true,
           "show_currency_flags": true,
-          "show_payment_icons": true,
+          "show_payment_icons": false,
           "show_copyright": true,
           "copyright_text": ""
         }
@@ -722,6 +722,7 @@
         "blocks": {
           "footer-promotions-2": {
             "type": "promotion",
+            "disabled": true,
             "settings": {
               "enable_image": false,
               "title": "Site-wide promotion",
@@ -732,6 +733,7 @@
           },
           "promotion_mj3tG9": {
             "type": "promotion",
+            "disabled": true,
             "settings": {
               "enable_image": true,
               "title": "Site-wide promotion",
@@ -742,6 +744,7 @@
           },
           "3abf7455-cb1f-47ec-b93b-8dea62d40520": {
             "type": "promotion",
+            "disabled": true,
             "settings": {
               "enable_image": false,
               "title": "Site-wide promotion",
