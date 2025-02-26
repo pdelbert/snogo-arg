@@ -928,7 +928,8 @@
           "logo_image_hx3CCj"
         ],
         "custom_css": [
-          ".logo-bar__item {flex: 0 0 300px; overflow: hidden;}"
+          ".logo-bar__item {flex: 0 0 300px; overflow: hidden;}",
+          ".index-section {overflow:hidden;}"
         ],
         "settings": {
           "title": "",
