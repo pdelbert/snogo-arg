@@ -929,7 +929,7 @@
         ],
         "custom_css": [
           ".logo-bar__item {flex: 0 0 300px; overflow: hidden;}",
-          ".index-section {overflow:hidden;}"
+          ".index-section {overflow: hidden; background-color: #000; margin: 0 !important; padding-top: 50px; padding-bottom: 50px;}"
         ],
         "settings": {
           "title": "",
