@@ -989,11 +989,11 @@
         "type": "featured-product",
         "settings": {
           "featured_product": "shifted",
-          "show_description": true,
-          "divider": true,
+          "show_description": false,
+          "divider": false,
           "thumbnail_position": "below",
-          "thumbnail_arrows": true,
-          "enable_video_looping": true,
+          "thumbnail_arrows": false,
+          "enable_video_looping": false,
           "product_video_style": "muted"
         }
       }
