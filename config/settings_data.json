@@ -999,7 +999,7 @@
           "layout": "left",
           "height": 750,
           "framed": false,
-          "parallax": false
+          "parallax": true
         }
       }
     },
