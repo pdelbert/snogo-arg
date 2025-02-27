@@ -1069,6 +1069,23 @@
           "framed": false,
           "parallax": true
         }
+      },
+      "background_image_text_4TgEne": {
+        "type": "background-image-text",
+        "settings": {
+          "subtitle": "RESORT AND RENTAL LOCATIONS",
+          "title": "WHERE CAN I RIDE MY SNO-GO ski bike?",
+          "text": "<p>There are plenty of options especially in Colorado and Utah. SNO-GO ski bikes are <strong>allowed at more than half of the ski resorts in North America</strong> with many more destinations being added every season. If you have a disability, SNO-GO bikes are welcome everywhere as adaptive ski equipment.</p><p>Renting from one of our Authorized rental dealers <strong>is a great way to start riding.</strong></p>",
+          "button_label": "WHERE TO RIDE",
+          "button_link": "shopify://products/shifted-1",
+          "image": "shopify://shop_images/home-section-10.jpg",
+          "focal_point": "center",
+          "color_border": "#f4f4f4",
+          "layout": "right",
+          "height": 750,
+          "framed": false,
+          "parallax": false
+        }
       }
     },
     "content_for_index": [
@@ -1086,6 +1103,7 @@
       "background_image_text_cixe4r",
       "text_columns_FidaVw",
       "background_image_text_nqLFfQ",
+      "background_image_text_4TgEne",
       "slideshow_CkibVL"
     ]
   },
