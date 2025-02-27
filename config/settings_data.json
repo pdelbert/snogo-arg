@@ -988,9 +988,9 @@
       "background_image_text_cixe4r": {
         "type": "background-image-text",
         "settings": {
-          "subtitle": "Impressive",
-          "title": "Large image with text box",
-          "text": "<p>Pair large text with a full-width image to draw attention to an important detail of your brand or product line.</p>",
+          "subtitle": "GETTING STARTED",
+          "title": "YOUR FIRST TIME SKI BIKING",
+          "text": "<p>You'll be riding high, but<strong>&gt;&gt;&gt;&gt;&gt;&gt; BE PREPARED</strong>for any surprises Mother Nature throws your way. Helmets, goggles, and warm, dry clothing are a must.</p><p>Hungry for speed?<strong>&gt;&gt;&gt;&gt;&gt;&gt; PLAY IT SMART.</strong>First learning how to control your ride and stop safely is paramount to keep the good times rolling.</p><p>Hungry for speed?<strong>&gt;&gt;&gt;&gt;&gt;&gt; PLAY IT SMART.</strong>First learning how to control your ride and stop safely is paramount to keep the good times rolling.</p><p></p>",
           "button_label": "",
           "button_link": "",
           "image": "shopify://shop_images/home-section-08.jpg",
@@ -999,7 +999,7 @@
           "layout": "left",
           "height": 750,
           "framed": false,
-          "parallax": true
+          "parallax": false
         }
       }
     },
