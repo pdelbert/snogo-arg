@@ -428,6 +428,9 @@
           "1524769873765-1",
           "1524769873765-0"
         ],
+        "custom_css": [
+          "#Slideshow-1524769873765 .animation-cropper {width: 100%;}"
+        ],
         "settings": {
           "section_height": "100vh",
           "mobile_height": "auto",
