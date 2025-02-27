@@ -1001,6 +1001,57 @@
           "framed": false,
           "parallax": true
         }
+      },
+      "text_columns_FidaVw": {
+        "type": "text-columns",
+        "blocks": {
+          "text_block_V9czCz": {
+            "type": "text_block",
+            "settings": {
+              "enable_image": true,
+              "image": "shopify://shop_images/logo-01.jpg",
+              "image_width": 650,
+              "title": "SIMPLE TO START!",
+              "text": "<p>Hold onto your handlebars, 'cause they're just like the ones on your trusty two-wheeled ride. Familiarity meets adventure! And to top it off, your feet simply step into bindings mounted on the skis, ensuring you're ready to take on whatever the mountain throws at you.</p><p>Ride with confidence on the way down and then step off to ride the lift or take a break without the hassle of bending over to unlock buckles and clips!! That means no more cold, wet behinds from sitting down to strap in!</p><p>Your SNO-GO ski bike is the perfect winter season partner to your mountain bike or e-bike in the summer. If you enjoy mountain biking and the rush of wind in your face, you'll love your SNO-GO.</p>",
+              "button_label": "",
+              "button_link": ""
+            }
+          },
+          "text_block_6wVbHW": {
+            "type": "text_block",
+            "settings": {
+              "enable_image": true,
+              "image": "shopify://shop_images/logo-01.jpg",
+              "image_width": 650,
+              "title": "WINTER BOOTS ARE ALL YOU NEED",
+              "text": "<p>We tried to keep this part as simple as going sledding. People hate ski boots.</p><p>In fact, the National Ski Area Association states that ski boots are 3rd most common reason people quit skiing! Not to worry with SNO-GO, all you need is a rugged pair of winter boots to get started.</p><p>As you progress, you might find (as many riders do) that snowboarding boots are ideal for snogoing. They provide the comfort, warmth, and stability to ride any kind of slope in any condition.</p>",
+              "button_label": "",
+              "button_link": ""
+            }
+          },
+          "text_block_aTmbMY": {
+            "type": "text_block",
+            "settings": {
+              "enable_image": true,
+              "image": "shopify://shop_images/logo-01.jpg",
+              "image_width": 650,
+              "title": "GO PRO FAST!",
+              "text": "<p>You don't need to be an expert skier or snowboarder to get in on the action. Nope, snogoing is for everyone! Whether you're a newbie or the next aspiring Olympian, you'll pick it up in a flash –</p><p>The average beginner or first time snogoer is turning and stopping with confidence in less than an hour! When you're ready to push your limits, we'll take you there too. Catch some air, soak up the bumps with pro-grade Fox suspension, and pull off bmx tricks on snow to unleash your passion to go full send all year long!</p><p>Ski areas big and small all around the United States have embraced ski biking and allow snogos on their lifts.</p>",
+              "button_label": "",
+              "button_link": ""
+            }
+          }
+        },
+        "block_order": [
+          "text_block_V9czCz",
+          "text_block_6wVbHW",
+          "text_block_aTmbMY"
+        ],
+        "settings": {
+          "title": "",
+          "align_text": "left",
+          "divider": false
+        }
       }
     },
     "content_for_index": [
@@ -1016,6 +1067,7 @@
       "text_columns_PDdVFg",
       "background_image_text_eAhabD",
       "background_image_text_cixe4r",
+      "text_columns_FidaVw",
       "slideshow_CkibVL"
     ]
   },
