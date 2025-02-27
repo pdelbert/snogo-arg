@@ -988,12 +988,12 @@
       "featured_product_3NkfHj": {
         "type": "featured-product",
         "settings": {
-          "featured_product": "",
+          "featured_product": "shifted",
           "show_description": true,
           "divider": true,
-          "thumbnail_position": "beside",
-          "thumbnail_arrows": false,
-          "enable_video_looping": false,
+          "thumbnail_position": "below",
+          "thumbnail_arrows": true,
+          "enable_video_looping": true,
           "product_video_style": "muted"
         }
       }
