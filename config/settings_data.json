@@ -1052,6 +1052,23 @@
           "align_text": "center",
           "divider": false
         }
+      },
+      "background_image_text_nqLFfQ": {
+        "type": "background-image-text",
+        "settings": {
+          "subtitle": "We combined skiing, snowboarding, and riding a bike.",
+          "title": "HOW TO STOP YOUR SKI BIKE",
+          "text": "<p>SNO-GOs are designed to put you in the driver's seat to <strong>conquer whatever mountains you want to explore</strong>. The front ski allows you to maneuver from the comfort of your hands, while the rear skis provide stability that'll make you feel like a pro day one!</p><p><strong>To turn, slow down or brake on SNO-GO ski bikes</strong>, simply tilt the handlebars and push down on your outside foot. The edges drive into the snow immediately (like a seasoned skier) giving even the newest riders, confidence and control.</p>",
+          "button_label": "",
+          "button_link": "",
+          "image": "shopify://shop_images/home-section-09.jpg",
+          "focal_point": "center",
+          "color_border": "#f4f4f4",
+          "layout": "left",
+          "height": 750,
+          "framed": false,
+          "parallax": true
+        }
       }
     },
     "content_for_index": [
@@ -1067,6 +1084,7 @@
       "text_columns_PDdVFg",
       "background_image_text_eAhabD",
       "background_image_text_cixe4r",
+      "background_image_text_nqLFfQ",
       "text_columns_FidaVw",
       "slideshow_CkibVL"
     ]
