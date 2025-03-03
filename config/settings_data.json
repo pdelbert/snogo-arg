@@ -1026,6 +1026,9 @@
       },
       "background_image_text_nqLFfQ": {
         "type": "background-image-text",
+        "custom_css": [
+          "@media screen and (max-width: 768px) {.animation-cropper {width: 100%; }}"
+        ],
         "settings": {
           "subtitle": "We combined skiing, snowboarding, and riding a bike.",
           "title": "HOW TO STOP YOUR SKI BIKE",
