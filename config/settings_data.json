@@ -645,7 +645,7 @@
           "button_link": "shopify://collections/all",
           "image": "shopify://shop_images/home-section-07.jpg",
           "focal_point": "center",
-          "color_border": "#ff6565",
+          "color_border": "rgba(0,0,0,0)",
           "layout": "left",
           "height": 750,
           "framed": false,
