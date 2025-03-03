@@ -958,6 +958,9 @@
       },
       "background_image_text_cixe4r": {
         "type": "background-image-text",
+        "custom_css": [
+          "@media screen and (max-width: 768px) {.animation-cropper {width: 100%; }}"
+        ],
         "settings": {
           "subtitle": "GETTING STARTED",
           "title": "YOUR FIRST TIME SKI BIKING",
