@@ -847,6 +847,9 @@
       },
       "background_image_text_pFQrtG": {
         "type": "background-image-text",
+        "custom_css": [
+          "@media screen and (max-width: 768px) {.animation-cropper {width: 100%; }}"
+        ],
         "settings": {
           "subtitle": "Impressive",
           "title": "Large image with text box",
