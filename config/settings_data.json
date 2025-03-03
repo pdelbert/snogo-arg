@@ -894,7 +894,7 @@
         "custom_css": [],
         "settings": {
           "section_height": "100vh",
-          "mobile_height": "auto",
+          "mobile_height": "100vh",
           "parallax": false,
           "style": "minimal",
           "autoplay": true,
