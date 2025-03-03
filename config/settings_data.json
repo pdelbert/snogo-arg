@@ -883,9 +883,7 @@
         "block_order": [
           "image_bEk79w"
         ],
-        "custom_css": [
-          "@media screen and (max-width: 768px) {.animation-cropper {width: 100%; }}"
-        ],
+        "custom_css": [],
         "settings": {
           "section_height": "100vh",
           "mobile_height": "auto",
@@ -1045,6 +1043,9 @@
       },
       "background_image_text_4TgEne": {
         "type": "background-image-text",
+        "custom_css": [
+          "@media screen and (max-width: 768px) {.animation-cropper {width: 100%; }}"
+        ],
         "settings": {
           "subtitle": "RESORT AND RENTAL LOCATIONS",
           "title": "WHERE CAN I RIDE MY SNO-GO ski bike?",
