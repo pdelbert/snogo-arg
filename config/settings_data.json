@@ -883,6 +883,9 @@
         "block_order": [
           "image_bEk79w"
         ],
+        "custom_css": [
+          "@media screen and (max-width: 768px) {.animation-cropper {width: 100%; }}"
+        ],
         "settings": {
           "section_height": "100vh",
           "mobile_height": "auto",
