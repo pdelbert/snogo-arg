@@ -78,7 +78,7 @@
     "product_content_collapse_3": true,
     "product_contact": false,
     "enable_product_reviews": false,
-    "reviews_layout": "expandable",
+    "reviews_layout": "full",
     "collection_grid_style": "overlaid-box",
     "collection_grid_shape": "portrait",
     "collection_grid_image": "collection",
