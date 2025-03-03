@@ -194,7 +194,7 @@
           "menu_gaxgG8": {
             "type": "menu",
             "settings": {
-              "show_footer_title": false,
+              "show_footer_title": true,
               "menu": "footer",
               "container_width": 25
             }
@@ -202,7 +202,7 @@
           "menu_RHKMim": {
             "type": "menu",
             "settings": {
-              "show_footer_title": false,
+              "show_footer_title": true,
               "menu": "footer",
               "container_width": 25
             }
