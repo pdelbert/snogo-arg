@@ -422,6 +422,7 @@
               "color_accent": "#000000",
               "text_align": "vertical-center horizontal-center",
               "image": "shopify://shop_images/banner-01_02.png",
+              "image2": "shopify://shop_images/Shift_Hero_Trans_RF.png",
               "focal_point": "center center"
             }
           }
