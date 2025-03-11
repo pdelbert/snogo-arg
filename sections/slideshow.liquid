@@ -31,9 +31,9 @@
           Get first image's aspect ratio
         {% endcomment %}
         {% for block in section.blocks limit: 1 %}
-          {% if block.settings.image != blank %}
+          {% if block.settings.mobile_image != blank %}
             {%- assign natural_height = true -%}
-            {%- capture natural_height_ratio -%}{{ 100 | divided_by: block.settings.image.aspect_ratio }}%{% endcapture %}
+            {%- capture natural_height_ratio -%}{{ 100 | divided_by: block.settings.mobile_image.aspect_ratio }}%{% endcapture %}
           {% endif %}
         {% endfor %}
       {% endif %}
