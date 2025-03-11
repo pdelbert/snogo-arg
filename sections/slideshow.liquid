@@ -31,7 +31,7 @@
           Get first image's aspect ratio
         {% endcomment %}
         {% for block in section.blocks limit: 1 %}
-          {% if block.settings.mobile_image != blank %}
+          {% if block.settings.mobile_image != blank | block.settings.image != blank %}
             {%- assign natural_height = true -%}
             {%- capture natural_height_ratio -%}{{ 100 | divided_by: block.settings.mobile_image.aspect_ratio }}%{% endcapture %}
           {% endif %}
@@ -116,6 +116,65 @@
                 {%- assign link_slide = true -%}
               {% endif %}
 
+              <!-- Start  -->
+              <div class="web slideshow">
+                {% if section.settings.parallax %}
+                  {% if block.settings.image != blank %}
+                    {% style %}
+                      .hero__image--{{ block.id }} {
+                        background-position: {{ block.settings.focal_point }};
+                        background-size: cover;
+                      }
+                    {% endstyle %}
+                  {% endif %}
+                  <div class="parallax-container">
+                    <div class="hero__image-wrapper">
+                      <div
+                        class="parallax-image hero__image hero__image--{{ block.id }}{% unless hero_text %} hero__image--no-overlay{% endunless %}{% if block.settings.image != blank %} lazyload
+                        {% else %} hero__image--svg
+                        {% endif %}"
+                        {% if block.settings.image != blank %}
+                          data-bgset="{% include 'bgset', image: block.settings.image %}"
+                          data-sizes="auto"
+                        {% endif %}>
+                        {% if block.settings.image == blank %}
+                          {{ 'lifestyle-1' | placeholder_svg_tag: 'placeholder-svg' }}
+                        {% endif %}
+                      </div>
+                    </div>
+                  </div>
+                {% else %}
+                  <div class="hero__image-wrapper{% unless hero_text %} hero__image-wrapper--no-overlay{% endunless %}">
+                    {% if block.settings.image != blank %}
+                      {% style %}
+                        .hero__image--{{ block.id }} {
+                          object-position: {{ block.settings.focal_point }};
+                          font-family: "object-fit: cover; object-position: {{ block.settings.focal_point }};";
+                        }
+                      {% endstyle %}
+  
+                      {%- assign img_url = block.settings.image | img_url: '1x1' | replace: '_1x1.', '_{width}x.' -%}
+  
+                      <img class="image-fit hero__image hero__image--{{ block.id }} lazyload"
+                        src=""
+                        data-src="{{ img_url }}"
+                        data-aspectratio="{{ block.settings.image.aspect_ratio }}"
+                        data-sizes="auto"
+                        data-parent-fit="cover"
+                        alt="{{ block.settings.image.alt | escape }}">
+                      <noscript>
+                        <img class="image-fit hero__image hero__image--{{ block.id }}"
+                          src="{{ block.settings.image | img_url: '1400x' }}"
+                          alt="{{ block.settings.image.alt | escape }}">
+                      </noscript>
+                    {% else %}
+                      {{ 'lifestyle-1' | placeholder_svg_tag: 'placeholder-svg' }}
+                    {% endif %}
+                  </div>
+                {% endif %}
+                </div>
+              
+                <div class="mobile slideshow">
               {% if section.settings.parallax %}
                 {% if block.settings.mobile_image != blank %}
                   {% style %}
@@ -128,7 +187,9 @@
                 <div class="parallax-container">
                   <div class="hero__image-wrapper">
                     <div
-                      class="parallax-image hero__image hero__image--{{ block.id }}{% unless hero_text %} hero__image--no-overlay{% endunless %}{% if block.settings.mobile_image != blank %} lazyload{% else %} hero__image--svg{% endif %}"
+                      class="parallax-image hero__image hero__image--{{ block.id }}{% unless hero_text %} hero__image--no-overlay{% endunless %}{% if block.settings.mobile_image != blank %} lazyload
+                      {% else %} hero__image--svg
+                      {% endif %}"
                       {% if block.settings.mobile_image != blank %}
                         data-bgset="{% include 'bgset', image: block.settings.mobile_image %}"
                         data-sizes="auto"
@@ -168,6 +229,8 @@
                   {% endif %}
                 </div>
               {% endif %}
+              </div>
+              <!-- End  -->
 
               {% if link_slide %}
                 <a href="{{ block.settings.link }}" class="hero__slide-link"></a>
