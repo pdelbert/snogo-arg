@@ -117,7 +117,7 @@
               {% endif %}
 
               {% if section.settings.parallax %}
-                {% if block.settings.image != blank %}
+                {% if block.settings.mobile_image != blank %}
                   {% style %}
                     .hero__image--{{ block.id }} {
                       background-position: {{ block.settings.focal_point }};
@@ -128,12 +128,12 @@
                 <div class="parallax-container">
                   <div class="hero__image-wrapper">
                     <div
-                      class="parallax-image hero__image hero__image--{{ block.id }}{% unless hero_text %} hero__image--no-overlay{% endunless %}{% if block.settings.image != blank %} lazyload{% else %} hero__image--svg{% endif %}"
-                      {% if block.settings.image != blank %}
-                        data-bgset="{% include 'bgset', image: block.settings.image %}"
+                      class="parallax-image hero__image hero__image--{{ block.id }}{% unless hero_text %} hero__image--no-overlay{% endunless %}{% if block.settings.mobile_image != blank %} lazyload{% else %} hero__image--svg{% endif %}"
+                      {% if block.settings.mobile_image != blank %}
+                        data-bgset="{% include 'bgset', image: block.settings.mobile_image %}"
                         data-sizes="auto"
                       {% endif %}>
-                      {% if block.settings.image == blank %}
+                      {% if block.settings.mobile_image == blank %}
                         {{ 'lifestyle-1' | placeholder_svg_tag: 'placeholder-svg' }}
                       {% endif %}
                     </div>
@@ -141,7 +141,7 @@
                 </div>
               {% else %}
                 <div class="hero__image-wrapper{% unless hero_text %} hero__image-wrapper--no-overlay{% endunless %}">
-                  {% if block.settings.image != blank %}
+                  {% if block.settings.mobile_image != blank %}
                     {% style %}
                       .hero__image--{{ block.id }} {
                         object-position: {{ block.settings.focal_point }};
@@ -149,19 +149,19 @@
                       }
                     {% endstyle %}
 
-                    {%- assign img_url = block.settings.image | img_url: '1x1' | replace: '_1x1.', '_{width}x.' -%}
+                    {%- assign img_url = block.settings.mobile_image | img_url: '1x1' | replace: '_1x1.', '_{width}x.' -%}
 
                     <img class="image-fit hero__image hero__image--{{ block.id }} lazyload"
                       src=""
                       data-src="{{ img_url }}"
-                      data-aspectratio="{{ block.settings.image.aspect_ratio }}"
+                      data-aspectratio="{{ block.settings.mobile_image.aspect_ratio }}"
                       data-sizes="auto"
                       data-parent-fit="cover"
-                      alt="{{ block.settings.image.alt | escape }}">
+                      alt="{{ block.settings.mobile_image.alt | escape }}">
                     <noscript>
                       <img class="image-fit hero__image hero__image--{{ block.id }}"
-                        src="{{ block.settings.image | img_url: '1400x' }}"
-                        alt="{{ block.settings.image.alt | escape }}">
+                        src="{{ block.settings.mobile_image | img_url: '1400x' }}"
+                        alt="{{ block.settings.mobile_image.alt | escape }}">
                     </noscript>
                   {% else %}
                     {{ 'lifestyle-1' | placeholder_svg_tag: 'placeholder-svg' }}
