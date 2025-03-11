@@ -405,6 +405,7 @@
               "color_accent": "rgba(0,0,0,0)",
               "text_align": "vertical-center horizontal-center",
               "image": "shopify://shop_images/banner-01_01.png",
+              "mobile_image": "shopify://shop_images/home-mobile-04.webp",
               "focal_point": "center center"
             }
           },
