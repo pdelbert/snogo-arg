@@ -672,6 +672,7 @@
               "color_accent": "#c14144",
               "text_align": "vertical-bottom horizontal-right",
               "image": "shopify://shop_images/home-section-03.jpg",
+              "mobile_image": "shopify://shop_images/Shift_Homepage_RF_Mobile_1296x_36fea815-c2b9-4bf8-a396-5420d476d29c.webp",
               "focal_point": "center center"
             }
           }
@@ -705,6 +706,7 @@
               "color_accent": "#ffffff",
               "text_align": "vertical-bottom horizontal-center",
               "image": "shopify://shop_images/home-mobile-04.webp",
+              "mobile_image": "shopify://shop_images/EZLoad_Mobile_1296x_55d82506-be50-404a-aeba-2fe2f2cbaa8f.webp",
               "focal_point": "center center"
             }
           }
