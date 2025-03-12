@@ -889,6 +889,7 @@
               "color_accent": "#c14144",
               "text_align": "vertical-center horizontal-right",
               "image": "shopify://shop_images/home-section-06.jpg",
+              "mobile_image": "shopify://shop_images/Price_Drop_Banner_Mobile_1296x_95fdcb56-0a92-46a0-b050-3ba064594daa.webp",
               "focal_point": "center center"
             }
           }
