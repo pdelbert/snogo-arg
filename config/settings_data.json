@@ -689,40 +689,6 @@
           "autoplay_speed": 5
         }
       },
-      "slideshow_FRrGY3": {
-        "type": "slideshow",
-        "blocks": {
-          "image_CBEGYA": {
-            "type": "image",
-            "settings": {
-              "top_subheading": "",
-              "title": "",
-              "title_size": 80,
-              "subheading": "",
-              "link": "",
-              "link_text": "LEARN MORE",
-              "link_2": "",
-              "link_text_2": "",
-              "color_accent": "#ffffff",
-              "text_align": "vertical-bottom horizontal-center",
-              "image": "shopify://shop_images/home-mobile-04.webp",
-              "mobile_image": "shopify://shop_images/EZLoad_Mobile_1296x_55d82506-be50-404a-aeba-2fe2f2cbaa8f.webp",
-              "focal_point": "center center"
-            }
-          }
-        },
-        "block_order": [
-          "image_CBEGYA"
-        ],
-        "settings": {
-          "section_height": "750px",
-          "mobile_height": "100vh",
-          "parallax": false,
-          "style": "minimal",
-          "autoplay": true,
-          "autoplay_speed": 5
-        }
-      },
       "slideshow_Q4D7HE": {
         "type": "slideshow",
         "blocks": {
@@ -740,6 +706,7 @@
               "color_accent": "#990000",
               "text_align": "vertical-bottom horizontal-left",
               "image": "shopify://shop_images/home-section-05.jpg",
+              "mobile_image": "shopify://shop_images/EZLoad_Mobile_1296x_55d82506-be50-404a-aeba-2fe2f2cbaa8f.webp",
               "focal_point": "center center"
             }
           }
@@ -1086,7 +1053,6 @@
       "1524769873765",
       "slideshow_KaXKfq",
       "slideshow_JUbDnw",
-      "slideshow_FRrGY3",
       "slideshow_Q4D7HE",
       "logo_list_tDXAKd",
       "slideshow_YmnD9t",
