@@ -405,7 +405,7 @@
               "color_accent": "rgba(0,0,0,0)",
               "text_align": "vertical-center horizontal-center",
               "image": "shopify://shop_images/banner-01_01.png",
-              "mobile_image": "shopify://shop_images/home-mobile-04.webp",
+              "mobile_image": "shopify://shop_images/Bannermobile_1296x_9c90459e-096e-4505-8726-e72b05dd9783.webp",
               "focal_point": "center center"
             }
           },
@@ -423,7 +423,7 @@
               "color_accent": "#000000",
               "text_align": "vertical-center horizontal-center",
               "image": "shopify://shop_images/banner-01_02.png",
-              "mobile_image": "shopify://shop_images/home-mobile-04.webp",
+              "mobile_image": "shopify://shop_images/Shred_Now_Spend_Later_-_Mobile_1296x_4d9ce3c4-0d96-4f01-80e5-84a4dd1a9356.webp",
               "focal_point": "center center"
             }
           }
@@ -618,6 +618,7 @@
               "color_accent": "#ffffff",
               "text_align": "vertical-bottom horizontal-right",
               "image": "shopify://shop_images/banner-2_01.jpg",
+              "mobile_image": "shopify://shop_images/Price_Drop_2_Web_Banner_Mobile_1296x_9d8465f9-2674-48fc-b1dc-2610d0423fc5.webp",
               "focal_point": "center center"
             }
           }
