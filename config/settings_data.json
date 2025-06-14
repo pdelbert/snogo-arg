@@ -408,29 +408,10 @@
               "mobile_image": "shopify://shop_images/Bannermobile_300x_jpg.jpg",
               "focal_point": "center center"
             }
-          },
-          "1524769873765-0": {
-            "type": "image",
-            "settings": {
-              "top_subheading": "",
-              "title": "",
-              "title_size": 80,
-              "subheading": "",
-              "link": "shopify://collections/swim",
-              "link_text": "",
-              "link_2": "shopify://collections/all",
-              "link_text_2": "",
-              "color_accent": "#000000",
-              "text_align": "vertical-center horizontal-center",
-              "image": "shopify://shop_images/banner-01_02.png",
-              "mobile_image": "shopify://shop_images/Shred_Now_Spend_Later_-_Mobile_1296x_4d9ce3c4-0d96-4f01-80e5-84a4dd1a9356.webp",
-              "focal_point": "center center"
-            }
           }
         },
         "block_order": [
-          "1524769873765-1",
-          "1524769873765-0"
+          "1524769873765-1"
         ],
         "custom_css": [
           "#Slideshow-1524769873765 .animation-cropper {width: 100%;}"
