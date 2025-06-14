@@ -5,6 +5,7 @@
   http://archetypethemes.co
 */
 
+
 @font-face {
   font-family: "eger-regular";
     src: url('https://cdn.shopify.com/s/files/1/0738/8626/9463/files/eger-regular-webfont.woff2?v=1749935152') format("woff2");
@@ -162,7 +163,7 @@
 
 @mixin baseFontStack {
   font-size: $type_base_size * 0.85;
-  font-family: "Din_Condensed";
+  font-family: $type_base_stack;
   letter-spacing: $type_base_spacing;
   line-height: $type_base_line_height;
 
@@ -191,12 +192,8 @@
   }
 }
 
-*{
-  font-family:  "Din_Condensed";
-}
-
 @mixin headingFontStack {
-  font-family:  "Din_Condensed";
+  font-family: $type_header_stack;
   font-weight: $type_header_weight;
   letter-spacing: $type_header_spacing;
   line-height: $type_header_line_height;
