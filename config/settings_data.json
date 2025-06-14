@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "current": {
     "color_body_bg": "#ffffff",
@@ -82,19 +91,19 @@
     "cart_additional_buttons": false,
     "cart_notes_enable": false,
     "cart_terms_conditions_enable": false,
-    "social_facebook_link": "https:\/\/www.facebook.com\/shopify",
-    "social_pinterest_link": "https:\/\/www.pinterest.com\/shopify",
-    "social_instagram_link": "https:\/\/instagram.com\/shopify",
+    "social_facebook_link": "https://www.facebook.com/shopify",
+    "social_pinterest_link": "https://www.pinterest.com/shopify",
+    "social_instagram_link": "https://instagram.com/shopify",
     "share_facebook": true,
     "share_twitter": true,
     "share_pinterest": true,
-    "favicon": "shopify:\/\/shop_images\/imageedit_9_9978243905.png",
+    "favicon": "shopify://shop_images/imageedit_9_9978243905.png",
     "search_enable": true,
     "search_type": "product",
     "predictive_search_enabled": true,
     "predictive_image_size": "landscape",
     "show_breadcrumbs": false,
-    "checkout_logo_image": "shopify:\/\/shop_images\/imageedit_9_9978243905.png",
+    "checkout_logo_image": "shopify://shop_images/imageedit_9_9978243905.png",
     "checkout_logo_position": "left",
     "checkout_logo_size": "small",
     "checkout_body_background_color": "#000000",
@@ -113,7 +122,7 @@
           "logo_VfjKcC": {
             "type": "logo",
             "settings": {
-              "logo": "shopify:\/\/shop_images\/SNO-GO_full_logo_white.png",
+              "logo": "shopify://shop_images/SNO-GO_full_logo_white.png",
               "desktop_logo_width": 200,
               "mobile_logo_width": 140
             }
@@ -121,9 +130,9 @@
           "announcement_W76tE8": {
             "type": "announcement",
             "settings": {
-              "text": "free shipping on bike orders \/\/",
+              "text": "free shipping on bike orders //",
               "link_text": "ARGENTINA",
-              "link": "shopify:\/\/collections"
+              "link": "shopify://collections"
             }
           },
           "1524770292306": {
@@ -131,7 +140,7 @@
             "settings": {
               "text": "the best way into snow sports just got betters",
               "link_text": "Save $500",
-              "link": "shopify:\/\/collections"
+              "link": "shopify://collections"
             }
           },
           "1524770296206": {
@@ -139,7 +148,7 @@
             "settings": {
               "text": "shifted bikes now at scheels",
               "link_text": "Find \"Scheels sotre here\".",
-              "link": "shopify:\/\/collections"
+              "link": "shopify://collections"
             }
           }
         },
@@ -171,7 +180,7 @@
           "1494301487048": {
             "type": "logo_social",
             "settings": {
-              "logo": "shopify:\/\/shop_images\/SNO-GO_full_logo_white.png",
+              "logo": "shopify://shop_images/SNO-GO_full_logo_white.png",
               "desktop_logo_height": 50,
               "container_width": 25
             }
@@ -371,7 +380,7 @@
           "popup_seconds": 5,
           "popup_days": 2,
           "popup_title": "Sign up and save 15%!",
-          "popup_text": "<p>Sign up for our mailing list to receive discounts, exclusive offers, and invites for special events. First time customers will receive a 15% off discount code for their purchase!<\/p>",
+          "popup_text": "<p>Sign up for our mailing list to receive discounts, exclusive offers, and invites for special events. First time customers will receive a 15% off discount code for their purchase!</p>",
           "close_text": "No thanks",
           "enable_newsletter": true,
           "button_label": "Optional button",
@@ -391,12 +400,12 @@
               "subheading": "",
               "link": "",
               "link_text": "",
-              "link_2": "shopify:\/\/collections\/all",
+              "link_2": "shopify://collections/all",
               "link_text_2": "",
               "color_accent": "rgba(0,0,0,0)",
               "text_align": "vertical-center horizontal-center",
-              "image": "shopify:\/\/shop_images\/Bannerwider_1944x_02950373-e4a2-49d4-92a1-adf1fd43c8e8.jpg",
-              "mobile_image": "shopify:\/\/shop_images\/Bannermobile_300x_jpg.jpg",
+              "image": "shopify://shop_images/Bannerwider_1944x_02950373-e4a2-49d4-92a1-adf1fd43c8e8.jpg",
+              "mobile_image": "shopify://shop_images/Bannermobile_300x_jpg.jpg",
               "focal_point": "center center"
             }
           }
@@ -463,7 +472,7 @@
               "promo_collection": "shop-all",
               "heading": "Semi-annual winter sale",
               "text": "For a limited time the entire store is on sale!",
-              "link": "shopify:\/\/collections\/all",
+              "link": "shopify://collections/all",
               "label": "Shop now",
               "color_tint": "#e95454",
               "color_tint_opacity": 10,
@@ -478,10 +487,10 @@
               "heading": "promotion",
               "textarea": "Entire store on sale!",
               "cta_text1": "Shop Eyewear",
-              "cta_link1": "shopify:\/\/collections\/eyewear",
+              "cta_link1": "shopify://collections/eyewear",
               "cta_text2": "Shop All",
-              "cta_link2": "shopify:\/\/collections\/all",
-              "image": "shopify:\/\/shop_images\/happy-woman.jpg",
+              "cta_link2": "shopify://collections/all",
+              "image": "shopify://shop_images/happy-woman.jpg",
               "video_url": "",
               "width": "100",
               "height": 500,
@@ -511,7 +520,7 @@
             "settings": {
               "enable_image": false,
               "title": "Site-wide promotion",
-              "text": "<p>Entire store on sale!<\/p>",
+              "text": "<p>Entire store on sale!</p>",
               "button_label": "shop now",
               "button_link": ""
             }
@@ -522,7 +531,7 @@
             "settings": {
               "enable_image": true,
               "title": "Site-wide promotion",
-              "text": "<p>Use this section to promote content throughout every page of your site. Add images for further impact.<\/p>",
+              "text": "<p>Use this section to promote content throughout every page of your site. Add images for further impact.</p>",
               "button_label": "Optional button",
               "button_link": ""
             }
@@ -533,7 +542,7 @@
             "settings": {
               "enable_image": false,
               "title": "Site-wide promotion",
-              "text": "<p>Entire store on sale!<\/p>",
+              "text": "<p>Entire store on sale!</p>",
               "button_label": "shop now",
               "button_link": ""
             }
@@ -584,13 +593,13 @@
               "title_size": 52,
               "subheading": "",
               "link": "",
-              "link_text": "AS LOW AS $83\/MO",
+              "link_text": "AS LOW AS $83/MO",
               "link_2": "",
               "link_text_2": "",
               "color_accent": "#ffffff",
               "text_align": "vertical-bottom horizontal-right",
-              "image": "shopify:\/\/shop_images\/banner-2_01.jpg",
-              "mobile_image": "shopify:\/\/shop_images\/Price_Drop_2_Web_Banner_Mobile_1296x_9d8465f9-2674-48fc-b1dc-2610d0423fc5.webp",
+              "image": "shopify://shop_images/banner-2_01.jpg",
+              "mobile_image": "shopify://shop_images/Price_Drop_2_Web_Banner_Mobile_1296x_9d8465f9-2674-48fc-b1dc-2610d0423fc5.webp",
               "focal_point": "center center"
             }
           }
@@ -615,10 +624,10 @@
         "settings": {
           "subtitle": "",
           "title": "What are SNO-GO ski bikes?",
-          "text": "<p>SNO-GOs, sometimes called ski bikes or snow bikes bring a whole new energy and optimism to winter sports. It's the<strong>perfect fusion of skiing and biking<\/strong>, giving you a thrilling way to conquer snow covered slopes. The SNO-GO has three articulating skis, loads any resort chairlift, and has an extremely fast and easy learning curve.<\/p><p>★★★★★ 1,500+ Reviews<\/p>",
+          "text": "<p>SNO-GOs, sometimes called ski bikes or snow bikes bring a whole new energy and optimism to winter sports. It's the<strong>perfect fusion of skiing and biking</strong>, giving you a thrilling way to conquer snow covered slopes. The SNO-GO has three articulating skis, loads any resort chairlift, and has an extremely fast and easy learning curve.</p><p>★★★★★ 1,500+ Reviews</p>",
           "button_label": "",
-          "button_link": "shopify:\/\/collections\/all",
-          "image": "shopify:\/\/shop_images\/home-section-07.jpg",
+          "button_link": "shopify://collections/all",
+          "image": "shopify://shop_images/home-section-07.jpg",
           "focal_point": "center",
           "color_border": "rgba(0,0,0,0)",
           "layout": "left",
@@ -636,15 +645,15 @@
               "top_subheading": "",
               "title": "kiss\nwinter woes\ngoodbye",
               "title_size": 90,
-              "subheading": "Shred Now. Pay Letter. $96\/mo",
+              "subheading": "Shred Now. Pay Letter. $96/mo",
               "link": "",
               "link_text": "shop shift",
               "link_2": "",
               "link_text_2": "",
               "color_accent": "#c14144",
               "text_align": "vertical-bottom horizontal-right",
-              "image": "shopify:\/\/shop_images\/home-section-03.jpg",
-              "mobile_image": "shopify:\/\/shop_images\/Shift_Homepage_RF_Mobile_1296x_36fea815-c2b9-4bf8-a396-5420d476d29c.webp",
+              "image": "shopify://shop_images/home-section-03.jpg",
+              "mobile_image": "shopify://shop_images/Shift_Homepage_RF_Mobile_1296x_36fea815-c2b9-4bf8-a396-5420d476d29c.webp",
               "focal_point": "center center"
             }
           }
@@ -677,8 +686,8 @@
               "link_text_2": "",
               "color_accent": "#990000",
               "text_align": "vertical-bottom horizontal-left",
-              "image": "shopify:\/\/shop_images\/home-section-05.jpg",
-              "mobile_image": "shopify:\/\/shop_images\/EZLoad_Mobile_1296x_55d82506-be50-404a-aeba-2fe2f2cbaa8f.webp",
+              "image": "shopify://shop_images/home-section-05.jpg",
+              "mobile_image": "shopify://shop_images/EZLoad_Mobile_1296x_55d82506-be50-404a-aeba-2fe2f2cbaa8f.webp",
               "focal_point": "center center"
             }
           }
@@ -701,70 +710,70 @@
           "logo_image_mPWtHP": {
             "type": "logo_image",
             "settings": {
-              "image": "shopify:\/\/shop_images\/logo-01.jpg",
+              "image": "shopify://shop_images/logo-01.jpg",
               "link": ""
             }
           },
           "logo_image_NdLCwN": {
             "type": "logo_image",
             "settings": {
-              "image": "shopify:\/\/shop_images\/logo-01.jpg",
+              "image": "shopify://shop_images/logo-01.jpg",
               "link": ""
             }
           },
           "logo_image_YczefR": {
             "type": "logo_image",
             "settings": {
-              "image": "shopify:\/\/shop_images\/logo-01.jpg",
+              "image": "shopify://shop_images/logo-01.jpg",
               "link": ""
             }
           },
           "logo_image_aFa7jy": {
             "type": "logo_image",
             "settings": {
-              "image": "shopify:\/\/shop_images\/logo-01.jpg",
+              "image": "shopify://shop_images/logo-01.jpg",
               "link": ""
             }
           },
           "logo_image_YVRj8q": {
             "type": "logo_image",
             "settings": {
-              "image": "shopify:\/\/shop_images\/logo-01.jpg",
+              "image": "shopify://shop_images/logo-01.jpg",
               "link": ""
             }
           },
           "logo_image_nbjHJe": {
             "type": "logo_image",
             "settings": {
-              "image": "shopify:\/\/shop_images\/logo-01.jpg",
+              "image": "shopify://shop_images/logo-01.jpg",
               "link": ""
             }
           },
           "logo_image_H4m8Xp": {
             "type": "logo_image",
             "settings": {
-              "image": "shopify:\/\/shop_images\/logo-01.jpg",
+              "image": "shopify://shop_images/logo-01.jpg",
               "link": ""
             }
           },
           "logo_image_TGVfWE": {
             "type": "logo_image",
             "settings": {
-              "image": "shopify:\/\/shop_images\/logo-01.jpg",
+              "image": "shopify://shop_images/logo-01.jpg",
               "link": ""
             }
           },
           "logo_image_wQJnzF": {
             "type": "logo_image",
             "settings": {
-              "image": "shopify:\/\/shop_images\/logo-01.jpg",
+              "image": "shopify://shop_images/logo-01.jpg",
               "link": ""
             }
           },
           "logo_image_hx3CCj": {
             "type": "logo_image",
             "settings": {
-              "image": "shopify:\/\/shop_images\/logo-01.jpg",
+              "image": "shopify://shop_images/logo-01.jpg",
               "link": ""
             }
           }
@@ -799,10 +808,10 @@
         "settings": {
           "subtitle": "Impressive",
           "title": "Large image with text box",
-          "text": "<p>Pair large text with a full-width image to draw attention to an important detail of your brand or product line.<\/p>",
+          "text": "<p>Pair large text with a full-width image to draw attention to an important detail of your brand or product line.</p>",
           "button_label": "asdf",
-          "button_link": "shopify:\/\/blogs\/news",
-          "image": "shopify:\/\/shop_images\/4T0A6492.jpg",
+          "button_link": "shopify://blogs/news",
+          "image": "shopify://shop_images/4T0A6492.jpg",
           "focal_point": "center",
           "color_border": "#f4f4f4",
           "layout": "right",
@@ -827,8 +836,8 @@
               "link_text_2": "",
               "color_accent": "#c14144",
               "text_align": "vertical-center horizontal-right",
-              "image": "shopify:\/\/shop_images\/home-section-06.jpg",
-              "mobile_image": "shopify:\/\/shop_images\/Price_Drop_Banner_Mobile_1296x_95fdcb56-0a92-46a0-b050-3ba064594daa.webp",
+              "image": "shopify://shop_images/home-section-06.jpg",
+              "mobile_image": "shopify://shop_images/Price_Drop_Banner_Mobile_1296x_95fdcb56-0a92-46a0-b050-3ba064594daa.webp",
               "focal_point": "center center"
             }
           }
@@ -865,10 +874,10 @@
             "type": "text_block",
             "settings": {
               "enable_image": true,
-              "image": "shopify:\/\/shop_images\/logo-01.jpg",
+              "image": "shopify://shop_images/logo-01.jpg",
               "image_width": 160,
               "title": "",
-              "text": "<h1>DESIGNED IN<\/h1><h1>THE USA<\/h1>",
+              "text": "<h1>DESIGNED IN</h1><h1>THE USA</h1>",
               "button_label": "",
               "button_link": ""
             }
@@ -877,10 +886,10 @@
             "type": "text_block",
             "settings": {
               "enable_image": true,
-              "image": "shopify:\/\/shop_images\/logo-01.jpg",
+              "image": "shopify://shop_images/logo-01.jpg",
               "image_width": 160,
               "title": "",
-              "text": "<h1>FREE SHIPPING<\/h1><h1>FOR BIKE<\/h1><h1>ORDERS<\/h1>",
+              "text": "<h1>FREE SHIPPING</h1><h1>FOR BIKE</h1><h1>ORDERS</h1>",
               "button_label": "",
               "button_link": ""
             }
@@ -889,10 +898,10 @@
             "type": "text_block",
             "settings": {
               "enable_image": true,
-              "image": "shopify:\/\/shop_images\/logo-01.jpg",
+              "image": "shopify://shop_images/logo-01.jpg",
               "image_width": 160,
               "title": "",
-              "text": "<h1>RIDE NOW. PAY<\/h1><h1>LATER.<\/h1>",
+              "text": "<h1>RIDE NOW. PAY</h1><h1>LATER.</h1>",
               "button_label": "",
               "button_link": ""
             }
@@ -917,10 +926,10 @@
         "settings": {
           "subtitle": "GETTING STARTED",
           "title": "YOUR FIRST TIME SKI BIKING",
-          "text": "<p>You'll be riding high, but<strong>&gt;&gt;&gt;&gt;&gt;&gt; BE PREPARED<\/strong>for any surprises Mother Nature throws your way. Helmets, goggles, and warm, dry clothing are a must.<\/p><p>Hungry for speed?<strong>&gt;&gt;&gt;&gt;&gt;&gt; PLAY IT SMART.<\/strong>First learning how to control your ride and stop safely is paramount to keep the good times rolling.<\/p><p>Hungry for speed?<strong>&gt;&gt;&gt;&gt;&gt;&gt; PLAY IT SMART.<\/strong>First learning how to control your ride and stop safely is paramount to keep the good times rolling.<\/p><p><\/p>",
+          "text": "<p>You'll be riding high, but<strong>&gt;&gt;&gt;&gt;&gt;&gt; BE PREPARED</strong>for any surprises Mother Nature throws your way. Helmets, goggles, and warm, dry clothing are a must.</p><p>Hungry for speed?<strong>&gt;&gt;&gt;&gt;&gt;&gt; PLAY IT SMART.</strong>First learning how to control your ride and stop safely is paramount to keep the good times rolling.</p><p>Hungry for speed?<strong>&gt;&gt;&gt;&gt;&gt;&gt; PLAY IT SMART.</strong>First learning how to control your ride and stop safely is paramount to keep the good times rolling.</p><p></p>",
           "button_label": "HOW TO RIDE",
-          "button_link": "shopify:\/\/products\/shifted",
-          "image": "shopify:\/\/shop_images\/home-section-08.jpg",
+          "button_link": "shopify://products/shifted",
+          "image": "shopify://shop_images/home-section-08.jpg",
           "focal_point": "center",
           "color_border": "#ffffff",
           "layout": "left",
@@ -936,10 +945,10 @@
             "type": "text_block",
             "settings": {
               "enable_image": true,
-              "image": "shopify:\/\/shop_images\/logo-01.jpg",
+              "image": "shopify://shop_images/logo-01.jpg",
               "image_width": 200,
               "title": "SIMPLE TO START!",
-              "text": "<p>Hold onto your handlebars, 'cause they're just like the ones on your trusty two-wheeled ride. Familiarity meets adventure! And to top it off, your feet simply step into bindings mounted on the skis, ensuring you're ready to take on whatever the mountain throws at you.<\/p><p>Ride with confidence on the way down and then step off to ride the lift or take a break without the hassle of bending over to unlock buckles and clips!! That means no more cold, wet behinds from sitting down to strap in!<\/p><p>Your SNO-GO ski bike is the perfect winter season partner to your mountain bike or e-bike in the summer. If you enjoy mountain biking and the rush of wind in your face, you'll love your SNO-GO.<\/p>",
+              "text": "<p>Hold onto your handlebars, 'cause they're just like the ones on your trusty two-wheeled ride. Familiarity meets adventure! And to top it off, your feet simply step into bindings mounted on the skis, ensuring you're ready to take on whatever the mountain throws at you.</p><p>Ride with confidence on the way down and then step off to ride the lift or take a break without the hassle of bending over to unlock buckles and clips!! That means no more cold, wet behinds from sitting down to strap in!</p><p>Your SNO-GO ski bike is the perfect winter season partner to your mountain bike or e-bike in the summer. If you enjoy mountain biking and the rush of wind in your face, you'll love your SNO-GO.</p>",
               "button_label": "",
               "button_link": ""
             }
@@ -948,10 +957,10 @@
             "type": "text_block",
             "settings": {
               "enable_image": true,
-              "image": "shopify:\/\/shop_images\/logo-01.jpg",
+              "image": "shopify://shop_images/logo-01.jpg",
               "image_width": 200,
               "title": "WINTER BOOTS ARE ALL YOU NEED",
-              "text": "<p>We tried to keep this part as simple as going sledding. People hate ski boots.<\/p><p>In fact, the National Ski Area Association states that ski boots are 3rd most common reason people quit skiing! Not to worry with SNO-GO, all you need is a rugged pair of winter boots to get started.<\/p><p>As you progress, you might find (as many riders do) that snowboarding boots are ideal for snogoing. They provide the comfort, warmth, and stability to ride any kind of slope in any condition.<\/p>",
+              "text": "<p>We tried to keep this part as simple as going sledding. People hate ski boots.</p><p>In fact, the National Ski Area Association states that ski boots are 3rd most common reason people quit skiing! Not to worry with SNO-GO, all you need is a rugged pair of winter boots to get started.</p><p>As you progress, you might find (as many riders do) that snowboarding boots are ideal for snogoing. They provide the comfort, warmth, and stability to ride any kind of slope in any condition.</p>",
               "button_label": "",
               "button_link": ""
             }
@@ -960,10 +969,10 @@
             "type": "text_block",
             "settings": {
               "enable_image": true,
-              "image": "shopify:\/\/shop_images\/logo-01.jpg",
+              "image": "shopify://shop_images/logo-01.jpg",
               "image_width": 200,
               "title": "GO PRO FAST!",
-              "text": "<p>You don't need to be an expert skier or snowboarder to get in on the action. Nope, snogoing is for everyone! Whether you're a newbie or the next aspiring Olympian, you'll pick it up in a flash –<\/p><p>The average beginner or first time snogoer is turning and stopping with confidence in less than an hour! When you're ready to push your limits, we'll take you there too. Catch some air, soak up the bumps with pro-grade Fox suspension, and pull off bmx tricks on snow to unleash your passion to go full send all year long!<\/p><p>Ski areas big and small all around the United States have embraced ski biking and allow snogos on their lifts.<\/p>",
+              "text": "<p>You don't need to be an expert skier or snowboarder to get in on the action. Nope, snogoing is for everyone! Whether you're a newbie or the next aspiring Olympian, you'll pick it up in a flash –</p><p>The average beginner or first time snogoer is turning and stopping with confidence in less than an hour! When you're ready to push your limits, we'll take you there too. Catch some air, soak up the bumps with pro-grade Fox suspension, and pull off bmx tricks on snow to unleash your passion to go full send all year long!</p><p>Ski areas big and small all around the United States have embraced ski biking and allow snogos on their lifts.</p>",
               "button_label": "",
               "button_link": ""
             }
@@ -988,10 +997,10 @@
         "settings": {
           "subtitle": "We combined skiing, snowboarding, and riding a bike.",
           "title": "HOW TO STOP YOUR SKI BIKE",
-          "text": "<p>SNO-GOs are designed to put you in the driver's seat to <strong>conquer whatever mountains you want to explore<\/strong>. The front ski allows you to maneuver from the comfort of your hands, while the rear skis provide stability that'll make you feel like a pro day one!<\/p><p><strong>To turn, slow down or brake on SNO-GO ski bikes<\/strong>, simply tilt the handlebars and push down on your outside foot. The edges drive into the snow immediately (like a seasoned skier) giving even the newest riders, confidence and control.<\/p>",
+          "text": "<p>SNO-GOs are designed to put you in the driver's seat to <strong>conquer whatever mountains you want to explore</strong>. The front ski allows you to maneuver from the comfort of your hands, while the rear skis provide stability that'll make you feel like a pro day one!</p><p><strong>To turn, slow down or brake on SNO-GO ski bikes</strong>, simply tilt the handlebars and push down on your outside foot. The edges drive into the snow immediately (like a seasoned skier) giving even the newest riders, confidence and control.</p>",
           "button_label": "",
           "button_link": "",
-          "image": "shopify:\/\/shop_images\/home-section-09.jpg",
+          "image": "shopify://shop_images/home-section-09.jpg",
           "focal_point": "center",
           "color_border": "#f4f4f4",
           "layout": "left",
@@ -1008,10 +1017,10 @@
         "settings": {
           "subtitle": "RESORT AND RENTAL LOCATIONS",
           "title": "WHERE CAN I RIDE MY SNO-GO ski bike?",
-          "text": "<p>There are plenty of options especially in Colorado and Utah. SNO-GO ski bikes are <strong>allowed at more than half of the ski resorts in North America<\/strong> with many more destinations being added every season. If you have a disability, SNO-GO bikes are welcome everywhere as adaptive ski equipment.<\/p><p>Renting from one of our Authorized rental dealers <strong>is a great way to start riding.<\/strong><\/p>",
+          "text": "<p>There are plenty of options especially in Colorado and Utah. SNO-GO ski bikes are <strong>allowed at more than half of the ski resorts in North America</strong> with many more destinations being added every season. If you have a disability, SNO-GO bikes are welcome everywhere as adaptive ski equipment.</p><p>Renting from one of our Authorized rental dealers <strong>is a great way to start riding.</strong></p>",
           "button_label": "WHERE TO RIDE",
-          "button_link": "shopify:\/\/products\/shifted-1",
-          "image": "shopify:\/\/shop_images\/home-section-10.jpg",
+          "button_link": "shopify://products/shifted-1",
+          "image": "shopify://shop_images/home-section-10.jpg",
           "focal_point": "center",
           "color_border": "#f4f4f4",
           "layout": "right",
@@ -1098,9 +1107,9 @@
       "share_pinterest": true,
       "share_twitter": true,
       "sku_enable": false,
-      "social_facebook_link": "https:\/\/www.facebook.com\/shopify",
-      "social_instagram_link": "https:\/\/instagram.com\/shopify",
-      "social_pinterest_link": "https:\/\/www.pinterest.com\/shopify",
+      "social_facebook_link": "https://www.facebook.com/shopify",
+      "social_instagram_link": "https://instagram.com/shopify",
+      "social_pinterest_link": "https://www.pinterest.com/shopify",
       "type_base_font_family": "futura_n4",
       "type_base_line_height": 1.6,
       "type_base_size": 16,
@@ -1277,7 +1286,7 @@
         "1499790633921": {
           "type": "background-image-text",
           "settings": {
-            "button_link": "shopify:\/\/collections\/all",
+            "button_link": "shopify://collections/all",
             "focal_point": "80% 0",
             "color_border": "#cdb8ac",
             "layout": "left",
@@ -1398,9 +1407,9 @@
               "type": "image",
               "settings": {
                 "title_size": 80,
-                "link": "shopify:\/\/collections\/all",
+                "link": "shopify://collections/all",
                 "link_text": "Shop this",
-                "link_2": "shopify:\/\/collections\/all",
+                "link_2": "shopify://collections/all",
                 "link_text_2": "Shop all",
                 "color_accent": "#000000",
                 "text_align": "vertical-center horizontal-center",
@@ -1411,9 +1420,9 @@
               "type": "image",
               "settings": {
                 "title_size": 80,
-                "link": "shopify:\/\/collections\/all",
+                "link": "shopify://collections/all",
                 "link_text": "Shop all",
-                "link_2": "shopify:\/\/collections\/all",
+                "link_2": "shopify://collections/all",
                 "link_text_2": "Shop all",
                 "color_accent": "#000000",
                 "text_align": "vertical-bottom horizontal-left",
@@ -1499,7 +1508,7 @@
             "1525886482727": {
               "type": "advanced",
               "settings": {
-                "cta_link1": "shopify:\/\/collections\/all",
+                "cta_link1": "shopify://collections/all",
                 "width": "100",
                 "height": 720,
                 "text_size": 120,
@@ -1543,7 +1552,7 @@
             "1525912530555-0": {
               "type": "advanced",
               "settings": {
-                "cta_link1": "shopify:\/\/collections\/all",
+                "cta_link1": "shopify://collections/all",
                 "width": "50",
                 "height": 800,
                 "text_size": 100,
@@ -1556,7 +1565,7 @@
             "1525912530555-1": {
               "type": "advanced",
               "settings": {
-                "cta_link1": "shopify:\/\/collections\/all",
+                "cta_link1": "shopify://collections/all",
                 "width": "50",
                 "height": 500,
                 "text_size": 100,
@@ -1584,7 +1593,7 @@
             "1526403837307": {
               "type": "banner",
               "settings": {
-                "link": "shopify:\/\/collections\/all",
+                "link": "shopify://collections/all",
                 "label": "Shop now",
                 "color_tint": "#e95454",
                 "color_tint_opacity": 10,
@@ -1594,7 +1603,7 @@
             "1526496043079": {
               "type": "advanced",
               "settings": {
-                "cta_link1": "shopify:\/\/collections\/all",
+                "cta_link1": "shopify://collections/all",
                 "width": "100",
                 "height": 500,
                 "text_size": 120,
@@ -1691,10 +1700,10 @@
       "cart_type": "drawer",
       "cart_notes_enable": false,
       "cart_terms_conditions_enable": false,
-      "social_facebook_link": "https:\/\/www.facebook.com\/shopify",
-      "social_twitter_link": "https:\/\/twitter.com\/shopify",
-      "social_instagram_link": "https:\/\/instagram.com\/shopify",
-      "social_youtube_link": "https:\/\/www.youtube.com\/user\/shopify",
+      "social_facebook_link": "https://www.facebook.com/shopify",
+      "social_twitter_link": "https://twitter.com/shopify",
+      "social_instagram_link": "https://instagram.com/shopify",
+      "social_youtube_link": "https://www.youtube.com/user/shopify",
       "share_facebook": true,
       "share_twitter": true,
       "share_pinterest": true,
@@ -1721,7 +1730,7 @@
               "settings": {
                 "text": "Free shipping",
                 "link_text": "On all orders over $100",
-                "link": "shopify:\/\/collections\/all"
+                "link": "shopify://collections/all"
               }
             },
             "1520888647304": {
@@ -1729,7 +1738,7 @@
               "settings": {
                 "text": "Hassle-free returns",
                 "link_text": "30-day postage paid returns",
-                "link": "shopify:\/\/collections\/all"
+                "link": "shopify://collections/all"
               }
             }
           },
@@ -1831,7 +1840,7 @@
         "1499790633921": {
           "type": "background-image-text",
           "settings": {
-            "button_link": "shopify:\/\/collections\/all",
+            "button_link": "shopify://collections/all",
             "focal_point": "center",
             "color_border": "#6a635b",
             "layout": "right",
@@ -2054,7 +2063,7 @@
         "1524685456938": {
           "type": "background-image-text",
           "settings": {
-            "button_link": "shopify:\/\/collections\/all",
+            "button_link": "shopify://collections/all",
             "focal_point": "center",
             "color_border": "#655147",
             "layout": "right",
@@ -2116,7 +2125,7 @@
             "1525879359021": {
               "type": "advanced",
               "settings": {
-                "cta_link1": "shopify:\/\/collections\/all",
+                "cta_link1": "shopify://collections/all",
                 "width": "100",
                 "height": 500,
                 "text_size": 120,
@@ -2143,7 +2152,7 @@
             "1525881312850": {
               "type": "banner",
               "settings": {
-                "link": "shopify:\/\/collections\/all",
+                "link": "shopify://collections/all",
                 "label": "Learn more",
                 "color_tint": "#d69344",
                 "color_tint_opacity": 14,
@@ -2238,7 +2247,7 @@
               "type": "banner",
               "settings": {
                 "heading": "Free shipping",
-                "link": "shopify:\/\/collections\/all",
+                "link": "shopify://collections/all",
                 "label": "Learn more",
                 "color_tint": "#d69344",
                 "color_tint_opacity": 14,
@@ -2345,9 +2354,9 @@
       "collection_grid_opacity": 10,
       "collection_grid_gutter": true,
       "cart_type": "drawer",
-      "social_facebook_link": "https:\/\/www.facebook.com\/shopify",
-      "social_twitter_link": "https:\/\/twitter.com\/shopify",
-      "social_youtube_link": "https:\/\/www.youtube.com\/user\/shopify",
+      "social_facebook_link": "https://www.facebook.com/shopify",
+      "social_twitter_link": "https://twitter.com/shopify",
+      "social_youtube_link": "https://www.youtube.com/user/shopify",
       "share_facebook": true,
       "share_twitter": true,
       "share_pinterest": true,
@@ -2471,7 +2480,7 @@
         "1499790633921": {
           "type": "background-image-text",
           "settings": {
-            "button_link": "shopify:\/\/collections\/all",
+            "button_link": "shopify://collections/all",
             "focal_point": "center",
             "color_border": "#090909",
             "layout": "right",
@@ -2486,7 +2495,7 @@
             "product-background-image-text": {
               "type": "background-image-text",
               "settings": {
-                "button_link": "shopify:\/\/collections\/all",
+                "button_link": "shopify://collections/all",
                 "alignment": "top left",
                 "color_border": "#3a6815",
                 "layout": "right",
@@ -2563,7 +2572,7 @@
             "1524768368258-0": {
               "type": "image",
               "settings": {
-                "link": "shopify:\/\/collections\/all",
+                "link": "shopify://collections/all",
                 "link_text": "Shop all",
                 "text_align": "vertical-center horizontal-left",
                 "focal_point": "top center"
@@ -2718,7 +2727,7 @@
             "1526501090474": {
               "type": "advanced",
               "settings": {
-                "cta_link1": "shopify:\/\/collections\/all",
+                "cta_link1": "shopify://collections/all",
                 "width": "50",
                 "height": 400,
                 "text_size": 120,
@@ -2758,7 +2767,7 @@
         "1526480838446": {
           "type": "background-image-text",
           "settings": {
-            "button_link": "shopify:\/\/collections\/all",
+            "button_link": "shopify://collections/all",
             "focal_point": "center",
             "color_border": "#f4f4f4",
             "layout": "left",
