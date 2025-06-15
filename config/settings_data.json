@@ -676,18 +676,18 @@
           "image_AHc4L4": {
             "type": "image",
             "settings": {
-              "top_subheading": "",
-              "title": "RIDE YOUR\nFAVORITE\nMOUNTAINS",
-              "title_size": 80,
+              "top_subheading": "\"if you like riding bikes, you're going to absolutely love snogoing.\"",
+              "title": "- Nicholi Rogatkin",
+              "title_size": 100,
               "subheading": "",
               "link": "",
-              "link_text": "FIND LOCATION",
+              "link_text": "LEAN MORE",
               "link_2": "",
               "link_text_2": "",
-              "color_accent": "#990000",
+              "color_accent": "rgba(0,0,0,0)",
               "text_align": "vertical-bottom horizontal-left",
-              "image": "shopify://shop_images/home-section-05.jpg",
-              "mobile_image": "shopify://shop_images/EZLoad_Mobile_1296x_55d82506-be50-404a-aeba-2fe2f2cbaa8f.webp",
+              "image": "shopify://shop_images/Nicholi_Hero_Background_2ee797ce-f1f2-469d-a440-91f52d3d5ec7_2160x_jpg.jpg",
+              "mobile_image": "shopify://shop_images/Nicholi_Hero_Background_Mobile_10b9ea43-bae1-43eb-82e6-787e8643afeb_300x_jpg.jpg",
               "focal_point": "center center"
             }
           }
@@ -811,7 +811,7 @@
           "text": "<p>Pair large text with a full-width image to draw attention to an important detail of your brand or product line.</p>",
           "button_label": "asdf",
           "button_link": "shopify://blogs/news",
-          "image": "shopify://shop_images/4T0A6492.jpg",
+          "image": "shopify://shop_images/Nicholi_Hero_Background_2ee797ce-f1f2-469d-a440-91f52d3d5ec7_2160x_jpg.jpg",
           "focal_point": "center",
           "color_border": "#f4f4f4",
           "layout": "right",
@@ -1037,11 +1037,11 @@
       "slideshow_Q4D7HE",
       "logo_list_tDXAKd",
       "slideshow_KaXKfq",
-      "background_image_text_pFQrtG",
       "featured_collection_9jqqUU",
       "text_columns_PDdVFg",
       "background_image_text_eAhabD",
       "background_image_text_cixe4r",
+      "background_image_text_pFQrtG",
       "text_columns_FidaVw",
       "background_image_text_nqLFfQ",
       "background_image_text_4TgEne"
