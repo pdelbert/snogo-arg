@@ -874,10 +874,10 @@
             "type": "text_block",
             "settings": {
               "enable_image": true,
-              "image": "shopify://shop_images/logo-01.jpg",
+              "image": "shopify://shop_images/8bf1a52f-294e-4a67-81b0-9b64708e0422.svg",
               "image_width": 160,
               "title": "",
-              "text": "<h1>DESIGNED IN</h1><h1>THE USA</h1>",
+              "text": "<h3>DESIGNED IN</h3><h3>THE USA</h3>",
               "button_label": "",
               "button_link": ""
             }
