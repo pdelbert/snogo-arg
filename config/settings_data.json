@@ -931,7 +931,7 @@
         "settings": {
           "title": "",
           "align_text": "center",
-          "divider": true
+          "divider": false
         }
       },
       "background_image_text_cixe4r": {
