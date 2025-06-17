@@ -894,6 +894,18 @@
               "button_link": ""
             }
           },
+          "text_block_Emqqg3": {
+            "type": "text_block",
+            "settings": {
+              "enable_image": true,
+              "image": "shopify://shop_images/c91413f2-a70d-4137-ac80-f8e77913e317.svg",
+              "image_width": 70,
+              "title": "",
+              "text": "<h3>LIFETIME WARRANTY ON FRAMES</h3>",
+              "button_label": "Optional button",
+              "button_link": ""
+            }
+          },
           "text_block_EL6fbF": {
             "type": "text_block",
             "settings": {
@@ -910,12 +922,13 @@
         "block_order": [
           "text_block_FKQafp",
           "text_block_8VKmE7",
+          "text_block_Emqqg3",
           "text_block_EL6fbF"
         ],
         "settings": {
           "title": "",
           "align_text": "center",
-          "divider": false
+          "divider": true
         }
       },
       "background_image_text_cixe4r": {
