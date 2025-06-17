@@ -619,7 +619,8 @@
       "background_image_text_eAhabD": {
         "type": "background-image-text",
         "custom_css": [
-          ".background-media-text__text {color: white; background: rgba(193,65,68,1.0) !important}",
+          ".background-media-text__text {color: white; background: rgba(193, 65, 68, 1) !important;}",
+          "h3 {font-family: 'eger-regular';}",
           "@media screen and (max-width: 768px) {.animation-cropper {width: 100%; }}"
         ],
         "settings": {
