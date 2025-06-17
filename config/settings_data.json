@@ -877,7 +877,7 @@
               "image": "shopify://shop_images/8bf1a52f-294e-4a67-81b0-9b64708e0422.svg",
               "image_width": 70,
               "title": "",
-              "text": "<h3>DESIGNED IN</h3><h3>THE USA</h3>",
+              "text": "<h1>DESIGNED IN THE USA</h1>",
               "button_label": "",
               "button_link": ""
             }
@@ -889,7 +889,7 @@
               "image": "shopify://shop_images/88cde01f-da81-49cf-b483-087075c3e1b0.svg",
               "image_width": 70,
               "title": "",
-              "text": "<h3>FREE SHIPPING</h3><h3>FOR BIKE</h3><h3>ORDERS</h3>",
+              "text": "<h1>FREE SHIPPING FOR BIKE</h1><h1>ORDERS</h1>",
               "button_label": "",
               "button_link": ""
             }
@@ -901,7 +901,19 @@
               "image": "shopify://shop_images/ced14c07-b35a-47bb-a297-aff156453a44.svg",
               "image_width": 70,
               "title": "",
-              "text": "<h3>RIDE NOW. PAY</h3><h3>LATER.</h3>",
+              "text": "<h1>RIDE NOW. PAY LATER.</h1>",
+              "button_label": "",
+              "button_link": ""
+            }
+          },
+          "text_block_Emqqg3": {
+            "type": "text_block",
+            "settings": {
+              "enable_image": true,
+              "image": "shopify://shop_images/c91413f2-a70d-4137-ac80-f8e77913e317.svg",
+              "image_width": 70,
+              "title": "",
+              "text": "<h1>LIFETIME WARRANTY ON </h1><h1>FRAMES</h1>",
               "button_label": "",
               "button_link": ""
             }
@@ -910,7 +922,11 @@
         "block_order": [
           "text_block_FKQafp",
           "text_block_8VKmE7",
-          "text_block_EL6fbF"
+          "text_block_EL6fbF",
+          "text_block_Emqqg3"
+        ],
+        "custom_css": [
+          ".grid--flush-bottom {display: flex;}"
         ],
         "settings": {
           "title": "",
