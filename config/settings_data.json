@@ -619,6 +619,7 @@
       "background_image_text_eAhabD": {
         "type": "background-image-text",
         "custom_css": [
+          ".background-media-text__text {color: white; background: rgba(193,65,68,1.0) !important}",
           "@media screen and (max-width: 768px) {.animation-cropper {width: 100%; }}"
         ],
         "settings": {
@@ -1054,8 +1055,8 @@
       "logo_list_tDXAKd",
       "featured_collection_9jqqUU",
       "text_columns_PDdVFg",
-      "slideshow_KaXKfq",
       "background_image_text_eAhabD",
+      "slideshow_KaXKfq",
       "background_image_text_cixe4r",
       "background_image_text_pFQrtG",
       "text_columns_FidaVw",
