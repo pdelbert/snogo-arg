@@ -886,10 +886,10 @@
             "type": "text_block",
             "settings": {
               "enable_image": true,
-              "image": "shopify://shop_images/logo-01.jpg",
-              "image_width": 160,
+              "image": "shopify://shop_images/88cde01f-da81-49cf-b483-087075c3e1b0.svg",
+              "image_width": 70,
               "title": "",
-              "text": "<h1>FREE SHIPPING</h1><h1>FOR BIKE</h1><h1>ORDERS</h1>",
+              "text": "<h3>FREE SHIPPING</h3><h3>FOR BIKE</h3><h3>ORDERS</h3>",
               "button_label": "",
               "button_link": ""
             }
@@ -898,10 +898,10 @@
             "type": "text_block",
             "settings": {
               "enable_image": true,
-              "image": "shopify://shop_images/logo-01.jpg",
-              "image_width": 160,
+              "image": "shopify://shop_images/ced14c07-b35a-47bb-a297-aff156453a44.svg",
+              "image_width": 70,
               "title": "",
-              "text": "<h1>RIDE NOW. PAY</h1><h1>LATER.</h1>",
+              "text": "<h3>RIDE NOW. PAY</h3><h3>LATER.</h3>",
               "button_label": "",
               "button_link": ""
             }
