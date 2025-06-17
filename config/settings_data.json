@@ -67,7 +67,7 @@
     "product_zoom_enable": false,
     "quick_shop_enable": false,
     "quick_shop_text": "Quick view",
-    "product_grid_image_size": "portrait",
+    "product_grid_image_size": "square",
     "product_hover_image": true,
     "product_color_swatches": false,
     "collection_color_swatches": true,
@@ -864,7 +864,7 @@
           "rows": 2,
           "mobile_scrollable": true,
           "view_all": false,
-          "divider": false
+          "divider": true
         }
       },
       "text_columns_PDdVFg": {
@@ -1036,8 +1036,8 @@
       "slideshow_YmnD9t",
       "slideshow_Q4D7HE",
       "logo_list_tDXAKd",
-      "slideshow_KaXKfq",
       "featured_collection_9jqqUU",
+      "slideshow_KaXKfq",
       "text_columns_PDdVFg",
       "background_image_text_eAhabD",
       "background_image_text_cixe4r",
