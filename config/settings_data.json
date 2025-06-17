@@ -925,6 +925,9 @@
           "text_block_Emqqg3",
           "text_block_EL6fbF"
         ],
+        "custom_css": [
+          ".grid--flush-bottom {display: flex;}"
+        ],
         "settings": {
           "title": "",
           "align_text": "center",
