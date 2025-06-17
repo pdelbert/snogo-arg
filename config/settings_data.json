@@ -901,7 +901,7 @@
               "image": "shopify://shop_images/c91413f2-a70d-4137-ac80-f8e77913e317.svg",
               "image_width": 70,
               "title": "",
-              "text": "<h3>LIFETIME WARRANTY ON FRAMES</h3>",
+              "text": "<h3>LIFETIME WARRANTY ON </h3><h3>FRAMES</h3>",
               "button_label": "",
               "button_link": ""
             }
@@ -913,7 +913,7 @@
               "image": "shopify://shop_images/ced14c07-b35a-47bb-a297-aff156453a44.svg",
               "image_width": 70,
               "title": "",
-              "text": "<h3>RIDE NOW. PAY</h3><h3>LATER.</h3>",
+              "text": "<h3>RIDE NOW. PAY LATER.</h3>",
               "button_label": "",
               "button_link": ""
             }
