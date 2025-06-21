@@ -4,10 +4,10 @@
 
 <div class="page-width">
   {% capture image_layout %}
-    <div class="feature-row__item">
-      <div style="margin: 0 auto; max-width: {{ section.settings.image_width }}px;">
-        
-        {% if section.settings.image != blank %}
+    <div class="feature-row__item feature-row__images" style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+      
+      {% if section.settings.image != blank %}
+        <div style="max-width: {{ section.settings.image_width }}px;">
           {% if section.settings.button_label != blank and section.settings.button_link != blank %}
             <a href="{{ section.settings.button_link }}">
           {% endif %}
@@ -23,9 +23,11 @@
           {% if section.settings.button_label != blank and section.settings.button_link != blank %}
             </a>
           {% endif %}
-        {% endif %}
+        </div>
+      {% endif %}
 
-        {% if section.settings.image2 != blank %}
+      {% if section.settings.image2 != blank %}
+        <div style="max-width: {{ section.settings.image_width }}px;">
           {% if section.settings.button_label != blank and section.settings.button_link != blank %}
             <a href="{{ section.settings.button_link }}">
           {% endif %}
@@ -41,15 +43,15 @@
           {% if section.settings.button_label != blank and section.settings.button_link != blank %}
             </a>
           {% endif %}
-        {% endif %}
+        </div>
+      {% endif %}
 
-        {% if section.settings.image == blank and section.settings.image2 == blank %}
-          <div class="image-wrap">
-            {{ 'image' | placeholder_svg_tag: 'placeholder-svg' }}
-          </div>
-        {% endif %}
+      {% if section.settings.image == blank and section.settings.image2 == blank %}
+        <div class="image-wrap">
+          {{ 'image' | placeholder_svg_tag: 'placeholder-svg' }}
+        </div>
+      {% endif %}
 
-      </div>
     </div>
   {% endcapture %}
 
