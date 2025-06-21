@@ -11900,9 +11900,13 @@ h1.hero__title .animation-contents {
 
 #shopify-section-text_and_image_phDLCa {
   .feature-row__item.feature-row__images {
-    div:first-child {
+    div.feature-row__inner:first-child {
       transform: translate(50px, 50px);
       z-index: 1;
+    }
+
+    .feature-row__inner {
+      flex: 1
     }
     
     .image-wrap {
