@@ -7,7 +7,7 @@
     <div class="feature-row__item feature-row__images" style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
       
       {% if section.settings.image != blank %}
-        <div style="max-width: {{ section.settings.image_width }}px;">
+        <div>
           {% if section.settings.button_label != blank and section.settings.button_link != blank %}
             <a href="{{ section.settings.button_link }}">
           {% endif %}
@@ -27,7 +27,7 @@
       {% endif %}
 
       {% if section.settings.image2 != blank %}
-        <div style="max-width: {{ section.settings.image_width }}px;">
+        <div>
           {% if section.settings.button_label != blank and section.settings.button_link != blank %}
             <a href="{{ section.settings.button_link }}">
           {% endif %}
