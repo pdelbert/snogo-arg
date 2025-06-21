@@ -757,8 +757,7 @@
               "title": "",
               "text": "<h1>DISEÑADO EN USA</h1>",
               "button_label": "",
-              "button_link": "",
-              "custom_svg": ""
+              "button_link": ""
             }
           },
           "text_block_8VKmE7": {
@@ -770,8 +769,7 @@
               "title": "",
               "text": "<h1>Envio gratis </h1><h1>a todo el pais</h1>",
               "button_label": "",
-              "button_link": "",
-              "custom_svg": ""
+              "button_link": ""
             }
           },
           "text_block_EL6fbF": {
@@ -783,8 +781,7 @@
               "title": "",
               "text": "<h1>FORMAS DE PAGO</h1>",
               "button_label": "",
-              "button_link": "",
-              "custom_svg": ""
+              "button_link": ""
             }
           },
           "text_block_Emqqg3": {
@@ -796,8 +793,7 @@
               "title": "",
               "text": "<h1>GARANTIA </h1><h1>POR TRES AÑOS</h1>",
               "button_label": "",
-              "button_link": "",
-              "custom_svg": ""
+              "button_link": ""
             }
           }
         },
@@ -843,12 +839,12 @@
             "type": "text_block",
             "settings": {
               "enable_image": true,
+              "image": "shopify://shop_images/c91413f2-a70d-4137-ac80-f8e77913e317.svg",
               "image_width": 80,
               "title": "FÁCIL Y DIVERTIDO DESDE LA PRIMERA BAJADA",
               "text": "<p>Subís, agarrás el manubrio —igualito al de tu bici— y listo: ya estás en modo aventura. Tus pies se calzan directo en las fijaciones de los esquíes, sin vueltas raras, y estás preparado para encarar la montaña con todo.<br/><br/>La bajada es pura diversión y, cuando llegás al final, te parás derecho y vas a la aerosilla sin tener que sentarte en la nieve o andar ajustando correas. Nada de mojarte o enfriarte —¡eso quedó en el pasado!<br/><br/>Si sos fan de la bici en verano, ya sea de montaña o eléctrica, te vas a sentir como en casa con la SNO-GO. Es esa misma sensación de libertad y viento en la cara, pero en plena temporada de nieve.</p>",
               "button_label": "",
-              "button_link": "",
-              "custom_svg": "<svg aria-hidden=\"true\" focusable=\"false\" role=\"presentation\" class=\"icon icon-tcwi-chat\" viewbox=\"0 0 100 100\"><defs><style>.a{fill:none;stroke:#000;stroke-width:2px}</style></defs><path class=\"a\" d=\"M88.78 28.25v47.18h-9.42v10.58L62.91 75.43H32.55V28.25h56.23zM41.85 42.53h37.51M41.85 51.83h37.51M41.85 61.14h26.58\"></path><path class=\"a\" d=\"M67.45 13.99v14.26h-34.9v35.83l-11.91 7.67V61.16h-9.42V13.99h56.23z\"></path></svg>"
+              "button_link": ""
             }
           },
           "text_block_6wVbHW": {
@@ -860,8 +856,7 @@
               "title": "CON TUS BOTAS DE INVIERNO, YA ESTÁS LISTO",
               "text": "<p>Queríamos que todo sea fácil, y lo logramos. Acá no necesitás esas incómodas botas de esquí que nadie quiere usar.<br/><br/>Según la National Ski Area Association, las botas de esquí son la tercera causa más común por la que la gente deja de esquiar. Pero con SNO-GO eso no pasa: solo necesitás unas buenas botas de invierno para arrancar.<br/><br/>Y si después querés ir más allá, muchos riders usan botas de snowboard por la comodidad y estabilidad que dan en cualquier tipo de pista.</p>",
               "button_label": "",
-              "button_link": "",
-              "custom_svg": ""
+              "button_link": ""
             }
           },
           "text_block_aTmbMY": {
@@ -873,8 +868,7 @@
               "title": "LE AGARRÁS LA MANO EN MENOS DE UNA HORA",
               "text": "<p>No hace falta ser experto ni haber esquiado antes. La SNO-GO es para cualquiera que tenga ganas de probar algo nuevo y divertido. Aprendés rápido y la pasás bien desde el primer momento.<br/><br/>La mayoría de las personas que se suben por primera vez ya están doblando y frenando con confianza en menos de una hora. Y si te pinta ir por más, podés meter saltitos y jugar con el estilo arriba de la nieve.<br/><br/>Las pistas de esquí de todo el mundo ya aceptan las ski bikes y permiten subir con tu SNO-GO en la aerosilla, así que no hay excusas: te esperan la montaña, la nieve y una experiencia totalmente distinta</p>",
               "button_label": "",
-              "button_link": "",
-              "custom_svg": ""
+              "button_link": ""
             }
           }
         },
