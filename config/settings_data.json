@@ -671,40 +671,6 @@
           "autoplay_speed": 5
         }
       },
-      "slideshow_Q4D7HE": {
-        "type": "slideshow",
-        "blocks": {
-          "image_AHc4L4": {
-            "type": "image",
-            "settings": {
-              "top_subheading": "\"if you like riding bikes, you're going to absolutely love snogoing.\"",
-              "title": "- Nicholi Rogatkin",
-              "title_size": 100,
-              "subheading": "",
-              "link": "",
-              "link_text": "LEAN MORE",
-              "link_2": "",
-              "link_text_2": "",
-              "color_accent": "rgba(0,0,0,0)",
-              "text_align": "vertical-bottom horizontal-left",
-              "image": "shopify://shop_images/Nicholi_Hero_Background_2ee797ce-f1f2-469d-a440-91f52d3d5ec7_2160x_jpg.jpg",
-              "mobile_image": "shopify://shop_images/Nicholi_Hero_Background_Mobile_10b9ea43-bae1-43eb-82e6-787e8643afeb_300x_jpg.jpg",
-              "focal_point": "center center"
-            }
-          }
-        },
-        "block_order": [
-          "image_AHc4L4"
-        ],
-        "settings": {
-          "section_height": "100vh",
-          "mobile_height": "auto",
-          "parallax": false,
-          "style": "minimal",
-          "autoplay": true,
-          "autoplay_speed": 5
-        }
-      },
       "logo_list_tDXAKd": {
         "type": "logo-list",
         "blocks": {
@@ -821,48 +787,13 @@
           "parallax": false
         }
       },
-      "slideshow_YmnD9t": {
-        "type": "slideshow",
-        "blocks": {
-          "image_bEk79w": {
-            "type": "image",
-            "settings": {
-              "top_subheading": "",
-              "title": "",
-              "title_size": 80,
-              "subheading": "",
-              "link": "",
-              "link_text": "",
-              "link_2": "",
-              "link_text_2": "",
-              "color_accent": "#c14144",
-              "text_align": "vertical-center horizontal-right",
-              "image": "shopify://shop_images/home-section-06.jpg",
-              "mobile_image": "shopify://shop_images/Price_Drop_Banner_Mobile_1296x_95fdcb56-0a92-46a0-b050-3ba064594daa.webp",
-              "focal_point": "center center"
-            }
-          }
-        },
-        "block_order": [
-          "image_bEk79w"
-        ],
-        "custom_css": [],
-        "settings": {
-          "section_height": "100vh",
-          "mobile_height": "100vh",
-          "parallax": false,
-          "style": "minimal",
-          "autoplay": true,
-          "autoplay_speed": 5
-        }
-      },
       "featured_collection_9jqqUU": {
         "type": "featured-collection",
         "settings": {
           "title": "MAS VENDIDA",
           "home_featured_products": "shifted",
-          "per_row": 2,
-          "rows": 2,
+          "per_row": 1,
+          "rows": 1,
           "mobile_scrollable": true,
           "view_all": false,
           "divider": true
@@ -1050,8 +981,6 @@
     "content_for_index": [
       "1524769873765",
       "slideshow_JUbDnw",
-      "slideshow_YmnD9t",
-      "slideshow_Q4D7HE",
       "logo_list_tDXAKd",
       "featured_collection_9jqqUU",
       "text_columns_PDdVFg",
