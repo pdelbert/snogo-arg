@@ -981,7 +981,8 @@
         "type": "text-and-image",
         "name": "Image with text",
         "settings": {
-          "image": "shopify://shop_images/Nicholi_Hero_Background_Mobile_10b9ea43-bae1-43eb-82e6-787e8643afeb_300x_jpg.jpg",
+          "image": "shopify://shop_images/Shred_with_SLAT_360x_jpg.jpg",
+          "image2": "shopify://shop_images/Fast_Progression_360x_jpg.jpg",
           "image_width": 500,
           "subtitle": "THE FASTEST PROGRESSION IN SNOW SPORTS",
           "title": "CONQUER YOUR MOUNTAIN",
