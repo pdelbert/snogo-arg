@@ -582,40 +582,6 @@
           "recent_count": 5
         }
       },
-      "slideshow_KaXKfq": {
-        "type": "slideshow",
-        "blocks": {
-          "image_Trb4qz": {
-            "type": "image",
-            "settings": {
-              "top_subheading": "",
-              "title": "",
-              "title_size": 52,
-              "subheading": "",
-              "link": "",
-              "link_text": "AS LOW AS $83/MO",
-              "link_2": "",
-              "link_text_2": "",
-              "color_accent": "#ffffff",
-              "text_align": "vertical-bottom horizontal-right",
-              "image": "shopify://shop_images/banner-2_01.jpg",
-              "mobile_image": "shopify://shop_images/Price_Drop_2_Web_Banner_Mobile_1296x_9d8465f9-2674-48fc-b1dc-2610d0423fc5.webp",
-              "focal_point": "center center"
-            }
-          }
-        },
-        "block_order": [
-          "image_Trb4qz"
-        ],
-        "settings": {
-          "section_height": "750px",
-          "mobile_height": "auto",
-          "parallax": false,
-          "style": "minimal",
-          "autoplay": false,
-          "autoplay_speed": 5
-        }
-      },
       "background_image_text_eAhabD": {
         "type": "background-image-text",
         "custom_css": [
@@ -1001,13 +967,12 @@
       "featured_collection_9jqqUU",
       "text_columns_PDdVFg",
       "background_image_text_eAhabD",
-      "slideshow_KaXKfq",
+      "text_and_image_phDLCa",
       "background_image_text_cixe4r",
       "background_image_text_pFQrtG",
       "text_columns_FidaVw",
       "background_image_text_nqLFfQ",
-      "background_image_text_4TgEne",
-      "text_and_image_phDLCa"
+      "background_image_text_4TgEne"
     ]
   },
   "presets": {
