@@ -838,10 +838,10 @@
           "@media screen and (max-width: 768px) {.animation-cropper {width: 100%; }}"
         ],
         "settings": {
-          "subtitle": "GETTING STARTED",
-          "title": "YOUR FIRST TIME SKI BIKING",
+          "subtitle": "COMENZAR",
+          "title": "primer descenso en snogo",
           "text": "<p>You'll be riding high, but<strong>&gt;&gt;&gt;&gt;&gt;&gt; BE PREPARED</strong>for any surprises Mother Nature throws your way. Helmets, goggles, and warm, dry clothing are a must.</p><p>Hungry for speed?<strong>&gt;&gt;&gt;&gt;&gt;&gt; PLAY IT SMART.</strong>First learning how to control your ride and stop safely is paramount to keep the good times rolling.</p><p>Hungry for speed?<strong>&gt;&gt;&gt;&gt;&gt;&gt; PLAY IT SMART.</strong>First learning how to control your ride and stop safely is paramount to keep the good times rolling.</p><p></p>",
-          "button_label": "HOW TO RIDE",
+          "button_label": "tutorial",
           "button_link": "shopify://products/shifted",
           "image": "shopify://shop_images/home-section-08.jpg",
           "focal_point": "center",
