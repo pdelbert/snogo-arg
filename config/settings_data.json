@@ -733,26 +733,6 @@
           "divider": false
         }
       },
-      "background_image_text_pFQrtG": {
-        "type": "background-image-text",
-        "custom_css": [
-          "@media screen and (max-width: 768px) {.animation-cropper {width: 100%; }}"
-        ],
-        "settings": {
-          "subtitle": "Impressive",
-          "title": "Large image with text box",
-          "text": "<p>Pair large text with a full-width image to draw attention to an important detail of your brand or product line.</p>",
-          "button_label": "asdf",
-          "button_link": "shopify://blogs/news",
-          "image": "shopify://shop_images/Nicholi_Hero_Background_2ee797ce-f1f2-469d-a440-91f52d3d5ec7_2160x_jpg.jpg",
-          "focal_point": "center",
-          "color_border": "#f4f4f4",
-          "layout": "right",
-          "height": 550,
-          "framed": false,
-          "parallax": false
-        }
-      },
       "featured_collection_9jqqUU": {
         "type": "featured-collection",
         "settings": {
@@ -969,7 +949,6 @@
       "background_image_text_eAhabD",
       "text_and_image_phDLCa",
       "background_image_text_cixe4r",
-      "background_image_text_pFQrtG",
       "text_columns_FidaVw",
       "background_image_text_nqLFfQ",
       "background_image_text_4TgEne"
