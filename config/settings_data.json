@@ -976,6 +976,21 @@
           "framed": false,
           "parallax": false
         }
+      },
+      "text_and_image_phDLCa": {
+        "type": "text-and-image",
+        "name": "Image with text",
+        "settings": {
+          "image": "shopify://shop_images/Nicholi_Hero_Background_Mobile_10b9ea43-bae1-43eb-82e6-787e8643afeb_300x_jpg.jpg",
+          "image_width": 500,
+          "subtitle": "THE FASTEST PROGRESSION IN SNOW SPORTS",
+          "title": "CONQUER YOUR MOUNTAIN",
+          "text": "<p>SNO-GO ski bikes allow anyone of any age to <strong>enjoy the mountain slopes within minutes</strong>without taking an expensive ski lesson.</p>",
+          "button_label": "TUTORIAL",
+          "button_link": "",
+          "layout": "left",
+          "divider": false
+        }
       }
     },
     "content_for_index": [
@@ -990,7 +1005,8 @@
       "background_image_text_pFQrtG",
       "text_columns_FidaVw",
       "background_image_text_nqLFfQ",
-      "background_image_text_4TgEne"
+      "background_image_text_4TgEne",
+      "text_and_image_phDLCa"
     ]
   },
   "presets": {
