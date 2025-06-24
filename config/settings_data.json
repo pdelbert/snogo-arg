@@ -197,7 +197,7 @@
             "type": "menu",
             "settings": {
               "show_footer_title": true,
-              "menu": "footer",
+              "menu": "dealers",
               "container_width": 25
             }
           }
