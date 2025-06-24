@@ -185,6 +185,14 @@
               "container_width": 25
             }
           },
+          "menu_KYDWA7": {
+            "type": "menu",
+            "settings": {
+              "show_footer_title": true,
+              "menu": "footer",
+              "container_width": 25
+            }
+          },
           "menu_gaxgG8": {
             "type": "menu",
             "settings": {
@@ -197,13 +205,14 @@
             "type": "menu",
             "settings": {
               "show_footer_title": true,
-              "menu": "dealers",
+              "menu": "footer",
               "container_width": 25
             }
           }
         },
         "block_order": [
           "1494301487048",
+          "menu_KYDWA7",
           "menu_gaxgG8",
           "menu_RHKMim"
         ],
