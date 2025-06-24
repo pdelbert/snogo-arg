@@ -185,14 +185,6 @@
               "container_width": 25
             }
           },
-          "menu_KYDWA7": {
-            "type": "menu",
-            "settings": {
-              "show_footer_title": true,
-              "menu": "footer",
-              "container_width": 25
-            }
-          },
           "menu_gaxgG8": {
             "type": "menu",
             "settings": {
@@ -205,21 +197,20 @@
             "type": "menu",
             "settings": {
               "show_footer_title": true,
-              "menu": "footer",
+              "menu": "dealers",
               "container_width": 25
             }
           }
         },
         "block_order": [
           "1494301487048",
-          "menu_KYDWA7",
           "menu_gaxgG8",
           "menu_RHKMim"
         ],
         "settings": {
-          "show_locale_selector": true,
-          "show_currency_selector": true,
-          "show_currency_flags": true,
+          "show_locale_selector": false,
+          "show_currency_selector": false,
+          "show_currency_flags": false,
           "show_payment_icons": false,
           "show_copyright": true,
           "copyright_text": ""
