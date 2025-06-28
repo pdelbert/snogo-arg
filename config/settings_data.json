@@ -280,13 +280,14 @@
           "product-text-and-image": {
             "type": "text-and-image",
             "settings": {
+              "image": "shopify://shop_images/QR_Colored-high_1080x_45b22b21-87a0-4177-b8d7-ffacaa3260d7.webp",
               "image_width": 500,
-              "subtitle": "Improved",
-              "title": "Image with text",
-              "text": "<p>Pair large text with an image to tell a story, explain a detail about your product, or describe a new promotion.</p>",
-              "button_label": "Optional button",
+              "subtitle": "",
+              "title": "FÁCIL DE LLEVAR, FÁCIL DE GUARDAR",
+              "text": "<p>Gracias a su sistema de liberación  rápidasin herramientas, podés desmontar la SNO-GO en pocos segundos: el cuadro y los esquies se separan fácilmente para que transportarla no sea un problema.</p><p>¿Te vas de viaje? Llevála en el avión ¿Entra en el baúl sin complicaciones.¿Vivís en departamento? Guardarla es simple y ocupa poco espacio.</p><p>Todo está pensado para que tu experiencia en la nieve empiece mucho antes de lllegar a la montaña.</p>",
+              "button_label": "Seleccionar",
               "button_link": "",
-              "layout": "left"
+              "layout": "right"
             }
           },
           "product-background-image-text": {
