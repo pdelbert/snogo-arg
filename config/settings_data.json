@@ -335,13 +335,40 @@
               "height": 550,
               "parallax": true
             }
+          },
+          "hero_video_9BUrTe": {
+            "type": "hero-video",
+            "settings": {
+              "title": "Bring your\nbrand to life.",
+              "title_size": 80,
+              "subheading": "Seamless hero videos",
+              "link_text": "Optional button",
+              "link": "",
+              "text_align": "vertical-center horizontal-center",
+              "video_url": "https://www.youtube.com/watch?v=HxaiPN8vdwE&t=1s&ab_channel=SNO-GOSkiBikes",
+              "section_height": "650px",
+              "mobile_height": "auto"
+            }
+          },
+          "map_LkDp3B": {
+            "type": "map",
+            "settings": {
+              "map_title": "Our retail store",
+              "address": "<p>301 Front St W<br/>Toronto, Canada</p><p>Mon - Fri, 8:30am - 10:30pm<br/>Saturday, 8:30am - 10:30pm<br/>Sunday, 8:30am - 10:30pm</p>",
+              "map_address": "301 Front St W, Toronto, ON M5V 2T6",
+              "api_key": "",
+              "show_button": true,
+              "background_image_position": "center center"
+            }
           }
         },
         "block_order": [
           "product-hero-video",
           "product-text-columns",
           "product-text-and-image",
-          "product-background-image-text"
+          "product-background-image-text",
+          "hero_video_9BUrTe",
+          "map_LkDp3B"
         ],
         "settings": {
           "description_style": "default",
