@@ -232,11 +232,11 @@
         "type": "product-template",
         "settings": {
           "description_style": "default",
-          "social_enable": true,
+          "social_enable": false,
           "image_position": "left",
           "image_size": "large",
           "thumbnail_position": "beside",
-          "thumbnail_arrows": false,
+          "thumbnail_arrows": true,
           "enable_video_looping": true,
           "product_video_style": "muted"
         }
@@ -481,7 +481,6 @@
               "cta_link1": "shopify://collections/eyewear",
               "cta_text2": "Shop All",
               "cta_link2": "shopify://collections/all",
-              "image": "shopify://shop_images/happy-woman.jpg",
               "video_url": "",
               "width": "100",
               "height": 500,
