@@ -35,7 +35,7 @@
     name="{{ option.name }}"
     data-index="option{{ option_index }}"
     id="ProductSelect-{{ section_id }}-option-{{ forloop.index0 }}">
-    <p>{{ option.values }}</p>
+    <p>-- {{ option }}</p>
     {%- for value in option.values -%}
       {%- assign product_available = true -%}
       {%- if product.options.size == 1 -%}
