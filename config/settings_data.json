@@ -266,6 +266,46 @@
       "product-sections-template": {
         "type": "product-sections-template",
         "blocks": {
+          "rich_text_BJVLWT": {
+            "type": "rich-text",
+            "settings": {
+              "title": "TECNOLOGÍA S.L.A.T.®",
+              "text": "<p><strong>La bici de nieve que transforma tu forma de disfrutar el invierno</strong></p><p>La SNO-GO Shift es una nueva forma de moverse en la nieve, diseñada para que cualquier persona pueda vivir la montaña al máximo, sin necesidad de experiencia previa. Su exclusiva tecnología <strong>S.L.A.T.® (Synchronized Lateral Articulation Technology)</strong> permite un control total y una curva de aprendizaje mucho más rápida que el esquí o el snowboard.</p><p>Pensada para todos los niveles —desde quienes se inician hasta riders avanzados—, ofrece estabilidad, seguridad y libertad para recorrer cualquier terreno.</p><h3><strong>Nivel de experiencia:</strong></h3><p>Aprendés en minutos y progresás durante toda la temporada.</p><p><strong>Pistas pisadas, nieve polvo, saltos, fuera de pista, árboles o parque: con SNO-GO, todo es posible.</strong></p>",
+              "align_text": "center",
+              "narrow_column": true,
+              "enlarge_text": false
+            }
+          },
+          "hero_video_K7L8UA": {
+            "type": "hero-video",
+            "settings": {
+              "title": "",
+              "title_size": 80,
+              "subheading": "",
+              "link_text": "",
+              "link": "",
+              "text_align": "vertical-center horizontal-center",
+              "video_url": "https://www.youtube.com/watch?v=HxaiPN8vdwE&t=1s&ab_channel=SNO-GOSkiBikes",
+              "section_height": "750px",
+              "mobile_height": "100vh"
+            }
+          },
+          "background_image_text_ADWViU": {
+            "type": "background-image-text",
+            "settings": {
+              "subtitle": "Impressive",
+              "title": "Large image with text box",
+              "text": "<p>Pair large text with a full-width image to draw attention to an important detail of your brand or product line.</p>",
+              "button_label": "",
+              "button_link": "",
+              "image": "shopify://shop_images/Shift_Slash_Web_3024x_521d942e-ccaa-4843-98a3-707408a4e40d.webp",
+              "alignment": "center",
+              "color_border": "#f4f4f4",
+              "layout": "left",
+              "height": 550,
+              "parallax": true
+            }
+          },
           "product-text-columns": {
             "type": "text-columns",
             "settings": {
@@ -292,20 +332,6 @@
               "text_3": "<p>Cargá la suspensión delantera y despegá en bumps y saltos con una sensación bien similar a la bici de montaña. La misma adrenalina, pero sobre nieve, todo el invierno.</p>",
               "button_label_3": "",
               "button_link_3": ""
-            }
-          },
-          "hero_video_K7L8UA": {
-            "type": "hero-video",
-            "settings": {
-              "title": "",
-              "title_size": 80,
-              "subheading": "",
-              "link_text": "",
-              "link": "",
-              "text_align": "vertical-center horizontal-center",
-              "video_url": "https://www.youtube.com/watch?v=HxaiPN8vdwE&t=1s&ab_channel=SNO-GOSkiBikes",
-              "section_height": "750px",
-              "mobile_height": "100vh"
             }
           },
           "product-text-and-image": {
@@ -336,8 +362,10 @@
           }
         },
         "block_order": [
-          "product-text-columns",
+          "rich_text_BJVLWT",
           "hero_video_K7L8UA",
+          "background_image_text_ADWViU",
+          "product-text-columns",
           "product-text-and-image",
           "text_and_image_HYnL8D"
         ],
@@ -357,11 +385,42 @@
         "blocks": {
           "page-image-hero": {
             "type": "image-hero",
-            "settings": {}
+            "settings": {
+              "parallax": true,
+              "title": "Two line\ntitle image",
+              "title_size": 80,
+              "subheading": "And optional subtext",
+              "link": "",
+              "link_text": "Optional button",
+              "link_2": "",
+              "link_text_2": "",
+              "color_accent": "rgba(0,0,0,0)",
+              "text_align": "vertical-center horizontal-center",
+              "focal_point": "center center",
+              "section_height": "650px",
+              "mobile_height": "auto"
+            }
+          },
+          "background_image_text_iHJcDW": {
+            "type": "background-image-text",
+            "settings": {
+              "subtitle": "Impressive",
+              "title": "Large image with text box",
+              "text": "<p>Pair large text with a full-width image to draw attention to an important detail of your brand or product line.</p>",
+              "button_label": "",
+              "button_link": "",
+              "alignment": "center",
+              "color_border": "#f4f4f4",
+              "layout": "left",
+              "height": 550,
+              "parallax": true
+            }
           },
           "page-rich-text": {
             "type": "rich-text",
             "settings": {
+              "title": "Rich text block",
+              "text": "<p>Use this section for any descriptive text you need to fill out your pages or to add introductory headings between other blocks.</p>",
               "align_text": "center",
               "narrow_column": true,
               "enlarge_text": true
@@ -369,29 +428,59 @@
           },
           "page-text-columns": {
             "type": "text-columns",
-            "settings": {}
+            "settings": {
+              "title": "",
+              "align_text": "center",
+              "enable_image_1": true,
+              "image_width_1": 650,
+              "title_1": "Example title",
+              "text_1": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
+              "button_label_1": "",
+              "button_link_1": "",
+              "enable_image_2": true,
+              "image_width_2": 650,
+              "title_2": "Example title",
+              "text_2": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
+              "button_label_2": "",
+              "button_link_2": "",
+              "enable_image_3": true,
+              "image_width_3": 650,
+              "title_3": "Example title",
+              "text_3": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
+              "button_label_3": "",
+              "button_link_3": ""
+            }
           },
           "page-background-image-text": {
             "type": "background-image-text",
             "settings": {
+              "subtitle": "Impressive",
+              "title": "Large image with text box",
+              "text": "<p>Pair large text with a full-width image to draw attention to an important detail of your brand or product line.</p>",
+              "button_label": "",
+              "button_link": "",
               "alignment": "center",
               "color_border": "#f4f4f4",
               "layout": "right",
-              "height": 550
+              "height": 550,
+              "parallax": true
             }
           },
           "page-featured-collection": {
             "type": "featured-collection",
             "settings": {
               "title": "Featured collection",
+              "collection": "",
               "per_row": 4,
               "rows": 1,
+              "mobile_scrollable": true,
               "view_all": true
             }
           }
         },
         "block_order": [
           "page-image-hero",
+          "background_image_text_iHJcDW",
           "page-rich-text",
           "page-text-columns",
           "page-background-image-text",
