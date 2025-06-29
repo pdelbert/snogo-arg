@@ -388,7 +388,7 @@
           "description_style": "default",
           "social_enable": false,
           "image_position": "left",
-          "image_size": "medium",
+          "image_size": "small",
           "thumbnail_position": "below",
           "thumbnail_arrows": true,
           "enable_video_looping": true,
