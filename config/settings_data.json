@@ -266,20 +266,6 @@
       "product-sections-template": {
         "type": "product-sections-template",
         "blocks": {
-          "product-hero-video": {
-            "type": "hero-video",
-            "settings": {
-              "title": "Bring your\nbrand to life.",
-              "title_size": 80,
-              "subheading": "Seamless hero videos",
-              "link_text": "Optional button",
-              "link": "",
-              "text_align": "vertical-bottom horizontal-left",
-              "video_url": "https://youtu.be/bYmmzqOqMuA?si=jSH4Yv7bvgVlKZ28",
-              "section_height": "650px",
-              "mobile_height": "auto"
-            }
-          },
           "product-text-columns": {
             "type": "text-columns",
             "settings": {
@@ -321,6 +307,33 @@
               "layout": "right"
             }
           },
+          "hero_video_K7L8UA": {
+            "type": "hero-video",
+            "settings": {
+              "title": "Bring your\nbrand to life.",
+              "title_size": 80,
+              "subheading": "Seamless hero videos",
+              "link_text": "zdfsaf",
+              "link": "shopify://blogs/news",
+              "text_align": "vertical-center horizontal-center",
+              "video_url": "_9VUPq3SxOc",
+              "section_height": "650px",
+              "mobile_height": "auto"
+            }
+          },
+          "text_and_image_HYnL8D": {
+            "type": "text-and-image",
+            "settings": {
+              "image": "shopify://shop_images/Screen_Shot_2022-08-30_at_2.37.13_PM_750x_a9b24145-be73-4f16-a615-fb545ccc44a3.webp",
+              "image_width": 500,
+              "subtitle": "Improved",
+              "title": "Image with text",
+              "text": "<p>Pair large text with an image to tell a story, explain a detail about your product, or describe a new promotion.</p>",
+              "button_label": "Optional button",
+              "button_link": "",
+              "layout": "right"
+            }
+          },
           "product-background-image-text": {
             "type": "background-image-text",
             "settings": {
@@ -339,14 +352,14 @@
           "hero_video_9BUrTe": {
             "type": "hero-video",
             "settings": {
-              "title": "Bring your\nbrand to life.",
-              "title_size": 80,
-              "subheading": "Seamless hero videos",
-              "link_text": "Optional button",
-              "link": "",
-              "text_align": "vertical-center horizontal-center",
+              "title": "",
+              "title_size": 100,
+              "subheading": "",
+              "link_text": "",
+              "link": "shopify://collections/shifted",
+              "text_align": "vertical-center horizontal-left",
               "video_url": "https://www.youtube.com/watch?v=HxaiPN8vdwE&t=1s&ab_channel=SNO-GOSkiBikes",
-              "section_height": "650px",
+              "section_height": "100vh",
               "mobile_height": "auto"
             }
           },
@@ -363,9 +376,10 @@
           }
         },
         "block_order": [
-          "product-hero-video",
           "product-text-columns",
           "product-text-and-image",
+          "hero_video_K7L8UA",
+          "text_and_image_HYnL8D",
           "product-background-image-text",
           "hero_video_9BUrTe",
           "map_LkDp3B"
@@ -378,7 +392,7 @@
           "thumbnail_position": "below",
           "thumbnail_arrows": false,
           "enable_video_looping": true,
-          "product_video_style": "muted"
+          "product_video_style": "unmuted"
         }
       },
       "page-sections-template": {
