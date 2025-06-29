@@ -3,7 +3,6 @@
 {%- assign color_swatch_drop = option_drop -%}
 {%- assign color_option_index = 0 -%}
 
-<p>-- {{ settings }}</p>
 {%- if settings.product_color_swatches -%}
   {%- for option in product.options_with_values -%}
     {%- if option == color_swatch_drop -%}
@@ -57,6 +56,7 @@
         {%- if is_color -%}
           {%- assign color_image = value | handle | append: '.' | append: swatch_file_extension | asset_img_url: '50x' | prepend: 'https:' | split: '?' | first -%}
           {%- assign color_swatch_fallback = value | split: ' ' | last | handle -%}
+          <p>{{ color_image }}</p>
           <label
             for="ProductSelect-{{ section_id }}-option-{{ option.name | handleize }}-{{ value | url_encode }}"
             class="variant__button-label color-swatch color-swatch--{{ value | handle }}{% unless product_available %} disabled{% endunless %}"
