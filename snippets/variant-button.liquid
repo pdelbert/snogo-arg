@@ -3,6 +3,7 @@
 {%- assign color_swatch_drop = option_drop -%}
 {%- assign color_option_index = 0 -%}
 
+<p>-- {{ settings }}</p>
 {%- if settings.product_color_swatches -%}
   {%- for option in product.options_with_values -%}
     {%- if option == color_swatch_drop -%}
@@ -35,7 +36,6 @@
     name="{{ option.name }}"
     data-index="option{{ option_index }}"
     id="ProductSelect-{{ section_id }}-option-{{ forloop.index0 }}">
-    <p>-- {{ option }}</p>
     {%- for value in option.values -%}
       {%- assign product_available = true -%}
       {%- if product.options.size == 1 -%}
