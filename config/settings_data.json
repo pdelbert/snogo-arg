@@ -64,12 +64,12 @@
     "inventory_enable": false,
     "product_save_amount": true,
     "product_save_type": "percent",
-    "product_zoom_enable": false,
+    "product_zoom_enable": true,
     "quick_shop_enable": false,
     "quick_shop_text": "Quick view",
     "product_grid_image_size": "square",
     "product_hover_image": true,
-    "product_color_swatches": false,
+    "product_color_swatches": true,
     "collection_color_swatches": true,
     "swatch_style": "round",
     "product_content_1": "contact",
@@ -600,7 +600,7 @@
         "settings": {
           "show_product_recommendations": true,
           "product_recommendations_heading": "You may also like",
-          "related_count": 5
+          "related_count": 6
         }
       },
       "recently-viewed": {
