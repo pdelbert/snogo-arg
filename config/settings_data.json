@@ -388,9 +388,9 @@
           "description_style": "default",
           "social_enable": false,
           "image_position": "left",
-          "image_size": "small",
+          "image_size": "medium",
           "thumbnail_position": "below",
-          "thumbnail_arrows": false,
+          "thumbnail_arrows": true,
           "enable_video_looping": true,
           "product_video_style": "unmuted"
         }
