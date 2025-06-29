@@ -310,13 +310,13 @@
           "hero_video_K7L8UA": {
             "type": "hero-video",
             "settings": {
-              "title": "Bring your\nbrand to life.",
+              "title": "",
               "title_size": 80,
-              "subheading": "Seamless hero videos",
-              "link_text": "zdfsaf",
-              "link": "shopify://blogs/news",
+              "subheading": "",
+              "link_text": "",
+              "link": "",
               "text_align": "vertical-center horizontal-center",
-              "video_url": "_9VUPq3SxOc",
+              "video_url": "https://www.youtube.com/watch?v=HxaiPN8vdwE&t=1s&ab_channel=SNO-GOSkiBikes",
               "section_height": "650px",
               "mobile_height": "auto"
             }
