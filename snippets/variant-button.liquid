@@ -35,6 +35,7 @@
     name="{{ option.name }}"
     data-index="option{{ option_index }}"
     id="ProductSelect-{{ section_id }}-option-{{ forloop.index0 }}">
+    <p>{{ option.values }}</p>
     {%- for value in option.values -%}
       {%- assign product_available = true -%}
       {%- if product.options.size == 1 -%}
@@ -56,7 +57,6 @@
         {%- if is_color -%}
           {%- assign color_image = value | handle | append: '.' | append: swatch_file_extension | asset_img_url: '50x' | prepend: 'https:' | split: '?' | first -%}
           {%- assign color_swatch_fallback = value | split: ' ' | last | handle -%}
-        <p>{{ value }}</p>
           <label
             for="ProductSelect-{{ section_id }}-option-{{ option.name | handleize }}-{{ value | url_encode }}"
             class="variant__button-label color-swatch color-swatch--{{ value | handle }}{% unless product_available %} disabled{% endunless %}"
