@@ -476,6 +476,17 @@
               "mobile_scrollable": true,
               "view_all": true
             }
+          },
+          "featured_collection_bPjpWj": {
+            "type": "featured-collection",
+            "settings": {
+              "title": "Featured collection",
+              "collection": "",
+              "per_row": 4,
+              "rows": 1,
+              "mobile_scrollable": true,
+              "view_all": true
+            }
           }
         },
         "block_order": [
@@ -484,7 +495,8 @@
           "page-rich-text",
           "page-text-columns",
           "page-background-image-text",
-          "page-featured-collection"
+          "page-featured-collection",
+          "featured_collection_bPjpWj"
         ],
         "settings": {
           "page_title_enable": false,
@@ -597,6 +609,24 @@
               "framed": false
             }
           },
+          "product_zetneC": {
+            "type": "product",
+            "settings": {
+              "promo_collection": "shifted",
+              "product": "shifted",
+              "subheading": "Limited time",
+              "heading": "Announce your product",
+              "textarea": "Include the smaller details of your promotion in text below the title.",
+              "link_label": "Learn more",
+              "label": "New",
+              "enable_price": true,
+              "width": "100",
+              "text_size": 100,
+              "color_tint": "#000000",
+              "color_tint_opacity": 0,
+              "framed": false
+            }
+          },
           "1526496043079": {
             "type": "advanced",
             "settings": {
@@ -622,6 +652,7 @@
         },
         "block_order": [
           "1526403837307",
+          "product_zetneC",
           "1526496043079"
         ],
         "settings": {
