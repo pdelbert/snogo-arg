@@ -380,6 +380,117 @@
           "product_video_style": "unmuted"
         }
       },
+      "page-sections-template": {
+        "type": "page-sections-template",
+        "blocks": {
+          "page-image-hero": {
+            "type": "image-hero",
+            "settings": {
+              "parallax": true,
+              "title": "Two line\ntitle image",
+              "title_size": 80,
+              "subheading": "And optional subtext",
+              "link": "",
+              "link_text": "Optional button",
+              "link_2": "",
+              "link_text_2": "",
+              "color_accent": "rgba(0,0,0,0)",
+              "text_align": "vertical-center horizontal-center",
+              "focal_point": "center center",
+              "section_height": "650px",
+              "mobile_height": "auto"
+            }
+          },
+          "background_image_text_iHJcDW": {
+            "type": "background-image-text",
+            "settings": {
+              "subtitle": "Impressive",
+              "title": "Large image with text box",
+              "text": "<p>Pair large text with a full-width image to draw attention to an important detail of your brand or product line.</p>",
+              "button_label": "",
+              "button_link": "",
+              "alignment": "center",
+              "color_border": "#f4f4f4",
+              "layout": "left",
+              "height": 550,
+              "parallax": true
+            }
+          },
+          "page-rich-text": {
+            "type": "rich-text",
+            "settings": {
+              "title": "Rich text block",
+              "text": "<p>Use this section for any descriptive text you need to fill out your pages or to add introductory headings between other blocks.</p>",
+              "align_text": "center",
+              "narrow_column": true,
+              "enlarge_text": true
+            }
+          },
+          "page-text-columns": {
+            "type": "text-columns",
+            "settings": {
+              "title": "",
+              "align_text": "center",
+              "enable_image_1": true,
+              "image_width_1": 650,
+              "title_1": "Example title",
+              "text_1": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
+              "button_label_1": "",
+              "button_link_1": "",
+              "enable_image_2": true,
+              "image_width_2": 650,
+              "title_2": "Example title",
+              "text_2": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
+              "button_label_2": "",
+              "button_link_2": "",
+              "enable_image_3": true,
+              "image_width_3": 650,
+              "title_3": "Example title",
+              "text_3": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
+              "button_label_3": "",
+              "button_link_3": ""
+            }
+          },
+          "page-background-image-text": {
+            "type": "background-image-text",
+            "settings": {
+              "subtitle": "Impressive",
+              "title": "Large image with text box",
+              "text": "<p>Pair large text with a full-width image to draw attention to an important detail of your brand or product line.</p>",
+              "button_label": "",
+              "button_link": "",
+              "alignment": "center",
+              "color_border": "#f4f4f4",
+              "layout": "right",
+              "height": 550,
+              "parallax": true
+            }
+          },
+          "page-featured-collection": {
+            "type": "featured-collection",
+            "settings": {
+              "title": "Featured collection",
+              "collection": "",
+              "per_row": 4,
+              "rows": 1,
+              "mobile_scrollable": true,
+              "view_all": true
+            }
+          }
+        },
+        "block_order": [
+          "page-image-hero",
+          "background_image_text_iHJcDW",
+          "page-rich-text",
+          "page-text-columns",
+          "page-background-image-text",
+          "page-featured-collection"
+        ],
+        "settings": {
+          "page_title_enable": false,
+          "page_content_enable": false
+        }
+      },
       "newsletter-popup": {
         "type": "newsletter-popup",
         "settings": {
@@ -952,29 +1063,6 @@
           "layout": "left",
           "divider": false
         }
-      },
-      "page-sections-template2": {
-        "type": "page-sections-template2",
-        "blocks": {
-          "image_row_8zC9ke": {
-            "type": "image-row",
-            "settings": {
-              "image_1_link": "",
-              "image_2_link": "",
-              "image_3_link": "",
-              "image_4_link": "",
-              "enable_gutter": false,
-              "enable_zoom": true
-            }
-          }
-        },
-        "block_order": [
-          "image_row_8zC9ke"
-        ],
-        "settings": {
-          "page_title_enable": false,
-          "page_content_enable": false
-        }
       }
     },
     "content_for_index": [
@@ -1288,6 +1376,56 @@
           "settings": {
             "social_enable": true,
             "image_size": "medium"
+          }
+        },
+        "page-sections-template": {
+          "type": "page-sections-template",
+          "blocks": {
+            "page-image-hero": {
+              "type": "image-hero",
+              "settings": {}
+            },
+            "page-rich-text": {
+              "type": "rich-text",
+              "settings": {
+                "align_text": "center",
+                "narrow_column": true,
+                "enlarge_text": true
+              }
+            },
+            "page-text-columns": {
+              "type": "text-columns",
+              "settings": {}
+            },
+            "page-background-image-text": {
+              "type": "background-image-text",
+              "settings": {
+                "alignment": "center",
+                "color_border": "#f4f4f4",
+                "layout": "right",
+                "height": 550
+              }
+            },
+            "page-featured-collection": {
+              "type": "featured-collection",
+              "settings": {
+                "title": "Featured collection",
+                "per_row": 4,
+                "rows": 1,
+                "view_all": true
+              }
+            }
+          },
+          "block_order": [
+            "page-image-hero",
+            "page-rich-text",
+            "page-text-columns",
+            "page-background-image-text",
+            "page-featured-collection"
+          ],
+          "settings": {
+            "page_title_enable": false,
+            "page_content_enable": false
           }
         },
         "newsletter-popup": {
@@ -1794,6 +1932,50 @@
             "image_size": "medium"
           }
         },
+        "page-sections-template": {
+          "type": "page-sections-template",
+          "blocks": {
+            "page-rich-text": {
+              "type": "rich-text",
+              "settings": {
+                "align_text": "center",
+                "narrow_column": true,
+                "enlarge_text": true
+              }
+            },
+            "page-text-columns": {
+              "type": "text-columns",
+              "settings": {}
+            },
+            "page-background-image-text": {
+              "type": "background-image-text",
+              "settings": {
+                "alignment": "center",
+                "color_border": "#f4f4f4",
+                "layout": "right",
+                "height": 550
+              }
+            },
+            "page-featured-collection": {
+              "type": "featured-collection",
+              "settings": {
+                "per_row": 4,
+                "rows": 1,
+                "view_all": true
+              }
+            }
+          },
+          "block_order": [
+            "page-rich-text",
+            "page-text-columns",
+            "page-background-image-text",
+            "page-featured-collection"
+          ],
+          "settings": {
+            "page_title_enable": false,
+            "page_content_enable": false
+          }
+        },
         "newsletter-popup": {
           "type": "newsletter-popup",
           "settings": {}
@@ -1869,6 +2051,7 @@
         },
         "1523380258742": {
           "type": "featured-collections",
+          "disabled": true,
           "blocks": {
             "1523380258742-0": {
               "type": "collection",
@@ -1903,7 +2086,6 @@
             "1524685816171",
             "1524685829380"
           ],
-          "disabled": true,
           "settings": {
             "divider": false,
             "per_row": 3,
@@ -2366,6 +2548,50 @@
             "social_enable": true,
             "image_size": "large",
             "thumbnail_position": "below"
+          }
+        },
+        "page-sections-template": {
+          "type": "page-sections-template",
+          "blocks": {
+            "page-rich-text": {
+              "type": "rich-text",
+              "settings": {
+                "align_text": "center",
+                "narrow_column": true,
+                "enlarge_text": true
+              }
+            },
+            "page-text-columns": {
+              "type": "text-columns",
+              "settings": {}
+            },
+            "page-background-image-text": {
+              "type": "background-image-text",
+              "settings": {
+                "alignment": "center",
+                "color_border": "#f4f4f4",
+                "layout": "right",
+                "height": 550
+              }
+            },
+            "page-featured-collection": {
+              "type": "featured-collection",
+              "settings": {
+                "per_row": 4,
+                "rows": 1,
+                "view_all": true
+              }
+            }
+          },
+          "block_order": [
+            "page-rich-text",
+            "page-text-columns",
+            "page-background-image-text",
+            "page-featured-collection"
+          ],
+          "settings": {
+            "page_title_enable": false,
+            "page_content_enable": false
           }
         },
         "newsletter-popup": {
