@@ -1067,21 +1067,163 @@
       "page-tutorial-template": {
         "type": "page-tutorial-template",
         "blocks": {
-          "text_and_image_DDMfJy": {
-            "type": "text-and-image",
+          "hero_video_WD9fmq": {
+            "type": "hero-video",
             "settings": {
-              "image_width": 500,
-              "subtitle": "Improved",
-              "title": "Image with text",
-              "text": "<p>Pair large text with an image to tell a story, explain a detail about your product, or describe a new promotion.</p>",
-              "button_label": "Optional button",
-              "button_link": "",
-              "layout": "left"
+              "title": "",
+              "title_size": 80,
+              "subheading": "",
+              "link_text": "",
+              "link": "",
+              "text_align": "vertical-center horizontal-center",
+              "video_url": "https://www.youtube.com/watch?v=mOrSVP08VuM&embeds_referring_euri=https%3A%2F%2Fsno-go.us%2F&source_ve_path=MjM4NTE",
+              "section_height": "650px",
+              "mobile_height": "auto"
+            }
+          },
+          "text_columns_mzHWQf": {
+            "type": "text-columns",
+            "settings": {
+              "title": "",
+              "align_text": "center",
+              "enable_image_1": true,
+              "image_1": "shopify://shop_images/IMG_1171_900x_87267790-e48e-4453-9536-2df7b092ed3f.webp",
+              "image_width_1": 650,
+              "title_1": "Example title",
+              "text_1": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
+              "button_label_1": "",
+              "button_link_1": "",
+              "enable_image_2": true,
+              "image_2": "shopify://shop_images/IMG_1156_900x_06985da6-979e-4cfa-a05b-3a55d6e27206.webp",
+              "image_width_2": 650,
+              "title_2": "Example title",
+              "text_2": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
+              "button_label_2": "",
+              "button_link_2": "",
+              "enable_image_3": false,
+              "image_width_3": 650,
+              "title_3": "",
+              "text_3": "",
+              "button_label_3": "",
+              "button_link_3": ""
+            }
+          },
+          "text_columns_3tLrXC": {
+            "type": "text-columns",
+            "settings": {
+              "title": "",
+              "align_text": "center",
+              "enable_image_1": true,
+              "image_1": "shopify://shop_images/IMG_1157_900x_53d653d1-7d9d-444c-964a-00b8485d5cc2.webp",
+              "image_width_1": 650,
+              "title_1": "Example title",
+              "text_1": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
+              "button_label_1": "",
+              "button_link_1": "",
+              "enable_image_2": true,
+              "image_2": "shopify://shop_images/IMG_1160_900x_fc9b2842-96ac-4f23-ba11-d181f97ac865.webp",
+              "image_width_2": 650,
+              "title_2": "Example title",
+              "text_2": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
+              "button_label_2": "",
+              "button_link_2": "",
+              "enable_image_3": false,
+              "image_width_3": 650,
+              "title_3": "",
+              "text_3": "",
+              "button_label_3": "",
+              "button_link_3": ""
+            }
+          },
+          "text_columns_bcmHcy": {
+            "type": "text-columns",
+            "settings": {
+              "title": "",
+              "align_text": "center",
+              "enable_image_1": true,
+              "image_1": "shopify://shop_images/IMG_1159_900x_8063aab9-9e7a-46ae-bf39-88442ac948a6.webp",
+              "image_width_1": 650,
+              "title_1": "Example title",
+              "text_1": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
+              "button_label_1": "",
+              "button_link_1": "",
+              "enable_image_2": true,
+              "image_2": "shopify://shop_images/IMG_1168_900x_2241474e-ee37-4305-bd17-e16baf67acbf.webp",
+              "image_width_2": 650,
+              "title_2": "Example title",
+              "text_2": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
+              "button_label_2": "",
+              "button_link_2": "",
+              "enable_image_3": false,
+              "image_width_3": 650,
+              "title_3": "",
+              "text_3": "",
+              "button_label_3": "",
+              "button_link_3": ""
+            }
+          },
+          "text_columns_3FnDEr": {
+            "type": "text-columns",
+            "settings": {
+              "title": "",
+              "align_text": "center",
+              "enable_image_1": true,
+              "image_1": "shopify://shop_images/IMG_1155_900x_5e4db04c-bbfe-4276-a354-29fe0328de0f.webp",
+              "image_width_1": 650,
+              "title_1": "Example title",
+              "text_1": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
+              "button_label_1": "",
+              "button_link_1": "",
+              "enable_image_2": true,
+              "image_2": "shopify://shop_images/IMG_1165_900x_97266013-2a6e-48de-b495-a2c4b576cb76.webp",
+              "image_width_2": 650,
+              "title_2": "Example title",
+              "text_2": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
+              "button_label_2": "",
+              "button_link_2": "",
+              "enable_image_3": false,
+              "image_width_3": 650,
+              "title_3": "",
+              "text_3": "",
+              "button_label_3": "",
+              "button_link_3": ""
+            }
+          },
+          "text_columns_pWk96q": {
+            "type": "text-columns",
+            "settings": {
+              "title": "",
+              "align_text": "center",
+              "enable_image_1": true,
+              "image_1": "shopify://shop_images/IMG_1170_900x_96fa87da-bb3f-4434-bd7d-f4a9c247cbed.webp",
+              "image_width_1": 650,
+              "title_1": "Example title",
+              "text_1": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
+              "button_label_1": "",
+              "button_link_1": "",
+              "enable_image_2": true,
+              "image_2": "shopify://shop_images/IMG_1163_900x_476e5ad0-ff12-4b74-a046-88cbb54215ea.webp",
+              "image_width_2": 650,
+              "title_2": "Example title",
+              "text_2": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
+              "button_label_2": "",
+              "button_link_2": "",
+              "enable_image_3": false,
+              "image_width_3": 650,
+              "title_3": "",
+              "text_3": "",
+              "button_label_3": "",
+              "button_link_3": ""
             }
           }
         },
         "block_order": [
-          "text_and_image_DDMfJy"
+          "hero_video_WD9fmq",
+          "text_columns_mzHWQf",
+          "text_columns_3tLrXC",
+          "text_columns_bcmHcy",
+          "text_columns_3FnDEr",
+          "text_columns_pWk96q"
         ],
         "settings": {
           "page_title_enable": false,
