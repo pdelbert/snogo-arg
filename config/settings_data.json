@@ -998,7 +998,7 @@
           "title": "TU PRIMERA VEZ EN SNO GO",
           "text": "<p>Vas a encarar las pistas de manera violenta, pero es importante estar preparado para cualquier sorpresa que te depare el clima. Casco, antiparras y ropa de montaña son imprescindibles.</p><p>¿Con ganas de velocidad? Manejalo con inteligencia. Lo primero es aprender a frenar y controlar bien la bici para disfrutar al máximo sin riesgos.</p><p>Tómate tu tiempo. Empezá por pistas fáciles, ganá confianza de a poco, y en menos de lo que pensás vas a estar bajando pistas negras con seguridad.</p>",
           "button_label": "tutorial",
-          "button_link": "shopify://products/shifted",
+          "button_link": "shopify://pages/tutorial",
           "image": "shopify://shop_images/home-section-08.jpg",
           "focal_point": "center",
           "color_border": "#ffffff",
