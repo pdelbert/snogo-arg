@@ -1271,38 +1271,12 @@
               "narrow_column": true,
               "enlarge_text": false
             }
-          },
-          "text_columns_kXPYHq": {
-            "type": "text-columns",
-            "settings": {
-              "title": "",
-              "align_text": "center",
-              "enable_image_1": true,
-              "image_width_1": 650,
-              "title_1": "Example title",
-              "text_1": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
-              "button_label_1": "",
-              "button_link_1": "",
-              "enable_image_2": true,
-              "image_width_2": 650,
-              "title_2": "Example title",
-              "text_2": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
-              "button_label_2": "",
-              "button_link_2": "",
-              "enable_image_3": false,
-              "image_width_3": 650,
-              "title_3": "",
-              "text_3": "",
-              "button_label_3": "",
-              "button_link_3": ""
-            }
           }
         },
         "block_order": [
           "image_hero_jqxxgV",
           "rich_text_TdjhGR",
-          "rich_text_agVjpr",
-          "text_columns_kXPYHq"
+          "rich_text_agVjpr"
         ],
         "settings": {
           "page_title_enable": false,
