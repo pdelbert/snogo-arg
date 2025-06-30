@@ -383,6 +383,14 @@
       "page-sections-template": {
         "type": "page-sections-template",
         "blocks": {
+          "custom_html_UEMC4Y": {
+            "type": "custom-html",
+            "settings": {
+              "full_width": false,
+              "space_around": false,
+              "code": "<h2>Custom HTML</h2><p>Use this advanced section to build your own layouts or to add custom HTML or scripts.</p>"
+            }
+          },
           "hero_video_eGAmyq": {
             "type": "hero-video",
             "settings": {
@@ -534,6 +542,7 @@
           }
         },
         "block_order": [
+          "custom_html_UEMC4Y",
           "hero_video_eGAmyq",
           "text_columns_wMhkFf",
           "text_columns_PLkhKG",
