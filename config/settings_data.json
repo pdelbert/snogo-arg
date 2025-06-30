@@ -952,6 +952,29 @@
           "layout": "left",
           "divider": false
         }
+      },
+      "page-sections-template2": {
+        "type": "page-sections-template2",
+        "blocks": {
+          "image_row_8zC9ke": {
+            "type": "image-row",
+            "settings": {
+              "image_1_link": "",
+              "image_2_link": "",
+              "image_3_link": "",
+              "image_4_link": "",
+              "enable_gutter": false,
+              "enable_zoom": true
+            }
+          }
+        },
+        "block_order": [
+          "image_row_8zC9ke"
+        ],
+        "settings": {
+          "page_title_enable": false,
+          "page_content_enable": false
+        }
       }
     },
     "content_for_index": [
