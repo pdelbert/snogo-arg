@@ -531,6 +531,18 @@
               "button_label_3": "",
               "button_link_3": ""
             }
+          },
+          "text_and_image_4FGVaX": {
+            "type": "text-and-image",
+            "settings": {
+              "image_width": 500,
+              "subtitle": "Improved",
+              "title": "Image with text",
+              "text": "<p>Pair large text with an image to tell a story, explain a detail about your product, or describe a new promotion.</p>",
+              "button_label": "Optional button",
+              "button_link": "",
+              "layout": "left"
+            }
           }
         },
         "block_order": [
@@ -539,7 +551,8 @@
           "text_columns_PLkhKG",
           "text_columns_My7xKf",
           "text_columns_nw7zwF",
-          "text_columns_YdDTyP"
+          "text_columns_YdDTyP",
+          "text_and_image_4FGVaX"
         ],
         "settings": {
           "page_title_enable": false,
