@@ -1067,163 +1067,19 @@
       "page-tutorial-template": {
         "type": "page-tutorial-template",
         "blocks": {
-          "hero_video_WD9fmq": {
-            "type": "hero-video",
+          "rich_text_Gct6Gh": {
+            "type": "rich-text",
             "settings": {
-              "title": "",
-              "title_size": 80,
-              "subheading": "",
-              "link_text": "",
-              "link": "",
-              "text_align": "vertical-center horizontal-center",
-              "video_url": "https://www.youtube.com/watch?v=mOrSVP08VuM&embeds_referring_euri=https%3A%2F%2Fsno-go.us%2F&source_ve_path=MjM4NTE",
-              "section_height": "650px",
-              "mobile_height": "auto"
-            }
-          },
-          "text_columns_mzHWQf": {
-            "type": "text-columns",
-            "settings": {
-              "title": "",
+              "title": "Refund policy",
+              "text": "<h4><strong>Love It or Return It (Feb 1 - Feb 28th only)</strong></h4><ul><li>*Used product will be accepted by SNO-GO with a valid receipt from an authorized SNO-GO Dealer. Used product must be undamaged with all parts in its original packaging.</li><li>Applies SNO-GO Shift product shipped to the lower 48 US states only. </li><li>Order must be placed on or after February 1, 2025 and on or before February 28th, 2025. </li><li>Returns are required to contact SNO-GO customer service to place notice of incoming return. Phone: 385-237-3367 Email: <a href=\"mailto:info@snogo.us\">info@snogo.us</a></li><li>Return shipping paid by the customer plus the original shipping fees. <br/>Original shipping fees are $100 for Utah and $150 for other US state in the lower 48. </li><li>Return shipping must be initiated (tracking code generated) by the end of the 20th day upon receipt to qualify and proof of shipment submitted to SNO-GO customer service through email: <a href=\"mailto:info@snogo.us\">info@snogo.us</a> by the 20th day after receiving the product. </li></ul><h4><strong>Love It or Return It Refunds</strong></h4><ul><li>The customer will receive a full refund by meeting the \"Ship it Back\" terms.</li><li>Refunds will be issued after inspection of the returned item within 30 days upon receipt of product.</li><li>A pro-rated refund may be assessed if the item endures any blemishing larger than 1 inch or approximately a US quarter coin. </li><li>A refund will not be issued if the product is returned damaged. Damaged products are considered damaged when its intended use and function does not function and must be repaired by a service technician with replacement parts. </li></ul><h4><strong> - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -</strong></h4><h4><strong>All Other Returns</strong><br/></h4><h4>Our policy lasts 10 days. If 10 days have gone by since your purchase has been fulfilled, unfortunately we can’t offer you a refund or exchange.</h4><p>To be eligible for a return, your item must be unused and in the same condition that you received it. It must also be in the original packaging.</p><p>Several types of goods are exempt from being returned. Perishable goods such as food, flowers, newspapers or magazines cannot be returned. We also do not accept products that are intimate or sanitary goods, hazardous materials, or flammable liquids or gases.</p><p>Additional non-returnable items:<br/>Gift cards<br/>Rentals</p><p>To complete your return, we require a receipt or proof of purchase.</p><p>There are certain situations where only partial refunds are granted (if applicable)<br/>A bike with obvious signs of use that has been opened. Any item not in its original condition, is damaged or missing parts for reasons not due to our error. Any item that is returned more than 10 days after delivery.</p><p><strong>Refunds</strong> (if applicable)<br/>Once your return is received and inspected, we will send you an email to notify you that we have received your returned item. We will also notify you of the approval or rejection of your refund. If you are approved, then your refund will be processed after adjusting for a 15% restocking fee, and a credit will automatically be applied to your credit card or original method of payment within 30 days.</p><p><strong>Late or missing refunds</strong> (if applicable)<br/>If you haven’t received a refund yet, first check your bank account again.<br/>Then contact your credit card company, it may take some time before your refund is officially posted. Next contact your bank. There is often some processing time before a refund is posted. If you’ve done all of this and you still have not received your refund yet, please contact us at info@snogo.us.</p><p><strong>Price Matching and Adjustments</strong></p><p>If you have purchased your SNO-GO product within a 7 day period prior to any sale or discount period for that product, SNO-GO will honor the sale price and provide the difference in the amount spent back to the customer in the form of store credit. Sale prices will not be honored after the sale has concluded.</p><p><strong>Sale Items</strong> (if applicable)<br/>Only regular priced items may be refunded, unfortunately sale items cannot be refunded.</p><p><strong>Exchanges</strong> (if applicable)<br/>We only replace items if they are defective or damaged. If you need to exchange it for the same item, send us an email at info@snogo.us and send your item to: 14913 Concord Park Dr Suite 1, Bluffdale, UT 84065.</p><p><strong>Gifts</strong><br/>If the item was marked as a gift when purchased and shipped directly to you, you’ll receive a gift credit for the value of your return. Once the returned item is received, a gift certificate will be mailed to you. If the item wasn’t marked as a gift when purchased, or the gift giver had the order shipped to themselves to give to you later, we will send a refund to the gift giver and he will find out about your return.</p><p><strong>Shipping</strong><br/>To return your product, you should mail your product to: 14913 Concord Park Dr Suite 1, Bluffdale, UT 84065</p><p>You will be responsible for paying for your own shipping costs for returning your item. Shipping costs are non-refundable. </p><p>Depending on where you live, the time it may take for your exchanged product to reach you, may vary.</p><p>If you are shipping an item over $75, you should consider using a trackable shipping service or purchasing shipping insurance. We don’t guarantee that we will receive your returned item.</p>",
               "align_text": "center",
-              "enable_image_1": true,
-              "image_1": "shopify://shop_images/IMG_1171_900x_87267790-e48e-4453-9536-2df7b092ed3f.webp",
-              "image_width_1": 650,
-              "title_1": "ARNÉS Y CORREA",
-              "text_1": "<p>(obligatorio en todos los centros de esquí)</p><p>Usá solo un aro metálico para unir el mosquetón a la correa.</p><p>Enganchá el mosquetón al cinturón que va a tu cintura.<br/></p><p>Este sistema de seguridad es obligatorio y evita que la bicicleta se deslice sola en caso de caída.</p>",
-              "button_label_1": "",
-              "button_link_1": "",
-              "enable_image_2": true,
-              "image_2": "shopify://shop_images/IMG_1156_900x_06985da6-979e-4cfa-a05b-3a55d6e27206.webp",
-              "image_width_2": 650,
-              "title_2": "POSICIÓN CORPORAL",
-              "text_2": "<p>Ajustá el manubrio para que tus hombros queden alineados con la horquilla y el esquí delantero.</p><p>El centro de tu cadera debe ubicarse apenas por delante de tus tobillos.<br/></p><p>Esta postura te da mejor equilibrio, control y respuesta sobre la nieve.</p>",
-              "button_label_2": "",
-              "button_link_2": "",
-              "enable_image_3": false,
-              "image_width_3": 650,
-              "title_3": "",
-              "text_3": "",
-              "button_label_3": "",
-              "button_link_3": ""
-            }
-          },
-          "text_columns_3tLrXC": {
-            "type": "text-columns",
-            "settings": {
-              "title": "",
-              "align_text": "center",
-              "enable_image_1": true,
-              "image_1": "shopify://shop_images/IMG_1157_900x_53d653d1-7d9d-444c-964a-00b8485d5cc2.webp",
-              "image_width_1": 650,
-              "title_1": "DISTRIBUCIÓN DEL PESO",
-              "text_1": "<p>Mantené el peso distribuido sobre los <strong>tres esquíes</strong> mientras estás en movimiento. </p><p>Poné un <strong>ligero énfasis en el esquí delantero</strong>, ya que es clave para mantener el control.</p>",
-              "button_label_1": "",
-              "button_link_1": "",
-              "enable_image_2": true,
-              "image_2": "shopify://shop_images/IMG_1160_900x_fc9b2842-96ac-4f23-ba11-d181f97ac865.webp",
-              "image_width_2": 650,
-              "title_2": "COMENZAR A GIRAR",
-              "text_2": "<p>Incliná la bici apoyándote sobre el manubrio para comenzar a girar.</p><p><strong>No gires</strong> forzando el manubrio como si fuera una bicicleta tradicional: el movimiento se genera con tu cuerpo, no con los brazos.</p>",
-              "button_label_2": "",
-              "button_link_2": "",
-              "enable_image_3": false,
-              "image_width_3": 650,
-              "title_3": "",
-              "text_3": "",
-              "button_label_3": "",
-              "button_link_3": ""
-            }
-          },
-          "text_columns_bcmHcy": {
-            "type": "text-columns",
-            "settings": {
-              "title": "",
-              "align_text": "center",
-              "enable_image_1": true,
-              "image_1": "shopify://shop_images/IMG_1159_900x_8063aab9-9e7a-46ae-bf39-88442ac948a6.webp",
-              "image_width_1": 650,
-              "title_1": "COMENZAR A GIRAR",
-              "text_1": "<p>Incliná la bici apoyándote sobre el manubrio para comenzar a girar.</p><p><strong>No gires</strong> forzando el manubrio como si fuera una bicicleta tradicional: el movimiento se genera con tu cuerpo, no con los brazos.</p>",
-              "button_label_1": "",
-              "button_link_1": "",
-              "enable_image_2": true,
-              "image_2": "shopify://shop_images/IMG_1168_900x_2241474e-ee37-4305-bd17-e16baf67acbf.webp",
-              "image_width_2": 650,
-              "title_2": "GIRO",
-              "text_2": "<p>Inclinar la bici es fundamental para girar correctamente con SNO-GO. </p><p>Asegurate de que el esquí delantero siempre apunte hacia la dirección en la que te estás desplazando.</p>",
-              "button_label_2": "",
-              "button_link_2": "",
-              "enable_image_3": false,
-              "image_width_3": 650,
-              "title_3": "",
-              "text_3": "",
-              "button_label_3": "",
-              "button_link_3": ""
-            }
-          },
-          "text_columns_3FnDEr": {
-            "type": "text-columns",
-            "settings": {
-              "title": "",
-              "align_text": "center",
-              "enable_image_1": true,
-              "image_1": "shopify://shop_images/IMG_1155_900x_5e4db04c-bbfe-4276-a354-29fe0328de0f.webp",
-              "image_width_1": 650,
-              "title_1": "SUBIR A LA AEROSILLA – PASO 1",
-              "text_1": "<p>Acercate a la <strong>zona donde te levanta la silla</strong> y apoyá ambos pies en el suelo. Montate sobre la bici con una pierna a cada lado.</p><p><strong>No subas desde el costado de la bici.</strong></p>",
-              "button_label_1": "",
-              "button_link_1": "",
-              "enable_image_2": true,
-              "image_2": "shopify://shop_images/IMG_1165_900x_97266013-2a6e-48de-b495-a2c4b576cb76.webp",
-              "image_width_2": 650,
-              "title_2": "SUBIR A LA AEROSILLA – PASO 2",
-              "text_2": "<p>Sentate primero, con los brazos extendidos sosteniendo el manubrio. </p><p>Al salir de la rampa, <strong>acercá la bici para que la barra EZ‑Load de la aerosilla</strong> encaje en el asiento, entre tus piernas.</p>",
-              "button_label_2": "",
-              "button_link_2": "",
-              "enable_image_3": false,
-              "image_width_3": 650,
-              "title_3": "",
-              "text_3": "",
-              "button_label_3": "",
-              "button_link_3": ""
-            }
-          },
-          "text_columns_pWk96q": {
-            "type": "text-columns",
-            "settings": {
-              "title": "",
-              "align_text": "center",
-              "enable_image_1": true,
-              "image_1": "shopify://shop_images/IMG_1170_900x_96fa87da-bb3f-4434-bd7d-f4a9c247cbed.webp",
-              "image_width_1": 650,
-              "title_1": "BAJÁ LA BARRA DE SEGURIDAD",
-              "text_1": "<p>La barra puede bajarse sobre el manubrio. </p><p>Si el apoyapiés molesta, girá un poco el manubrio o corré la bici unos centímetros para acomodarla.</p>",
-              "button_label_1": "",
-              "button_link_1": "",
-              "enable_image_2": true,
-              "image_2": "shopify://shop_images/IMG_1163_900x_476e5ad0-ff12-4b74-a046-88cbb54215ea.webp",
-              "image_width_2": 650,
-              "title_2": "BAJAR DE LA AEROSILLA",
-              "text_2": "<p>Levantá el esquí delantero extendiendo brazos y piernas. </p><p>Cuando toque la plataforma, <strong>empujá la bici hacia adelante</strong>. </p><p>Mirá hacia abajo para ubicar tus fijaciones, parate sobre las <strong>stomp pads</strong> (zonas antideslizantes) y <strong>empezá a deslizarte</strong>.</p>",
-              "button_label_2": "",
-              "button_link_2": "",
-              "enable_image_3": false,
-              "image_width_3": 650,
-              "title_3": "",
-              "text_3": "",
-              "button_label_3": "",
-              "button_link_3": ""
+              "narrow_column": true,
+              "enlarge_text": false
             }
           }
         },
         "block_order": [
-          "hero_video_WD9fmq",
-          "text_columns_mzHWQf",
-          "text_columns_3tLrXC",
-          "text_columns_bcmHcy",
-          "text_columns_3FnDEr",
-          "text_columns_pWk96q"
+          "rich_text_Gct6Gh"
         ],
         "settings": {
           "page_title_enable": false,
