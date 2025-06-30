@@ -1090,6 +1090,29 @@
       },
       "page-shipping-template": {
         "type": "page-shipping-template",
+        "blocks": {
+          "image_hero_jqxxgV": {
+            "type": "image-hero",
+            "settings": {
+              "parallax": true,
+              "title": "Two line\ntitle image",
+              "title_size": 80,
+              "subheading": "And optional subtext",
+              "link": "",
+              "link_text": "Optional button",
+              "link_2": "",
+              "link_text_2": "",
+              "color_accent": "rgba(0,0,0,0)",
+              "text_align": "vertical-center horizontal-center",
+              "focal_point": "center center",
+              "section_height": "650px",
+              "mobile_height": "auto"
+            }
+          }
+        },
+        "block_order": [
+          "image_hero_jqxxgV"
+        ],
         "settings": {
           "page_title_enable": false,
           "page_content_enable": false
