@@ -943,7 +943,7 @@
           "title": "TU PRIMERA VEZ EN SNO GO",
           "text": "<p>Vas a encarar las pistas de manera violenta, pero es importante estar preparado para cualquier sorpresa que te depare el clima. Casco, antiparras y ropa de montaña son imprescindibles.</p><p>¿Con ganas de velocidad? Manejalo con inteligencia. Lo primero es aprender a frenar y controlar bien la bici para disfrutar al máximo sin riesgos.</p><p>Tómate tu tiempo. Empezá por pistas fáciles, ganá confianza de a poco, y en menos de lo que pensás vas a estar bajando pistas negras con seguridad.</p>",
           "button_label": "tutorial",
-          "button_link": "shopify://pages/shipping",
+          "button_link": "shopify://products/shifted",
           "image": "shopify://shop_images/home-section-08.jpg",
           "focal_point": "center",
           "color_border": "#ffffff",
@@ -1059,36 +1059,9 @@
           "title": "CONQUER YOUR MOUNTAIN",
           "text": "<p>SNO-GO ski bikes allow anyone of any age to <strong>enjoy the mountain slopes within minutes</strong>without taking an expensive ski lesson.</p>",
           "button_label": "TUTORIAL",
-          "button_link": "shopify://pages/tutorial",
+          "button_link": "",
           "layout": "left",
           "divider": false
-        }
-      },
-      "page-sections-template2": {
-        "type": "page-sections-template2",
-        "blocks": {
-          "background_image_text_7CAhBR": {
-            "type": "background-image-text",
-            "settings": {
-              "subtitle": "Impressive",
-              "title": "Large image with text box",
-              "text": "<p>Pair large text with a full-width image to draw attention to an important detail of your brand or product line.</p>",
-              "button_label": "",
-              "button_link": "",
-              "alignment": "center",
-              "color_border": "#f4f4f4",
-              "layout": "left",
-              "height": 550,
-              "parallax": true
-            }
-          }
-        },
-        "block_order": [
-          "background_image_text_7CAhBR"
-        ],
-        "settings": {
-          "page_title_enable": false,
-          "page_content_enable": false
         }
       }
     },
