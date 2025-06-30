@@ -1251,10 +1251,32 @@
               "section_height": "650px",
               "mobile_height": "auto"
             }
+          },
+          "rich_text_TdjhGR": {
+            "type": "rich-text",
+            "settings": {
+              "title": "Shipping Information",
+              "text": "<p><strong>FREE SHIPPING</strong> is guaranteed for all bike orders in North America</p><p><strong>YOU WILL RECIEVE A NOTIFICATION</strong> when your order has shipped. All orders ship from Utah, United States. If shipping rates are not visible during checkout, please call (385) 237-3367 so we can determine if shipping is available to your location. </p><p><strong>SKI BIKE ORDERS</strong> - Ski bike orders are being processed in the order that they are received.</p><p><strong>ALL OTHER ORDERS</strong> are generally processed within 1 to 3 business days (excluding weekends and holidays) after receiving your order confirmation email with the exception of pre-orders and backorders. Pre-orders and backorders will ship when the product becomes available. Customers are charged for the balance due at the time of fulfillment.</p><p><strong>DOMESTIC SHIPPING ORDERS</strong> Shipping charges for your order will be calculated and displayed at checkout.</p><p><strong>IN-STORE PICK UP </strong>is available Monday - Friday, 10 am - 5 pm by appointment only. Please specify local pickup in your order notes and email <a href=\"mailto:info@snogo.us\" target=\"_blank\">info@snogo.us</a> or call us at (385) 237-3367 to schedule a pickup time. </p><p><strong>CANADA SHIPPING CHARGES </strong>Shipping to Canada is free with any bike order. You will likely need to pay an import tax upon receipt of your product. This is why we have extended our free shipping option into Canada for bikes. We apologize but we cannot provide the same convenience for parts at this time.</p><p><strong>INTERNATIONAL SHIPPING CHARGES</strong> for your order will be calculated and displayed at checkout. Internationally shipping fees vary greatly customers will be responsible for paying local taxes and duties.</p><p><strong>SNO-GO can ship to anywhere in the world</strong> that is available during our checkout process. We have currently shipped to over 50 countries. Currently we do not have specific distributors in each continent or country so you may pay an import tax upon receipt of your order depending on your country. If you are ordering and shipping to a European country, we encourage you to visit this page: <a href=\"https://sno-go.us/blogs/sno-go-journal/buying-a-sno-go-bike-in-europe\"><span style=\"text-decoration:underline\">https://sno-go.us/blogs/sno-go-journal/buying-a-sno-go-bike-in-europe</span></a></p><p><strong>QUESTIONS?</strong> Please contact us at <a href=\"mailto:info@snogo.us\" target=\"_blank\"><strong>info@snogo.us</strong></a> or call us at (385) 237-3367 for help placing your order.</p>",
+              "align_text": "center",
+              "narrow_column": true,
+              "enlarge_text": false
+            }
+          },
+          "rich_text_agVjpr": {
+            "type": "rich-text",
+            "settings": {
+              "title": "Returns",
+              "text": "<p><strong>MONEY BACK GUARANTEE</strong></p><p>Your satisfaction is our number one priority. We are so sure you will love your SNO-GO that we are offering a “10 Day Money Back Guarantee” If for any reason you wish to return your SNO-GO we will promptly issue a refund according to the terms and conditions below. Simply contact us at <a href=\"mailto:info@snogo.us\"><span style=\"text-decoration:underline\">info@snogo.us</span></a> to speak to a customer service representative.</p><p><strong>TERMS & CONDITIONS</strong></p><p><strong>RETURN PROCESS:</strong> Returns are only accepted within <strong>10 days</strong> from the date your order is fulfilled. To be eligible for a return, your item must be unused, in its original packaging, and in the same condition that you received it. If the product is received by us in unused and undamaged condition and in its original packaging, we will refund your purchase. Damaged product including but not limited to used product, scratches, dents, dings, and missing or worn parts will not be eligible for a full refund. In the instance that a bike is returned and appears to be used, worn, or damaged, SNO-GO will provide a market value assessment to decide whether a refund is possible and to what value.</p><p><strong>REFUNDS:</strong>  All refunds may be subject to a 5% restocking fee and the customer is responsible for paying for return shipping. If you receive a refund, any other shipping costs paid for by SNO-GO will be deducted from your refund.</p><p>To return your product, please contact us via email <a href=\"mailto:info@snogo.us\" target=\"_blank\">info@snogo.us</a> or call us at (385) 626-6453.</p><p>If you are shipping an item over $75, you should consider using a trackable shipping service or purchasing shipping insurance. We cannot guarantee that we will receive your returned item.  </p><p><strong>PRICE MATCHING AND ADJUSTMENTS: </strong>If you have purchased your SNO-GO product within a 7 day period prior to any sale or discount period for that product, SNO-GO will honor the sale price and provide the difference in the amount spent back to the customer in the form of store credit. Sale prices will not be honored after the sale has concluded.</p>",
+              "align_text": "center",
+              "narrow_column": true,
+              "enlarge_text": false
+            }
           }
         },
         "block_order": [
-          "image_hero_jqxxgV"
+          "image_hero_jqxxgV",
+          "rich_text_TdjhGR",
+          "rich_text_agVjpr"
         ],
         "settings": {
           "page_title_enable": false,
