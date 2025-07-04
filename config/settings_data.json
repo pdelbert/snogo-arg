@@ -1077,7 +1077,7 @@
           "title": "CONQUER YOUR MOUNTAIN",
           "text": "<p>SNO-GO ski bikes allow anyone of any age to <strong>enjoy the mountain slopes within minutes</strong>without taking an expensive ski lesson.</p>",
           "button_label": "TUTORIAL",
-          "button_link": "shopify://products/tutorial",
+          "button_link": "shopify://pages/tutorial",
           "layout": "left",
           "divider": false
         }
