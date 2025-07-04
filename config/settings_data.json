@@ -1090,7 +1090,7 @@
           "title": "CONQUER YOUR MOUNTAIN",
           "text": "<p>SNO-GO ski bikes allow anyone of any age to <strong>enjoy the mountain slopes within minutes</strong>without taking an expensive ski lesson.</p>",
           "button_label": "TUTORIAL",
-          "button_link": "shopify://pages/tutorial",
+          "button_link": "shopify://products/tutorial",
           "layout": "left",
           "divider": false
         }
@@ -1098,6 +1098,35 @@
       "page-tutorial-template": {
         "type": "page-tutorial-template",
         "blocks": {
+          "image_hero_jwwUCV": {
+            "type": "image-hero",
+            "settings": {
+              "parallax": true,
+              "title": "Two line\ntitle image",
+              "title_size": 80,
+              "subheading": "And optional subtext",
+              "link": "",
+              "link_text": "Optional button",
+              "link_2": "",
+              "link_text_2": "",
+              "color_accent": "rgba(0,0,0,0)",
+              "text_align": "vertical-center horizontal-center",
+              "focal_point": "center center",
+              "section_height": "650px",
+              "mobile_height": "auto"
+            }
+          },
+          "featured_collection_RpLQyC": {
+            "type": "featured-collection",
+            "settings": {
+              "title": "Featured collection",
+              "collection": "",
+              "per_row": 4,
+              "rows": 1,
+              "mobile_scrollable": true,
+              "view_all": true
+            }
+          },
           "rich_text_Gct6Gh": {
             "type": "rich-text",
             "settings": {
@@ -1110,6 +1139,8 @@
           }
         },
         "block_order": [
+          "image_hero_jwwUCV",
+          "featured_collection_RpLQyC",
           "rich_text_Gct6Gh"
         ],
         "settings": {
