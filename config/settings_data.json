@@ -1095,7 +1095,7 @@
               "link": "",
               "text_align": "vertical-center horizontal-center",
               "video_url": "https://www.youtube.com/watch?v=mOrSVP08VuM&embeds_referring_euri=https%3A%2F%2Fsno-go.us%2F&source_ve_path=MjM4NTE",
-              "section_height": "650px",
+              "section_height": "100vh",
               "mobile_height": "auto"
             }
           },
