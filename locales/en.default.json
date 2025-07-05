@@ -350,7 +350,8 @@
         "city_label": "Ciudad",
         "country_label": "Pais/Region",
         "province_label": "Provincia",
-        "postal_code_label": "Codigo Postal"
+        "postal_code_label": "Codigo Postal",
+        "optional_first_name_label": "Nombre"
       }
     }
   }
