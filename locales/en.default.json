@@ -385,7 +385,8 @@
         }
       },
       "shipping": {
-        "shipping_method_title": "Metodo de Entrega"
+        "shipping_method_title": "Metodo de Entrega",
+        "delivery_title": "Entrega"
       },
       "review": {
         "blocks": {
