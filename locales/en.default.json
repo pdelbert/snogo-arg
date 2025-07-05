@@ -369,7 +369,8 @@
         "billing_address_title": "Dirección de Facturación"
       },
       "thank_you": {
-        "billing_address_title": "Dirección de Facturación"
+        "billing_address_title": "Dirección de Facturación",
+        "shipping_method_title": "Metodo de Entrega"
       },
       "notice_banner": {
         "individual_violations_title": {
@@ -382,12 +383,23 @@
             "billing_address": "Dirección de Facturación"
           }
         }
+      },
+      "shipping": {
+        "shipping_method_title": "Metodo de Entrega"
+      },
+      "review": {
+        "blocks": {
+          "shipping_method_title": "Metodo de Entrega"
+        }
       }
     }
   },
   "customer_accounts": {
     "order_details": {
-      "billing_address": "Dirección de Facturación"
+      "billing_address": "Dirección de Facturación",
+      "shipping": {
+        "method": "Metodo de Entrega"
+      }
     }
   }
 }
