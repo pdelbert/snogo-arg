@@ -359,7 +359,8 @@
         "estimated_taxes_label": "Impuestos"
       },
       "general": {
-        "choose_billing_address": "Dirección de Entrega"
+        "choose_billing_address": "Dirección de Entrega",
+        "pay_now_button_label": "Pagar"
       },
       "payment": {
         "different_billing_address_label": "Usar una dirección diferente",
