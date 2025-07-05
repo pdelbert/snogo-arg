@@ -357,6 +357,9 @@
       },
       "order_summary": {
         "estimated_taxes_label": "Impuestos"
+      },
+      "general": {
+        "choose_billing_address": "Dirección de Entrega"
       }
     }
   }
