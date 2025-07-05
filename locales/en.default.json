@@ -309,9 +309,9 @@
     },
     "product": {
       "stock_label": "Only {{ count }} items in stock!",
-      "sold_out": "Sold Out",
-      "unavailable": "Unavailable",
-      "quantity": "Quantity",
+      "sold_out": "Agotado",
+      "unavailable": "No disponible",
+      "quantity": "Cantidad",
       "add_to_cart": "Agregar al carrito",
       "preorder": "Pre-order",
       "include_taxes": "Tax included.",
