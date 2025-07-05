@@ -303,8 +303,8 @@
       "next_product": "Next: {{ title }}",
       "sale": "Sale",
       "sale_price": "Precio de venta",
-      "regular_price": "Regular price",
-      "from_text_html": "from {{ price }}",
+      "regular_price": "Precio regular",
+      "from_text_html": "Desde {{ price }}",
       "recent_products": "Vistos recientemente"
     },
     "product": {
@@ -314,7 +314,7 @@
       "quantity": "Cantidad",
       "add_to_cart": "Agregar al carrito",
       "preorder": "Pre-order",
-      "include_taxes": "Tax included.",
+      "include_taxes": "Iva Incluido",
       "shipping_policy_html": "<a href='{{ link }}'>Shipping</a> calculated at checkout.",
       "will_not_ship_until": "Will not ship until {{ date }}",
       "will_be_in_stock_after": "Will be in stock after {{ date }}",
