@@ -353,7 +353,10 @@
         "postal_code_label": "Codigo Postal",
         "optional_first_name_label": "Nombre",
         "optional_address2_label": "Departamento, casa, etc. (opcional)",
-        "delivery_option_title": "Entrega"
+        "delivery_option_title": "Entrega",
+        "county_placeholder": "Pais",
+        "state_label": "Provincia",
+        "state_placeholder": "Provincia"
       },
       "order_summary": {
         "estimated_taxes_label": "Impuestos",
@@ -362,7 +365,41 @@
       },
       "general": {
         "choose_billing_address": "Dirección de Entrega",
-        "pay_now_button_label": "Pagar"
+        "pay_now_button_label": "Pagar",
+        "dates": {
+          "weekdays": {
+            "monday": "Lunes",
+            "tuesday": "Martes",
+            "wednesday": "Miercoles",
+            "thursday": "Jueves",
+            "friday": "Viernes",
+            "saturday": "Sabado",
+            "sunday": "Domingo"
+          },
+          "weekdays_abbreviation": {
+            "monday": "Lun",
+            "tuesday": "Mar",
+            "wednesday": "Mie",
+            "thursday": "Jue",
+            "friday": "Vie",
+            "saturday": "Sab",
+            "sunday": "Dom"
+          },
+          "months": {
+            "january": "Enero",
+            "february": "Febrero",
+            "march": "Marzo",
+            "april": "Abril",
+            "may": "Mayo",
+            "june": "Junio",
+            "july": "Julio",
+            "august": "Agosto",
+            "september": "Septiembre",
+            "october": "Octubre",
+            "november": "Noviembre",
+            "december": "Diciembre"
+          }
+        }
       },
       "payment": {
         "different_billing_address_label": "Usar una dirección diferente",
