@@ -661,27 +661,6 @@ $collapsible-content-open-transition: transform 0.5s cubic-bezier(.25,.46,.45,.9
 
 $collapsible-content-close-transition: transform 0.3s cubic-bezier(.25,.46,.45,.94);
 
-/*================ Buy it now ================*/
-
-.shopify-payment-button .shopify-payment-button__button--unbranded {
-  position: relative;
-}
-.shopify-payment-button .shopify-payment-button__button--unbranded:after {
-  content: "Hit That Like Button";
-  background: inherit;
-  font-size: inherit;
-  color: inherit;
-  height: 100%;
-  width: 100%;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  position: absolute;
-  top: 0;
-  left: 0;
-}
-
-
 /*================ Global | Normalize ================*/
 
 *, input, :before, :after {
@@ -1871,6 +1850,27 @@ html input[disabled] {
       }
     }
   }
+}
+
+/*================ Buy it now ================*/
+
+
+.shopify-payment-button .shopify-payment-button__button--unbranded {
+  position: relative;
+}
+.shopify-payment-button .shopify-payment-button__button--unbranded:after {
+  content: "Hit That Like Button";
+  background: inherit;
+  font-size: inherit;
+  color: inherit;
+  height: 100%;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  top: 0;
+  left: 0;
 }
 
 // Mimic the .btn hover style for Shopify Payment Button
