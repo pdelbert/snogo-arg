@@ -475,7 +475,8 @@
       "shipping": {
         "method": "Metodo de Entrega"
       },
-      "marketing_checkbox_label": "Quiero recibir novedades por mail"
+      "marketing_checkbox_label": "Quiero recibir novedades por mail",
+      "contact": "Contacto"
     },
     "orders": {
       "buy_again": "Comprar nuevamente",
