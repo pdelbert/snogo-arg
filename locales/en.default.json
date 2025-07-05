@@ -298,7 +298,7 @@
   },
   "products": {
     "general": {
-      "save_html": "Save {{ saved_amount }}",
+      "save_html": "Ahorra {{ saved_amount }}",
       "collection_return": "Back to {{ collection }}",
       "next_product": "Next: {{ title }}",
       "sale": "Sale",
