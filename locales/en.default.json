@@ -354,6 +354,9 @@
         "optional_first_name_label": "Nombre",
         "optional_address2_label": "Departamento, casa, etc. (opcional)",
         "delivery_option_title": "Entrega"
+      },
+      "order_summary": {
+        "estimated_taxes_label": "Impuestos"
       }
     }
   }
