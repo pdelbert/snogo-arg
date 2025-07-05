@@ -353,8 +353,7 @@
         "postal_code_label": "Codigo Postal",
         "optional_first_name_label": "Nombre",
         "optional_address2_label": "Departamento, casa, etc. (opcional)",
-        "delivery_option_title": "Entrega",
-        "shipping_used_as_billing_notice": "----"
+        "delivery_option_title": "Entrega"
       }
     }
   }
