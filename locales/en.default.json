@@ -395,6 +395,9 @@
       },
       "customer_account": {
         "save_my_information_label": "Guardar Información"
+      },
+      "marketing": {
+        "accept_marketing_checkbox_label": "test 0"
       }
     }
   },
@@ -403,7 +406,8 @@
       "billing_address": "Dirección de Facturación",
       "shipping": {
         "method": "Metodo de Entrega"
-      }
+      },
+      "marketing_checkbox_label": "test 1"
     }
   }
 }
