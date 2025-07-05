@@ -440,7 +440,8 @@
       },
       "review": {
         "blocks": {
-          "shipping_method_title": "Metodo de Entrega"
+          "shipping_method_title": "Metodo de Entrega",
+          "contact_method_title": "Contacto"
         }
       },
       "customer_account": {
