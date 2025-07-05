@@ -394,7 +394,10 @@
       },
       "shipping": {
         "shipping_method_title": "Metodo de Entrega",
-        "delivery_title": "Entrega"
+        "delivery_title": "Entrega",
+        "duties_and_taxes_options": {
+          "ddp_title": "Pagar"
+        }
       },
       "review": {
         "blocks": {
@@ -406,6 +409,9 @@
       },
       "marketing": {
         "accept_marketing_checkbox_label": "Quiero recibir novedades por mail"
+      },
+      "order_payment_collection": {
+        "pay_now": "Pagar"
       }
     }
   },
@@ -419,6 +425,13 @@
     },
     "orders": {
       "buy_again": "Comprar nuevamente"
+    },
+    "B2B": {
+      "draft_order_details": {
+        "payment_status": {
+          "pay_now": "Pagar"
+        }
+      }
     }
   }
 }
