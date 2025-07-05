@@ -365,7 +365,9 @@
         "different_billing_address_label": "Usar una dirección diferente",
         "same_billing_address_checkbox_label": "Misma de dirección de facturación",
         "title": "Metodos de Pago",
-        "card_security_notice": "Todas las transacciones son seguras y estan encriptadas."
+        "card_security_notice": "Todas las transacciones son seguras y estan encriptadas.",
+        "offsite_gateway_redirect_hint": "Luego de hacer click en “{{ button_label }}”, será redireccionado a {{ gateway_label }} para completar su compra de manera segura.",
+        "offsite_gateway_review_page_redirect_hint": "Luego de hacer click en “{{ button_label }}”, será redireccionado a {{ gateway_label }} para completar su compra de manera segura."
       },
       "payment_summary": {
         "billing_address_title": "Dirección de Facturación"
