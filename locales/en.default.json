@@ -416,6 +416,9 @@
         "method": "Metodo de Entrega"
       },
       "marketing_checkbox_label": "Quiero recibir novedades por mail"
+    },
+    "orders": {
+      "buy_again": "Comprar nuevamente"
     }
   }
 }
