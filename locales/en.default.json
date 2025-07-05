@@ -356,7 +356,8 @@
         "delivery_option_title": "Entrega",
         "county_placeholder": "Pais",
         "state_label": "Provincia",
-        "state_placeholder": "Provincia"
+        "state_placeholder": "Provincia",
+        "contact_method_title": "Contacto"
       },
       "order_summary": {
         "estimated_taxes_label": "Impuestos",
