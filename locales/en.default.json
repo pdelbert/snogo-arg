@@ -338,5 +338,12 @@
   },
   "date_formats": {
     "month_day_year": "%b %d, %Y"
+  },
+  "shopify": {
+    "checkout": {
+      "contact": {
+        "email_or_phone_label": "test---"
+      }
+    }
   }
 }
