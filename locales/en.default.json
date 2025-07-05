@@ -447,13 +447,24 @@
         "save_my_information_label": "Guardar Información"
       },
       "marketing": {
-        "accept_marketing_checkbox_label": "Quiero recibir novedades por mail"
+        "accept_marketing_checkbox_label": "Quiero recibir novedades por mail",
+        "disclaimer": {
+          "privacy_policy": "Política de privacidad"
+        },
+        "sms": {
+          "disclaimer": {
+            "privacy_policy": "Política de privacidad"
+          }
+        }
       },
       "order_payment_collection": {
         "pay_now": "Pagar"
       },
       "shipping_errors": {
         "empty_state": "Ingrese su dirección de envío para visualizar los métodos de envío disponibles."
+      },
+      "shop_policies": {
+        "privacy_policy": "Política de privacidad"
       }
     }
   },
@@ -486,6 +497,9 @@
           "pay_now": "Pagar"
         }
       }
+    },
+    "shop_policies": {
+      "privacy_policy": "Política de privacidad"
     }
   }
 }
