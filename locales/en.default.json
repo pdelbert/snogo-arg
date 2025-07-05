@@ -417,7 +417,8 @@
       },
       "thank_you": {
         "billing_address_title": "Dirección de Facturación",
-        "shipping_method_title": "Metodo de Entrega"
+        "shipping_method_title": "Metodo de Entrega",
+        "contact_information_title": "Contacto"
       },
       "notice_banner": {
         "individual_violations_title": {
