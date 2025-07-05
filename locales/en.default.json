@@ -357,7 +357,8 @@
       },
       "order_summary": {
         "estimated_taxes_label": "Impuestos",
-        "estimated_taxes_finalization_tooltip_content": "El impuesto final y total sera confirmado via email, luego de realizar la orden de compra."
+        "estimated_taxes_finalization_tooltip_content": "El impuesto final y total sera confirmado via email, luego de realizar la orden de compra.",
+        "payment_due_label": "Pago pendiente"
       },
       "general": {
         "choose_billing_address": "Dirección de Entrega",
