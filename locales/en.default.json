@@ -302,10 +302,10 @@
       "collection_return": "Back to {{ collection }}",
       "next_product": "Next: {{ title }}",
       "sale": "Sale",
-      "sale_price": "Sale price",
+      "sale_price": "Precio de venta",
       "regular_price": "Regular price",
       "from_text_html": "from {{ price }}",
-      "recent_products": "Recently viewed"
+      "recent_products": "Vistos recientemente"
     },
     "product": {
       "stock_label": "Only {{ count }} items in stock!",
