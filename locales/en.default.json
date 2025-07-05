@@ -450,6 +450,9 @@
       },
       "order_payment_collection": {
         "pay_now": "Pagar"
+      },
+      "shipping_errors": {
+        "empty_state": "Ingrese su dirección de envío para visualizar los métodos de envío disponibles."
       }
     }
   },
