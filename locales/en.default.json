@@ -391,6 +391,9 @@
         "blocks": {
           "shipping_method_title": "Metodo de Entrega"
         }
+      },
+      "customer_account": {
+        "save_my_information_label": "Guardar Información"
       }
     }
   },
