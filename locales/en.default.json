@@ -397,7 +397,7 @@
         "save_my_information_label": "Guardar Información"
       },
       "marketing": {
-        "accept_marketing_checkbox_label": "test 0"
+        "accept_marketing_checkbox_label": "Quiero recibir novedades por mail"
       }
     }
   },
@@ -407,7 +407,7 @@
       "shipping": {
         "method": "Metodo de Entrega"
       },
-      "marketing_checkbox_label": "test 1"
+      "marketing_checkbox_label": "Quiero recibir novedades por mail"
     }
   }
 }
