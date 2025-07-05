@@ -351,7 +351,8 @@
         "country_label": "Pais/Region",
         "province_label": "Provincia",
         "postal_code_label": "Codigo Postal",
-        "optional_first_name_label": "Nombre"
+        "optional_first_name_label": "Nombre",
+        "optional_address2_label": "Departamento, casa, etc. (opcional)"
       }
     }
   }
