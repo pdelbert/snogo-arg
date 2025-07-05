@@ -97,7 +97,7 @@
     "article": {
       "view_all": "View all",
       "tags": "Tags",
-      "read_more": "Continue reading",
+      "read_more": "Continuar leyendo",
       "back_to_blog": "Back to {{ title }}"
     },
     "comments": {
@@ -402,7 +402,10 @@
             "december": "Diciembre"
           }
         },
-        "cart": "CARRITO"
+        "cart": "CARRITO",
+        "continue_to_shipping_method": "Continuar comprando",
+        "continue_to_payment_method": "Continuar pagando",
+        "continue_to_review": "Revisar orden"
       },
       "payment": {
         "different_billing_address_label": "Usar una dirección diferente",
