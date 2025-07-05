@@ -498,6 +498,9 @@
         "payment_status": {
           "pay_now": "Pagar"
         }
+      },
+      "orders": {
+        "order_list_column_headers_contact": "Contacto"
       }
     },
     "shop_policies": {
