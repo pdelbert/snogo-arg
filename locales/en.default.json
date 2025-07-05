@@ -360,7 +360,15 @@
       },
       "general": {
         "choose_billing_address": "Dirección de Entrega"
+      },
+      "payment": {
+        "different_billing_address_label": "Usar una dirección diferente"
       }
+    }
+  },
+  "customer_accounts": {
+    "order_details": {
+      "billing_address": "Dirección de Faturación"
     }
   }
 }
