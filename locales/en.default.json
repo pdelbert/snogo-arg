@@ -368,7 +368,8 @@
         "card_security_notice": "Todas las transacciones son seguras y estan encriptadas.",
         "offsite_gateway_redirect_hint": "Luego de hacer click en “{{ button_label }}”, será redireccionado a {{ gateway_label }} para completar su compra de manera segura.",
         "offsite_gateway_review_page_redirect_hint": "Luego de hacer click en “{{ button_label }}”, será redireccionado a {{ gateway_label }} para completar su compra de manera segura.",
-        "same_billing_address_label": "Usar dirección de entrega"
+        "same_billing_address_label": "Usar dirección de entrega",
+        "billing_address_title": "Dirección de entrega"
       },
       "payment_summary": {
         "billing_address_title": "Dirección de Facturación"
