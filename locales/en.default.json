@@ -425,7 +425,15 @@
       "marketing_checkbox_label": "Quiero recibir novedades por mail"
     },
     "orders": {
-      "buy_again": "Comprar nuevamente"
+      "buy_again": "Comprar nuevamente",
+      "order_list": {
+        "payment_status": {
+          "gallery_view": {
+            "due": "Pago pendiente {{date}}",
+            "due_without_date": "Pago pendiente"
+          }
+        }
+      }
     },
     "B2B": {
       "draft_order_details": {
