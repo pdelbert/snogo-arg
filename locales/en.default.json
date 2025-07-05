@@ -366,13 +366,28 @@
         "same_billing_address_checkbox_label": "Misma de dirección de facturación"
       },
       "payment_summary": {
-        "billing_address_title": "Dirección de facturación"
+        "billing_address_title": "Dirección de Facturación"
+      },
+      "thank_you": {
+        "billing_address_title": "Dirección de Facturación"
+      },
+      "notice_banner": {
+        "individual_violations_title": {
+          "PaymentViolations": "Dirección de facturación"
+        }
+      },
+      "wallets": {
+        "errors": {
+          "invalid": {
+            "billing_address": "Dirección de Facturación"
+          }
+        }
       }
     }
   },
   "customer_accounts": {
     "order_details": {
-      "billing_address": "Dirección de Faturación"
+      "billing_address": "Dirección de Facturación"
     }
   }
 }
