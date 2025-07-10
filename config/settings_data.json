@@ -1343,6 +1343,13 @@
           "page_title_enable": false,
           "page_content_enable": false
         }
+      },
+      "whatsapp-button": {
+        "type": "whatsapp-button",
+        "settings": {
+          "phone_number": "5491155834891",
+          "custom_message": "Hola, estoy interesado en un producto"
+        }
       }
     },
     "content_for_index": [
