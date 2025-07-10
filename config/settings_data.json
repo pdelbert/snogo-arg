@@ -1138,7 +1138,7 @@
             "type": "background-image-text",
             "settings": {
               "subtitle": "",
-              "title": "turning and stopping",
+              "title": "Girar y frenar",
               "text": "",
               "button_label": "",
               "button_link": "",
@@ -1208,8 +1208,8 @@
             "type": "background-image-text",
             "settings": {
               "subtitle": "",
-              "title": "Loading and Unloading a Chairlift",
-              "text": "<p>General Rule: Chairlift capacity minus 1 rider. (ex. 3 rider per quad lift)</p>",
+              "title": "Subiendo y bajando de la aerosilla",
+              "text": "",
               "button_label": "",
               "button_link": "",
               "image": "shopify://shop_images/SNOGO-Ski-bike-Backpack-Bag-Carry-Tote-61_1800x_bb916517-c0c9-42b1-b703-3deffe4f997f.webp",
