@@ -796,6 +796,13 @@
               "link": ""
             }
           },
+          "logo_image_R7A3pV": {
+            "type": "logo_image",
+            "settings": {
+              "image": "shopify://shop_images/Logo_Cerro_Castor_B_N.png",
+              "link": ""
+            }
+          },
           "logo_image_gM9zXW": {
             "type": "logo_image",
             "settings": {
@@ -843,6 +850,7 @@
           "logo_image_mPWtHP",
           "logo_image_NdLCwN",
           "logo_image_YczefR",
+          "logo_image_R7A3pV",
           "logo_image_gM9zXW",
           "logo_image_bnbjHE",
           "logo_image_rh9RNQ",
