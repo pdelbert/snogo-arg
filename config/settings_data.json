@@ -816,6 +816,27 @@
               "image": "shopify://shop_images/Logo_Bona_-_Blanco.png",
               "link": ""
             }
+          },
+          "logo_image_KdyQqk": {
+            "type": "logo_image",
+            "settings": {
+              "image": "shopify://shop_images/Logo_Patagonia_-_blanco.png",
+              "link": ""
+            }
+          },
+          "logo_image_dWkNzc": {
+            "type": "logo_image",
+            "settings": {
+              "image": "shopify://shop_images/Isologo_Helipuerto_Autodromo_-_Blanco.png",
+              "link": ""
+            }
+          },
+          "logo_image_xVFHKr": {
+            "type": "logo_image",
+            "settings": {
+              "image": "shopify://shop_images/Logo_Bona_-_Blanco.png",
+              "link": ""
+            }
           }
         },
         "block_order": [
@@ -824,7 +845,10 @@
           "logo_image_YczefR",
           "logo_image_gM9zXW",
           "logo_image_bnbjHE",
-          "logo_image_rh9RNQ"
+          "logo_image_rh9RNQ",
+          "logo_image_KdyQqk",
+          "logo_image_dWkNzc",
+          "logo_image_xVFHKr"
         ],
         "custom_css": [
           ".logo-bar__item {flex: 0 0 300px; overflow: hidden;}",
