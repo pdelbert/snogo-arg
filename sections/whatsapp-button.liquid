@@ -6,7 +6,13 @@
       "type": "text",
       "id": "phone_number",
       "label": "WhatsApp Phone Number",
-      "default": "5491165434769"
+      "default": "5491123456789"
+    },
+    {
+      "type": "text",
+      "id": "custom_message",
+      "label": "Pre-filled Message",
+      "default": "Hola, estoy interesado en un producto"
     }
   ],
   "presets": [
@@ -17,8 +23,9 @@
 }
 {% endschema %}
 
+{%- assign encoded_message = section.settings.custom_message | url_encode -%}
 <a
-  href="https://wa.me/{{ section.settings.phone_number }}"
+  href="https://wa.me/{{ section.settings.phone_number }}?text={{ encoded_message }}"
   class="whatsapp-float"
   target="_blank"
   rel="noopener"
