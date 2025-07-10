@@ -824,6 +824,13 @@
               "link": ""
             }
           },
+          "logo_image_L9iAj9": {
+            "type": "logo_image",
+            "settings": {
+              "image": "shopify://shop_images/Logo_Cerro_Castor_B_N.png",
+              "link": ""
+            }
+          },
           "logo_image_KdyQqk": {
             "type": "logo_image",
             "settings": {
@@ -844,6 +851,13 @@
               "image": "shopify://shop_images/Logo_Bona_-_Blanco.png",
               "link": ""
             }
+          },
+          "logo_image_dUARnT": {
+            "type": "logo_image",
+            "settings": {
+              "image": "shopify://shop_images/Logo_Cerro_Castor_B_N.png",
+              "link": ""
+            }
           }
         },
         "block_order": [
@@ -854,9 +868,11 @@
           "logo_image_gM9zXW",
           "logo_image_bnbjHE",
           "logo_image_rh9RNQ",
+          "logo_image_L9iAj9",
           "logo_image_KdyQqk",
           "logo_image_dWkNzc",
-          "logo_image_xVFHKr"
+          "logo_image_xVFHKr",
+          "logo_image_dUARnT"
         ],
         "custom_css": [
           ".logo-bar__item {flex: 0 0 300px; overflow: hidden;}",
