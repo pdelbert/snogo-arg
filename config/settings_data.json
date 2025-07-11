@@ -1401,6 +1401,24 @@
       "page-location-template": {
         "type": "page-location-template",
         "blocks": {
+          "custom_html_wQrpaz": {
+            "type": "custom-html",
+            "settings": {
+              "full_width": false,
+              "space_around": true,
+              "code": ""
+            }
+          },
+          "rich_text_WG34gm": {
+            "type": "rich-text",
+            "settings": {
+              "title": "SÍ, LAS BICICLETAS SNO-GO ESTÁN PERMITIDAS EN CIENTOS DE CENTROS DE ESQUÍ",
+              "text": "",
+              "align_text": "center",
+              "narrow_column": true,
+              "enlarge_text": false
+            }
+          },
           "custom_html_RaGPQz": {
             "type": "custom-html",
             "settings": {
@@ -1427,6 +1445,8 @@
           }
         },
         "block_order": [
+          "custom_html_wQrpaz",
+          "rich_text_WG34gm",
           "custom_html_RaGPQz",
           "background_image_text_EBD4ir"
         ],
