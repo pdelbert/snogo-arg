@@ -1174,6 +1174,15 @@
               "parallax": true
             }
           },
+          "custom_html_mqLN4G": {
+            "type": "custom-html",
+            "disabled": true,
+            "settings": {
+              "full_width": false,
+              "space_around": true,
+              "code": "<iframe src=\"https://storage.googleapis.com/maps-solutions-p4ccuz468m/locator-plus/fpr8/locator-plus.html\" width=\"100%\" height=\"600px\" style=\"border:0;\" loading=\"lazy\">\n</iframe>"
+            }
+          },
           "text_columns_rL9aNg": {
             "type": "text-columns",
             "settings": {
@@ -1304,6 +1313,7 @@
           "background_image_text_FL9Rg6",
           "text_columns_TmERny",
           "background_image_text_pq4hKQ",
+          "custom_html_mqLN4G",
           "text_columns_rL9aNg",
           "text_columns_86wWeL",
           "background_image_text_geXtGG",
@@ -1377,11 +1387,12 @@
       },
       "map_p6hmyc": {
         "type": "map",
+        "disabled": true,
         "name": "Map",
         "settings": {
           "map_title": "Our retail store",
-          "address": "<p>301 Front St W<br/>Toronto, Canada</p><p>Mon - Fri, 8:30am - 10:30pm<br/>Saturday, 8:30am - 10:30pm<br/>Sunday, 8:30am - 10:30pm</p>",
-          "map_address": "301 Front St W, Toronto, ON M5V 2T6",
+          "address": "",
+          "map_address": "Moldes 2181, Buenos aires, Juramento 2729, buenos aires",
           "api_key": "AIzaSyAM94TOi-tBBh5SdQ_W57o1XkUjcrfONhE",
           "show_button": true,
           "background_image_position": "center center"
