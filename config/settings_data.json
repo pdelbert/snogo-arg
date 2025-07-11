@@ -1408,10 +1408,27 @@
               "space_around": true,
               "code": "<iframe src=\"https://storage.googleapis.com/maps-solutions-p4ccuz468m/locator-plus/jzep/locator-plus.html\" width=\"100%\" height=\"700px\" style=\"border:0;\" loading=\"lazy\">\n</iframe>"
             }
+          },
+          "background_image_text_EBD4ir": {
+            "type": "background-image-text",
+            "settings": {
+              "subtitle": "",
+              "title": "CENTROS DE esquí",
+              "text": "<p>Resorts preferidos para alquilar, recorrer y descubrir aventuras de invierno</p>",
+              "button_label": "",
+              "button_link": "",
+              "image": "shopify://shop_images/Big_Mountain_Backdrop_Web_3024x_c6025265-1937-4d89-95fd-d26ef885caae.webp",
+              "alignment": "center",
+              "color_border": "rgba(0,0,0,0)",
+              "layout": "left",
+              "height": 650,
+              "parallax": true
+            }
           }
         },
         "block_order": [
-          "custom_html_RaGPQz"
+          "custom_html_RaGPQz",
+          "background_image_text_EBD4ir"
         ],
         "settings": {
           "page_title_enable": false,
