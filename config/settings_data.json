@@ -1457,6 +1457,33 @@
               "button_link": "",
               "layout": "right"
             }
+          },
+          "text_columns_MAEHfr": {
+            "type": "text-columns",
+            "settings": {
+              "title": "",
+              "align_text": "center",
+              "enable_image_1": true,
+              "image_1": "shopify://shop_images/CERRO_CASTOR.jpg",
+              "image_width_1": 650,
+              "title_1": "Cerro CASTOR",
+              "text_1": "",
+              "button_label_1": "",
+              "button_link_1": "",
+              "enable_image_2": true,
+              "image_2": "shopify://shop_images/LAS_LENAS.jpg",
+              "image_width_2": 650,
+              "title_2": "LAS LEÑAS",
+              "text_2": "",
+              "button_label_2": "",
+              "button_link_2": "",
+              "enable_image_3": false,
+              "image_width_3": 60,
+              "title_3": "",
+              "text_3": "",
+              "button_label_3": "",
+              "button_link_3": ""
+            }
           }
         },
         "block_order": [
@@ -1464,7 +1491,8 @@
           "rich_text_WG34gm",
           "custom_html_RaGPQz",
           "background_image_text_EBD4ir",
-          "text_and_image_WDEkDM"
+          "text_and_image_WDEkDM",
+          "text_columns_MAEHfr"
         ],
         "settings": {
           "page_title_enable": false,
