@@ -1442,13 +1442,29 @@
               "height": 650,
               "parallax": true
             }
+          },
+          "text_and_image_WDEkDM": {
+            "type": "text-and-image",
+            "settings": {
+              "image": "shopify://shop_images/renewed_mobile_750x_7c03dc7d-d3f4-470c-bccb-1e083dca311e.webp",
+              "image_2": "shopify://shop_images/5C4A3498_2400x_2fbdd945-c2f1-4a83-9c45-7d6b9d52d10e.webp",
+              "enable_image_2": true,
+              "image_width": 500,
+              "subtitle": "",
+              "title": "Alquilá bicicletas de nieve",
+              "text": "<p>Alquilá nuestras bicicletas de nieve en <strong>Cerro Castor, Las Leñas</strong> y muchos otros destinos, a través de nuestros increíbles distribuidores.</p>",
+              "button_label": "",
+              "button_link": "",
+              "layout": "right"
+            }
           }
         },
         "block_order": [
           "custom_html_wQrpaz",
           "rich_text_WG34gm",
           "custom_html_RaGPQz",
-          "background_image_text_EBD4ir"
+          "background_image_text_EBD4ir",
+          "text_and_image_WDEkDM"
         ],
         "settings": {
           "page_title_enable": false,
