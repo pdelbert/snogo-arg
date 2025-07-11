@@ -1461,7 +1461,7 @@
           "text_columns_MAEHfr": {
             "type": "text-columns",
             "settings": {
-              "title": "",
+              "title": "UBICACIONES",
               "align_text": "center",
               "enable_image_1": true,
               "image_1": "shopify://shop_images/CERRO_CASTOR.jpg",
