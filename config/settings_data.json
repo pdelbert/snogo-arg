@@ -1442,13 +1442,26 @@
               "height": 650,
               "parallax": true
             }
+          },
+          "text_and_image_6Vn6Ug": {
+            "type": "text-and-image",
+            "settings": {
+              "image_width": 500,
+              "subtitle": "Improved",
+              "title": "Image with text",
+              "text": "<p>Pair large text with an image to tell a story, explain a detail about your product, or describe a new promotion.</p>",
+              "button_label": "Optional button",
+              "button_link": "",
+              "layout": "left"
+            }
           }
         },
         "block_order": [
           "custom_html_wQrpaz",
           "rich_text_WG34gm",
           "custom_html_RaGPQz",
-          "background_image_text_EBD4ir"
+          "background_image_text_EBD4ir",
+          "text_and_image_6Vn6Ug"
         ],
         "settings": {
           "page_title_enable": false,
