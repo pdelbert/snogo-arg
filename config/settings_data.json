@@ -1397,6 +1397,38 @@
           "show_button": true,
           "background_image_position": "center center"
         }
+      },
+      "page-location-template": {
+        "type": "page-location-template",
+        "blocks": {
+          "custom_html_RaGPQz": {
+            "type": "custom-html",
+            "settings": {
+              "full_width": true,
+              "space_around": true,
+              "code": "<iframe src=\"https://storage.googleapis.com/maps-solutions-p4ccuz468m/locator-plus/jzep/locator-plus.html\" width=\"100%\" height=\"800px\" style=\"border:0;\" loading=\"lazy\">\n</iframe>"
+            }
+          },
+          "map_VGLWbG": {
+            "type": "map",
+            "settings": {
+              "map_title": "Our retail store",
+              "address": "<p>301 Front St W<br/>Toronto, Canada</p><p>Mon - Fri, 8:30am - 10:30pm<br/>Saturday, 8:30am - 10:30pm<br/>Sunday, 8:30am - 10:30pm</p>",
+              "map_address": "301 Front St W, Toronto, ON M5V 2T6",
+              "api_key": "",
+              "show_button": true,
+              "background_image_position": "center center"
+            }
+          }
+        },
+        "block_order": [
+          "custom_html_RaGPQz",
+          "map_VGLWbG"
+        ],
+        "settings": {
+          "page_title_enable": false,
+          "page_content_enable": false
+        }
       }
     },
     "content_for_index": [
