@@ -1374,6 +1374,18 @@
           "phone_number": "5491155834891",
           "custom_message": "Hola, estoy interesado en una SNOGO bici"
         }
+      },
+      "map_p6hmyc": {
+        "type": "map",
+        "name": "Map",
+        "settings": {
+          "map_title": "Our retail store",
+          "address": "<p>301 Front St W<br/>Toronto, Canada</p><p>Mon - Fri, 8:30am - 10:30pm<br/>Saturday, 8:30am - 10:30pm<br/>Sunday, 8:30am - 10:30pm</p>",
+          "map_address": "301 Front St W, Toronto, ON M5V 2T6",
+          "api_key": "AIzaSyAM94TOi-tBBh5SdQ_W57o1XkUjcrfONhE",
+          "show_button": true,
+          "background_image_position": "center center"
+        }
       }
     },
     "content_for_index": [
@@ -1387,7 +1399,8 @@
       "background_image_text_cixe4r",
       "text_columns_FidaVw",
       "background_image_text_nqLFfQ",
-      "background_image_text_4TgEne"
+      "background_image_text_4TgEne",
+      "map_p6hmyc"
     ]
   },
   "presets": {
