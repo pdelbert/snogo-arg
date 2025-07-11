@@ -1406,7 +1406,7 @@
             "settings": {
               "full_width": false,
               "space_around": true,
-              "code": ""
+              "code": "<p></p>"
             }
           },
           "rich_text_WG34gm": {
