@@ -553,61 +553,16 @@
       "collection-sidebar": {
         "type": "collection-sidebar",
         "blocks": {
-          "menu_rQeifr": {
-            "type": "menu",
-            "settings": {
-              "title": "",
-              "menu": "main-menu",
-              "collapsed": false
-            }
-          },
-          "color_group_BtjEMA": {
-            "type": "color_group",
-            "settings": {
-              "title": "Color",
-              "tag_list": "Burgundy \nHeather grey \nGreen",
-              "collapsed": false
-            }
-          },
-          "subcollections_RJaXTg": {
-            "type": "subcollections",
-            "settings": {
-              "enable_subsubcollections": true,
-              "enable_count": false,
-              "collapsed": false
-            }
-          },
           "1524772580942": {
             "type": "tags_all",
             "settings": {
               "title": "G4 Parts",
-              "collapsed": false
-            }
-          },
-          "tags_group_kzLec9": {
-            "type": "tags_group",
-            "settings": {
-              "title": "Tag Group",
-              "tag_list": "First tag \nSecond tag \nThird tag",
-              "collapsed": false
-            }
-          },
-          "subcollections_qCG8tm": {
-            "type": "subcollections",
-            "settings": {
-              "enable_subsubcollections": true,
-              "enable_count": false,
               "collapsed": true
             }
           }
         },
         "block_order": [
-          "menu_rQeifr",
-          "color_group_BtjEMA",
-          "subcollections_RJaXTg",
-          "1524772580942",
-          "tags_group_kzLec9",
-          "subcollections_qCG8tm"
+          "1524772580942"
         ],
         "settings": {
           "enable_sidebar": true,
