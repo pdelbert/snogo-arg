@@ -6,44 +6,58 @@
       </div>
     {% endif %}
 
-    {%- assign text_column_count = 0 -%}
-    {%- assign column_1_enabled = false -%}
-    {%- assign column_2_enabled = false -%}
-    {%- assign column_3_enabled = false -%}
-    {% if block.settings.enable_image_1 or block.settings.title_1 != blank or block.settings.text_1 != blank %}
-      {%- assign column_1_enabled = true -%}
-      {%- assign text_column_count = text_column_count | plus: 1 -%}
-    {% endif %}
-    {% if block.settings.enable_image_2 or block.settings.title_2 != blank or block.settings.text_2 != blank %}
-      {%- assign column_2_enabled = true -%}
-      {%- assign text_column_count = text_column_count | plus: 1 -%}
-    {% endif %}
-    {% if block.settings.enable_image_3 or block.settings.title_3 != blank or block.settings.text_3 != blank %}
-      {%- assign column_3_enabled = true -%}
-      {%- assign text_column_count = text_column_count | plus: 1 -%}
-    {% endif %}
+    {% assign text_column_count = 0 %}
+    {% assign column_flags = '' %}
+
+    {% for i in (1..3) %}
+      {% assign enable_key = 'enable_image_' | append: i %}
+      {% assign title_key = 'title_' | append: i %}
+      {% assign text_key = 'text_' | append: i %}
+
+      {% assign enable_val = block.settings[enable_key] %}
+      {% assign title_val = block.settings[title_key] %}
+      {% assign text_val = block.settings[text_key] %}
+
+      {% if enable_val or title_val != blank or text_val != blank %}
+        {% assign text_column_count = text_column_count | plus: 1 %}
+        {% assign column_flags = column_flags | append: '1' %}
+      {% else %}
+        {% assign column_flags = column_flags | append: '0' %}
+      {% endif %}
+    {% endfor %}
 
     {% case text_column_count %}
       {% when 1 %}
-        {%- assign grid_item_width = '' -%}
+        {% assign grid_item_width = '' %}
       {% when 2 %}
-        {%- assign grid_item_width = 'medium-up--one-half' -%}
+        {% assign grid_item_width = 'medium-up--one-half' %}
       {% when 3 %}
-        {%- assign grid_item_width = 'medium-up--one-third' -%}
+        {% assign grid_item_width = 'medium-up--one-third' %}
     {% endcase %}
 
     <div class="grid grid--flush-bottom">
       {% for i in (1..3) %}
-        {% assign enable_image = block.settings["enable_image_" | append: i] %}
-        {% assign title = block.settings["title_" | append: i] %}
-        {% assign text = block.settings["text_" | append: i] %}
-        {% assign image = block.settings["image_" | append: i] %}
-        {% assign svg_icon = block.settings["svg_icon_" | append: i] %}
-        {% assign image_width = block.settings["image_width_" | append: i] %}
-        {% assign button_link = block.settings["button_link_" | append: i] %}
-        {% assign button_label = block.settings["button_label_" | append: i] %}
+        {% assign show_column = column_flags | slice: i-1, 1 %}
+        {% if show_column == '1' %}
 
-        {% if enable_image or title != blank or text != blank %}
+          {% assign enable_key = 'enable_image_' | append: i %}
+          {% assign title_key = 'title_' | append: i %}
+          {% assign text_key = 'text_' | append: i %}
+          {% assign image_key = 'image_' | append: i %}
+          {% assign svg_key = 'svg_icon_' | append: i %}
+          {% assign width_key = 'image_width_' | append: i %}
+          {% assign link_key = 'button_link_' | append: i %}
+          {% assign label_key = 'button_label_' | append: i %}
+
+          {% assign enable_image = block.settings[enable_key] %}
+          {% assign title = block.settings[title_key] %}
+          {% assign text = block.settings[text_key] %}
+          {% assign image = block.settings[image_key] %}
+          {% assign svg_icon = block.settings[svg_key] %}
+          {% assign image_width = block.settings[width_key] %}
+          {% assign button_link = block.settings[link_key] %}
+          {% assign button_label = block.settings[label_key] %}
+
           <div class="grid__item {{ grid_item_width }}" data-aos="row-of-3">
             {% if enable_image %}
               <div style="{% if block.settings.align_text == 'center' %}margin: 0 auto;{% endif %} max-width: {{ image_width }}px;">
@@ -57,16 +71,18 @@
                   </div>
                 {% elsif image != blank %}
                   <div class="image-wrap text-spacing" style="height: 0; padding-bottom: {{ 100 | divided_by: image.aspect_ratio }}%;">
-                    {%- assign img_url = image | img_url: '1x1' | replace: '_1x1.', '_{width}x.' -%}
+                    {% assign img_url = image | img_url: '1x1' | replace: '_1x1.', '_{width}x.' %}
                     <img class="lazyload"
-                         data-src="{{ img_url }}"
-                         data-widths="[180, 360, 540, 720, 900, 1080]"
-                         data-aspectratio="{{ image.aspect_ratio }}"
-                         data-sizes="auto"
-                         alt="{{ image.alt }}">
+                      data-src="{{ img_url }}"
+                      data-widths="[180, 360, 540, 720, 900, 1080]"
+                      data-aspectratio="{{ image.aspect_ratio }}"
+                      data-sizes="auto"
+                      alt="{{ image.alt }}">
                   </div>
                 {% else %}
-                  <div class="image-wrap text-spacing">{{ 'image' | placeholder_svg_tag: 'placeholder-svg' }}</div>
+                  <div class="image-wrap text-spacing">
+                    {{ 'image' | placeholder_svg_tag: 'placeholder-svg' }}
+                  </div>
                 {% endif %}
 
                 {% if button_link != blank %}
