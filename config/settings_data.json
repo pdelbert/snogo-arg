@@ -1593,6 +1593,68 @@
           "page_title_enable": false,
           "page_content_enable": false
         }
+      },
+      "page-warranty-template": {
+        "type": "page-warranty-template",
+        "blocks": {
+          "image_hero_Q9FPY9": {
+            "type": "image-hero",
+            "settings": {
+              "parallax": true,
+              "title": "SNO-GO GARANTIA",
+              "title_size": 80,
+              "subheading": "",
+              "link": "",
+              "link_text": "",
+              "link_2": "",
+              "link_text_2": "",
+              "color_accent": "rgba(0,0,0,0)",
+              "text_align": "vertical-center horizontal-center",
+              "image": "shopify://shop_images/BG_02_3024x_80afac60-8293-4efe-8275-c459fa970a2d.webp",
+              "focal_point": "center center",
+              "section_height": "650px",
+              "mobile_height": "auto"
+            }
+          },
+          "rich_text_6WKKCM": {
+            "type": "rich-text",
+            "settings": {
+              "title": "",
+              "text": "<p><strong>LIFETIME WARRANTY:</strong></p><p>SNO-GO bike frames for the lifetime of the original owner (subject to exclusions under circumstances listed below).</p><p><strong>ONE YEAR WARRANTY:</strong></p><p>-Suspension attachment points, suspension related equipment (including pivot points, bearings, shock units, front suspension forks, shock links, fasteners) for one (1) year from the date of the original purchase.</p><p>-Paint/finish, components attached to the SNO-GO/frameset such as chairlift hook, front suspension forks, Bindings, ski mounts, control arms, handlebar, rubber knobs, and quick release points or any suspension related parts or components are covered under this limited one (1) year warranty.</p><p>-Some branded equipment and co-branded suspension equipment may have additional warranty coverage offered by the specific manufacturer. Please check in your owner’s manual pack for information regarding these warranties.</p><p><strong>TERMS</strong></p><p>This warranty applies covers only SNO-GO branded products and ski bikes. Any other original component or part will be covered by the stated warranty of the original manufacturer. The Limited Warranty is conditioned upon the SNO-GO being operated under normal conditions and use, and properly maintained. SNO-GO recommends that you register your Bike with SNO-GO before a warranty claim may be processed. Even if registration is not required to take advantage of the SNO-GO Limited Warranty, SNO-GO encourages you to register your bike to allow SNO-GO to provide you better service in the future. To exercise the rights under this Limited Warranty, the Bike or frameset must be presented to an authorized SNO-GO dealer on the same continent on which the bike was purchased, together with a written proof of purchase which identifies the bike or frameset by serial number. Only authorized SNO-GO dealers are authorized to perform warranty service under this Limited Warranty. Should the bike, frameset, or any part be determined by SNO-GO to be covered by this Limited Warranty, it will be repaired or replaced, at SNO-GO’s sole option. If your bike or frameset is a Special Edition (limited edition bike or frameset), be aware that an exact warranty replacement may not be possible. The original owner shall pay all labor charges connected with the repair or replacement of all parts. Under no circumstances does this Limited Warranty include the cost of travel or shipment to and from an authorized SNO-GO dealer. Such costs, if any, shall be borne by the original owner. Every SNO-GO bike and frameset has a useful product life cycle. Nonstandard use, including without limitation, use in competitive events, jumping, aggressive riding, riding with heavy loads, can dramatically shorten the useful product life cycle of a SNO-GO bike or frameset. In addition, exposure of the product to humid, warm, ocean conditions and/or exposure to salinity (whether from salt water, sweat, salinity in the air) is likely to cause corrosion of the product and will shorten the product life cycle. You are advised to clean your product regularly to avoid such corrosion. SNO-GO BIKE COMPONENTS LIMITED WARRANTY POLICY FOR BIKES ALL SNO-GO BIKES AND FRAMESETS SHOULD BE PERIODICALLY CHECKED BY AN AUTHORIZED SNO-GO DEALER OR OWNER for indicators of stress, potential problems, inappropriate use, or abuse. This Limited Warranty is not transferable and does not apply to:</p><p>- Normal wear and tear. Wear and tear parts (as listed below) are subject to damage as a result of normal use, failure to service according to SNO-GO’S recommendations and/or riding or installation in conditions or applications other than recommended.</p><p>- Damage or failure due to accident, collision, crash, misuse, abuse, or neglect.</p><p>- Improper assembly or installation.</p><p>- Improper alteration or installation of components, parts or accessories not originally intended for or compatible with the SNO-GO Bike as sold.</p><p>- Failure to perform maintenance or service at appropriate intervals per manufacturer manual and instructions and supported by records of such maintenance.</p><p>- Non-genuine SNO-GO Bike products including without limitation counterfeit products.</p><p>- SNO-GO bikes not purchased new from <a href=\"http://www.sno-go.com/\">sno-go.com</a> or an authorized SNO-GO dealer.</p><p><span style=\"text-decoration:underline\">Wear and Tear Parts</span></p><p>- Paint, Powder Coating</p><p>- Bearings</p><p>- Striped fasteners</p><p>- Skis</p><p>- Belt</p><p>- Rubber Bushings</p><p>- Leash & Break-away Rings</p><p>- Stomp Pad Spikes</p><p>- Handle grips</p><p><strong>GENERAL TERMS</strong></p><p>THIS IS A FULL AND COMPLETE STATEMENT OF SNO-GO’S LIMITED WARRANTY. SNO-GO DOES NOT AUTHORIZE OR ALLOW ANYONE, INCLUDING ITS AUTHORIZED DEALERS, TO EXTEND ANY OTHER WARRANTIES, EXPRESS OR IMPLIED, FOR SNO-GO. NO OTHER REPRESENTATION, AND NO STATEMENT OF ANYONE BUT SNO-GO, INCLUDING A DEMONSTRATION OF ANY KIND BY ANYONE, SHALL CREATE ANY WARRANTY REGARDING THIS BIKE OR FRAMESET. ALL OF THE REMEDIES AVAILABLE TO THE ORIGINAL OWNER ARE STATED IN THIS DOCUMENT. IT IS AGREED THAT SNO-GO’S LIABILITY UNDER THIS LIMITED WARRANTY SHALL BE NO GREATER THAN THE AMOUNT OF THE ORIGINAL PURCHASE PRICE AND IN NO EVENT SHALL SNO-GO BE LIABLE FOR INCIDENTAL OR CONSEQUENTIAL DAMAGES. Some states do not allow limitation on how long an implied warranty lasts, so the above limitation may not apply to you. Some states do not allow the exclusion or limitation of incidental or consequential damages, so the above limitation or exclusion may not apply to you. This warranty gives you specific legal rights, and you may also have other rights which vary from state to state. If any provision is found unenforceable, only that provision shall be stricken and all others shall apply.</p><p>For questions concerning warranty issues, customers can call SNO-GO Customer Service at: <strong>info@snogo.us</strong></p>",
+              "align_text": "center",
+              "narrow_column": true,
+              "enlarge_text": false
+            }
+          },
+          "image_hero_tY6gGa": {
+            "type": "image-hero",
+            "settings": {
+              "parallax": true,
+              "title": "Quality. Access. COMMUNITY.",
+              "title_size": 80,
+              "subheading": "THE SNO-GO PROMISE",
+              "link": "",
+              "link_text": "learn more",
+              "link_2": "",
+              "link_text_2": "",
+              "color_accent": "rgba(0,0,0,0)",
+              "text_align": "vertical-center horizontal-center",
+              "image": "shopify://shop_images/BG_01_1944x_fb70b502-b19d-4445-8f99-4799591ade76.webp",
+              "focal_point": "center center",
+              "section_height": "650px",
+              "mobile_height": "auto"
+            }
+          }
+        },
+        "block_order": [
+          "image_hero_Q9FPY9",
+          "rich_text_6WKKCM",
+          "image_hero_tY6gGa"
+        ],
+        "settings": {
+          "page_title_enable": false,
+          "page_content_enable": false
+        }
       }
     },
     "content_for_index": [
