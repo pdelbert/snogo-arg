@@ -560,6 +560,14 @@
               "collapsed": false
             }
           },
+          "tags_group_kzLec9": {
+            "type": "tags_group",
+            "settings": {
+              "title": "Tag Group",
+              "tag_list": "First tag \nSecond tag \nThird tag",
+              "collapsed": false
+            }
+          },
           "subcollections_qCG8tm": {
             "type": "subcollections",
             "settings": {
@@ -571,6 +579,7 @@
         },
         "block_order": [
           "1524772580942",
+          "tags_group_kzLec9",
           "subcollections_qCG8tm"
         ],
         "settings": {
