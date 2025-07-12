@@ -553,12 +553,11 @@
       "collection-sidebar": {
         "type": "collection-sidebar",
         "blocks": {
-          "1524772785241": {
-            "type": "subcollections",
+          "1524772580942": {
+            "type": "tags_all",
             "settings": {
-              "enable_subsubcollections": true,
-              "enable_count": true,
-              "collapsed": true
+              "title": "G4 Parts",
+              "collapsed": false
             }
           },
           "subcollections_qCG8tm": {
@@ -566,21 +565,13 @@
             "settings": {
               "enable_subsubcollections": true,
               "enable_count": false,
-              "collapsed": false
-            }
-          },
-          "1524772580942": {
-            "type": "tags_all",
-            "settings": {
-              "title": "G4 Parts",
-              "collapsed": false
+              "collapsed": true
             }
           }
         },
         "block_order": [
-          "1524772785241",
-          "subcollections_qCG8tm",
-          "1524772580942"
+          "1524772580942",
+          "subcollections_qCG8tm"
         ],
         "settings": {
           "enable_sidebar": true,
