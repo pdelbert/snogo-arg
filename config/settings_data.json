@@ -1557,7 +1557,7 @@
               "enable_image_3": false,
               "image_width_3": 650,
               "svg_icon_3": "<svg aria-hidden=\"true\" focusable=\"false\" role=\"presentation\" class=\"icon-svg\" viewbox=\"0 0 100 100\"><defs><style>.a{fill:none;stroke:#000;stroke-width:2px}</style></defs><path class=\"a\" d=\"M16.01 54.13h20.02v35.22H16.01z\"></path><path class=\"a\" d=\"M36 82.72l3.84 2.63a11.53 11.53 0 0 0 6.54 2h13.91M36 58.78l2.07-1.93A10.23 10.23 0 0 0 40.26 54l7.66-15a7.4 7.4 0 0 0 .81-3.36v-8.3a2.93 2.93 0 0 1 2.92-2.94c2.41 0 5.78 1 7.92 6.18a18.63 18.63 0 0 1 1 10.5l-1.29 6.94h19A4.91 4.91 0 0 1 83.16 53a4.91 4.91 0 0 1-4.91 4.92H59.6M62.68 67.72H76a4.91 4.91 0 0 1 4.91 4.92A4.91 4.91 0 0 1 76 77.55H65.65\"></path><path class=\"a\" d=\"M65.65 77.55h6.12a4.92 4.92 0 0 1 4.92 4.92 4.93 4.93 0 0 1-4.92 4.92h-12.5M59.6 57.89h19.47A4.92 4.92 0 0 1 84 62.81a4.91 4.91 0 0 1-4.92 4.91h-16.4M53.19 20.06v-9.41M47.33 22.12l-6.05-7.22M44.15 27.46l-9.27-1.64M62.04 27.68l9.27-1.64M59 22.26l6.05-7.21\"></path></svg>",
-              "title_3": "Lista de verificación del equipo para bicicletas",
+              "title_3": "verificación del equipo",
               "text_3": "<p><a href=\"https://drive.google.com/file/d/1X0wC6wSegL6PsvJCMjd8Lou-J8VBUMCm/view?usp=drive_link\" target=\"_blank\" title=\"https://drive.google.com/file/d/1X0wC6wSegL6PsvJCMjd8Lou-J8VBUMCm/view?usp=drive_link\"><strong>Hacé Click  </strong></a> para Descargar la lista de verificación de inspección de mantenimiento diario de las bicicletas SNO-GO.</p>",
               "button_label_3": "",
               "button_link_3": ""
