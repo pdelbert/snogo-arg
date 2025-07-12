@@ -545,9 +545,9 @@
       "collection-header": {
         "type": "collection-header",
         "settings": {
-          "enable": true,
-          "collection_image_enable": true,
-          "parallax": true
+          "enable": false,
+          "collection_image_enable": false,
+          "parallax": false
         }
       },
       "collection-sidebar": {
@@ -583,19 +583,6 @@
       "collection-promotions": {
         "type": "collection-promotions",
         "blocks": {
-          "1526403837307": {
-            "type": "banner",
-            "settings": {
-              "promo_collection": "shop-all",
-              "heading": "Semi-annual winter sale",
-              "text": "For a limited time the entire store is on sale!",
-              "link": "shopify://collections/all",
-              "label": "Shop now",
-              "color_tint": "#e95454",
-              "color_tint_opacity": 10,
-              "framed": false
-            }
-          },
           "product_zetneC": {
             "type": "product",
             "settings": {
@@ -613,34 +600,10 @@
               "color_tint_opacity": 0,
               "framed": false
             }
-          },
-          "1526496043079": {
-            "type": "advanced",
-            "settings": {
-              "promo_collection": "",
-              "subheading": "Limited time",
-              "heading": "promotion",
-              "textarea": "Entire store on sale!",
-              "cta_text1": "Shop Eyewear",
-              "cta_link1": "shopify://collections/eyewear",
-              "cta_text2": "Shop All",
-              "cta_link2": "shopify://collections/all",
-              "video_url": "",
-              "width": "100",
-              "height": 500,
-              "text_size": 120,
-              "text_align": "vertical-center horizontal-center",
-              "focal_point": "center",
-              "color_accent": "rgba(0,0,0,0)",
-              "boxed": false,
-              "framed": true
-            }
           }
         },
         "block_order": [
-          "1526403837307",
-          "product_zetneC",
-          "1526496043079"
+          "product_zetneC"
         ],
         "settings": {
           "gutter_size": 20
