@@ -553,6 +553,30 @@
       "collection-sidebar": {
         "type": "collection-sidebar",
         "blocks": {
+          "menu_rQeifr": {
+            "type": "menu",
+            "settings": {
+              "title": "",
+              "menu": "main-menu",
+              "collapsed": false
+            }
+          },
+          "color_group_BtjEMA": {
+            "type": "color_group",
+            "settings": {
+              "title": "Color",
+              "tag_list": "Burgundy \nHeather grey \nGreen",
+              "collapsed": false
+            }
+          },
+          "subcollections_RJaXTg": {
+            "type": "subcollections",
+            "settings": {
+              "enable_subsubcollections": true,
+              "enable_count": false,
+              "collapsed": false
+            }
+          },
           "1524772580942": {
             "type": "tags_all",
             "settings": {
@@ -578,6 +602,9 @@
           }
         },
         "block_order": [
+          "menu_rQeifr",
+          "color_group_BtjEMA",
+          "subcollections_RJaXTg",
           "1524772580942",
           "tags_group_kzLec9",
           "subcollections_qCG8tm"
@@ -591,39 +618,6 @@
       },
       "collection-promotions": {
         "type": "collection-promotions",
-        "blocks": {
-          "product_zetneC": {
-            "type": "product",
-            "settings": {
-              "promo_collection": "shifted",
-              "product": "shifted",
-              "subheading": "Limited time",
-              "heading": "Announce your product",
-              "textarea": "Include the smaller details of your promotion in text below the title.",
-              "link_label": "Learn more",
-              "label": "New",
-              "enable_price": false,
-              "width": "100",
-              "text_size": 100,
-              "color_tint": "#000000",
-              "color_tint_opacity": 0,
-              "framed": false
-            }
-          },
-          "image_H84VDB": {
-            "type": "image",
-            "settings": {
-              "promo_collection": "",
-              "image": "shopify://shop_images/knob1.jpg",
-              "link": "",
-              "width": "100"
-            }
-          }
-        },
-        "block_order": [
-          "product_zetneC",
-          "image_H84VDB"
-        ],
         "settings": {
           "gutter_size": 20
         }
