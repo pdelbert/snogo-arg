@@ -561,11 +561,11 @@
               "collapsed": true
             }
           },
-          "menu_hQBmfz": {
-            "type": "menu",
+          "subcollections_qCG8tm": {
+            "type": "subcollections",
             "settings": {
-              "title": "",
-              "menu": "main-menu",
+              "enable_subsubcollections": true,
+              "enable_count": false,
               "collapsed": false
             }
           },
@@ -579,7 +579,7 @@
         },
         "block_order": [
           "1524772785241",
-          "menu_hQBmfz",
+          "subcollections_qCG8tm",
           "1524772580942"
         ],
         "settings": {
