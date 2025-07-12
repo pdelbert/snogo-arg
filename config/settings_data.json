@@ -609,10 +609,20 @@
               "color_tint_opacity": 0,
               "framed": false
             }
+          },
+          "image_H84VDB": {
+            "type": "image",
+            "settings": {
+              "promo_collection": "",
+              "image": "shopify://shop_images/knob1.jpg",
+              "link": "",
+              "width": "100"
+            }
           }
         },
         "block_order": [
-          "product_zetneC"
+          "product_zetneC",
+          "image_H84VDB"
         ],
         "settings": {
           "gutter_size": 20
