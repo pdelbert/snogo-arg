@@ -565,7 +565,7 @@
             "type": "tags_all",
             "settings": {
               "title": "Tags",
-              "collapsed": false
+              "collapsed": true
             }
           }
         },
@@ -577,7 +577,7 @@
           "enable_sidebar": true,
           "filter_style": "sidebar",
           "tags_combine": false,
-          "enable_sort": true
+          "enable_sort": false
         }
       },
       "collection-promotions": {
