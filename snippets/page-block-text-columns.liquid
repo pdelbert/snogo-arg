@@ -40,6 +40,11 @@
               {% if block.settings.button_link_1 != blank %}
                 <a href="{{ block.settings.button_link_1 }}">
               {% endif %}
+              
+                <div class="custom-icon">
+                  {{ block.settings.svg_icon_1 | raw }}
+                </div>
+              
               {% if block.settings.image_1 != blank %}
                 <div class="image-wrap text-spacing" style="height: 0; padding-bottom: {{ 100 | divided_by: block.settings.image_1.aspect_ratio }}%;">
                   {%- assign img_url = block.settings.image_1 | img_url: '1x1' | replace: '_1x1.', '_{width}x.' -%}
@@ -79,6 +84,10 @@
               {% if block.settings.button_link_2 != blank %}
                 <a href="{{ block.settings.button_link_2 }}">
               {% endif %}
+              <div class="custom-icon">
+                {{ block.settings.svg_icon_2 | raw }}
+              </div>
+            
               {% if block.settings.image_2 != blank %}
                 <div class="image-wrap text-spacing" style="height: 0; padding-bottom: {{ 100 | divided_by: block.settings.image_2.aspect_ratio }}%;">
                   {%- assign img_url = block.settings.image_2 | img_url: '1x1' | replace: '_1x1.', '_{width}x.' -%}
