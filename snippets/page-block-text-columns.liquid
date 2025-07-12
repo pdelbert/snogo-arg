@@ -35,9 +35,11 @@
     <div class="grid grid--flush-bottom">
       {% if column_1_enabled %}
         <div class="grid__item {{ grid_item_width }}" data-aos="row-of-3">
-          <div class="custom-icon">
-            {{ block.settings.svg_icon_1 | raw }}
-          </div>
+          {% if block.settings.svg_icon_1 %}
+            <div class="custom-icon">
+              {{ block.settings.svg_icon_1 | raw }}
+            </div>
+          {% endif %}
           {% if block.settings.enable_image_1 %}
             <div style="{% if block.settings.align_text == 'center' %}margin: 0 auto;{% endif %} max-width: {{ block.settings.image_width_1 }}px;">
               {% if block.settings.button_link_1 != blank %}
@@ -77,9 +79,11 @@
 
       {% if column_2_enabled %}
         <div class="grid__item {{ grid_item_width }}" data-aos="row-of-3">
-          <div class="custom-icon">
-            {{ block.settings.svg_icon_2 | raw }}
-          </div>
+          {% if block.settings.svg_icon_2 %}
+            <div class="custom-icon">
+              {{ block.settings.svg_icon_2 | raw }}
+            </div>
+          {% endif %}
           {% if block.settings.enable_image_2 %}
             <div style="{% if block.settings.align_text == 'center' %}margin: 0 auto;{% endif %} max-width: {{ block.settings.image_width_2 }}px;">
               {% if block.settings.button_link_2 != blank %}
@@ -119,6 +123,11 @@
 
       {% if column_3_enabled %}
         <div class="grid__item {{ grid_item_width }}" data-aos="row-of-3">
+          {% if block.settings.svg_icon_3 %}
+            <div class="custom-icon">
+              {{ block.settings.svg_icon_3 | raw }}
+            </div>
+          {% endif %}
           {% if block.settings.enable_image_3 %}
             <div style="{% if block.settings.align_text == 'center' %}margin: 0 auto;{% endif %} max-width: {{ block.settings.image_width_3 }}px;">
               {% if block.settings.button_link_3 != blank %}
