@@ -35,6 +35,11 @@
     <div class="grid grid--flush-bottom">
       {% if column_1_enabled %}
         <div class="grid__item {{ grid_item_width }}" data-aos="row-of-3">
+          {% if block.settings.svg_icon_1 %}
+            <div class="custom-icon">
+              {{ block.settings.svg_icon_1 | raw }}
+            </div>
+          {% endif %}
           {% if block.settings.enable_image_1 %}
             <div style="{% if block.settings.align_text == 'center' %}margin: 0 auto;{% endif %} max-width: {{ block.settings.image_width_1 }}px;">
               {% if block.settings.button_link_1 != blank %}
