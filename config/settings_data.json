@@ -1498,6 +1498,37 @@
           "page_title_enable": false,
           "page_content_enable": false
         }
+      },
+      "page-service-hub": {
+        "type": "page-service-hub",
+        "blocks": {
+          "image_hero_irVMWa": {
+            "type": "image-hero",
+            "settings": {
+              "parallax": true,
+              "title": "CENTRO DE SERVICIO SNO-GO",
+              "title_size": 40,
+              "subheading": "",
+              "link": "",
+              "link_text": "",
+              "link_2": "",
+              "link_text_2": "",
+              "color_accent": "rgba(0,0,0,0)",
+              "text_align": "vertical-center horizontal-center",
+              "image": "shopify://shop_images/BG_02_3024x_80afac60-8293-4efe-8275-c459fa970a2d.webp",
+              "focal_point": "center center",
+              "section_height": "100vh",
+              "mobile_height": "auto"
+            }
+          }
+        },
+        "block_order": [
+          "image_hero_irVMWa"
+        ],
+        "settings": {
+          "page_title_enable": false,
+          "page_content_enable": false
+        }
       }
     },
     "content_for_index": [
