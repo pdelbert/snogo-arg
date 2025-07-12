@@ -561,6 +561,14 @@
               "collapsed": true
             }
           },
+          "menu_hQBmfz": {
+            "type": "menu",
+            "settings": {
+              "title": "",
+              "menu": "main-menu",
+              "collapsed": false
+            }
+          },
           "1524772580942": {
             "type": "tags_all",
             "settings": {
@@ -571,6 +579,7 @@
         },
         "block_order": [
           "1524772785241",
+          "menu_hQBmfz",
           "1524772580942"
         ],
         "settings": {
