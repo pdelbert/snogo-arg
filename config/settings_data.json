@@ -602,7 +602,7 @@
               "textarea": "Include the smaller details of your promotion in text below the title.",
               "link_label": "Learn more",
               "label": "New",
-              "enable_price": true,
+              "enable_price": false,
               "width": "100",
               "text_size": 100,
               "color_tint": "#000000",
