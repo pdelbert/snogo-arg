@@ -557,8 +557,8 @@
             "type": "subcollections",
             "settings": {
               "enable_subsubcollections": true,
-              "enable_count": false,
-              "collapsed": false
+              "enable_count": true,
+              "collapsed": true
             }
           },
           "1524772580942": {
@@ -574,8 +574,8 @@
           "1524772580942"
         ],
         "settings": {
-          "enable_sidebar": false,
-          "filter_style": "drawer",
+          "enable_sidebar": true,
+          "filter_style": "sidebar",
           "tags_combine": false,
           "enable_sort": true
         }
