@@ -480,7 +480,15 @@
       "sorting": {
         "best_selling": "Más Vendidos",
         "az": "Alfabeticamente, A-Z",
-        "za": "Alfabeticamente, Z-A"
+        "za": "Alfabeticamente, Z-A",
+        "price_ascending": "Precio, de menor a mayor",
+        "price_descending": "Precio, de mayor a menor"
+      }
+    },
+    "search": {
+      "sorting": {
+        "price_ascending": "Precio, de menor a mayor",
+        "price_descending": "Precio, de mayor a menor"
       }
     }
   },
