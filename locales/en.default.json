@@ -478,7 +478,9 @@
     },
     "collections": {
       "sorting": {
-        "best_selling": "Más Vendidos"
+        "best_selling": "Más Vendidos",
+        "az": "Alfabeticamente, A-Z",
+        "za": "Alfabeticamente, Z-A"
       }
     }
   },
