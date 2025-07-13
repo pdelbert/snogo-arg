@@ -504,7 +504,8 @@
             "due": "Pago pendiente {{date}}",
             "due_without_date": "Pago pendiente"
           }
-        }
+        },
+        "sort_title": "Ordenar"
       }
     },
     "B2B": {
