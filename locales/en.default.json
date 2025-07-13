@@ -21,7 +21,7 @@
     },
     "404": {
       "title": "404 Page Not Found",
-      "subtext_html": "<p>Esta página no existe. </p><p><a href='{{ url }}'>Seguir comprando</a></p>"
+      "subtext_html": "<p>Esta página no existe. <\/p><p><a href='{{ url }}'>Seguir comprando<\/a><\/p>"
     },
     "pagination": {
       "previous": "Previous",
@@ -34,7 +34,7 @@
       "login_form_submit": "Enter",
       "signup_form_email_label": "Email",
       "signup_form_success": "We will send you an email right before we open!",
-      "admin_link_html": "Store owner? <a href=\"/admin\" class=\"text-link\">Log in here</a>",
+      "admin_link_html": "Store owner? <a href=\"\/admin\" class=\"text-link\">Log in here<\/a>",
       "password_link": "Enter using password",
       "powered_by_shopify_html": "This shop will be powered by {{ shopify }}"
     },
@@ -89,8 +89,8 @@
       "get_directions": "Get directions",
       "address_error": "Error looking up that address",
       "address_no_results": "No results for that address",
-      "address_query_limit_html": "You have exceeded the Google API usage limit. Consider upgrading to a <a href=\"https://developers.google.com/maps/premium/usage-limits\">Premium Plan</a>.",
-      "auth_error_html": "There was a problem authenticating your Google Maps account. Create and enable the <a href=\"https://developers.google.com/maps/documentation/javascript/get-api-key\">JavaScript API</a> and <a href=\"https://developers.google.com/maps/documentation/geocoding/get-api-key\">Geocoding API</a> permissions of your app."
+      "address_query_limit_html": "You have exceeded the Google API usage limit. Consider upgrading to a <a href=\"https:\/\/developers.google.com\/maps\/premium\/usage-limits\">Premium Plan<\/a>.",
+      "auth_error_html": "There was a problem authenticating your Google Maps account. Create and enable the <a href=\"https:\/\/developers.google.com\/maps\/documentation\/javascript\/get-api-key\">JavaScript API<\/a> and <a href=\"https:\/\/developers.google.com\/maps\/documentation\/geocoding\/get-api-key\">Geocoding API<\/a> permissions of your app."
     }
   },
   "blogs": {
@@ -126,12 +126,12 @@
       "update": "Impuestos, descuentos y códigos calculados en el momento de la compra.",
       "checkout": "Pagar",
       "empty": "Su carrito está vacío.",
-      "continue_browsing_html": "<a href='{{ url }}'>Seguir comprando</a>",
+      "continue_browsing_html": "<a href='{{ url }}'>Seguir comprando<\/a>",
       "close_cart": "Close cart",
       "reduce_quantity": "Disminuir la cantidad de un item en 1",
       "increase_quantity": "Aumentar la cantidad de un item en 1",
       "terms": "Estoy de acuerdo con los términos y condiciones",
-      "terms_html": "I agree with the <a href='{{ url }}' target='_blank'>terms and conditions</a>",
+      "terms_html": "I agree with the <a href='{{ url }}' target='_blank'>terms and conditions<\/a>",
       "terms_confirm": "You must agree with the terms and conditions of sales to check out"
     },
     "label": {
@@ -200,7 +200,7 @@
       "city": "City",
       "country": "Country",
       "province": "Province",
-      "zip": "Postal/Zip code",
+      "zip": "Postal\/Zip code",
       "phone": "Phone",
       "set_default": "Set as default address",
       "add": "Add address",
@@ -315,7 +315,7 @@
       "add_to_cart": "Agregar al carrito",
       "preorder": "Pre-order",
       "include_taxes": "Iva Incluido",
-      "shipping_policy_html": "<a href='{{ link }}'>Shipping</a> calculated at checkout.",
+      "shipping_policy_html": "<a href='{{ link }}'>Shipping<\/a> calculated at checkout.",
       "will_not_ship_until": "Will not ship until {{ date }}",
       "will_be_in_stock_after": "Will be in stock after {{ date }}",
       "waiting_for_stock": "Inventory on the way",
@@ -348,7 +348,7 @@
         "address1_label": "Dirección",
         "address2_label": "Departamento, casa, etc. (opcional)",
         "city_label": "Ciudad",
-        "country_label": "Pais/Region",
+        "country_label": "Pais\/Region",
         "province_label": "Provincia",
         "postal_code_label": "Codigo Postal",
         "optional_first_name_label": "Nombre",
