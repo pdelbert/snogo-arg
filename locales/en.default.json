@@ -98,7 +98,7 @@
       "view_all": "View all",
       "tags": "Tags",
       "read_more": "Continuar leyendo",
-      "back_to_blog": "Back to {{ title }}"
+      "back_to_blog": "Volver a {{ title }}"
     },
     "comments": {
       "title": "Leave a comment",
@@ -299,7 +299,7 @@
   "products": {
     "general": {
       "save_html": "Ahorra {{ saved_amount }}",
-      "collection_return": "Back to {{ collection }}",
+      "collection_return": "Volver a {{ collection }}",
       "next_product": "Next: {{ title }}",
       "sale": "Sale",
       "sale_price": "Precio de venta",
