@@ -482,7 +482,9 @@
         "az": "Alfabeticamente, A-Z",
         "za": "Alfabeticamente, Z-A",
         "price_ascending": "Precio, de menor a mayor",
-        "price_descending": "Precio, de mayor a menor"
+        "price_descending": "Precio, de mayor a menor",
+        "date_ascending": "Fecha, ascendente",
+        "date_descending": "Fecha, descendente"
       }
     },
     "search": {
