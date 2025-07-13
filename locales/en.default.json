@@ -475,6 +475,11 @@
       "shop_policies": {
         "privacy_policy": "Política de privacidad"
       }
+    },
+    "collections": {
+      "sorting": {
+        "best_selling": "Más Vendidos"
+      }
     }
   },
   "customer_accounts": {
