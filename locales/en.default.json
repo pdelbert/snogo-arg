@@ -21,7 +21,7 @@
     },
     "404": {
       "title": "404 Page Not Found",
-      "subtext_html": "<p>The page you were looking for does not exist. </p><p><a href='{{ url }}'>Continue shopping</a></p>"
+      "subtext_html": "<p>Esta página no existe. </p><p><a href='{{ url }}'>Seguir comprando</a></p>"
     },
     "pagination": {
       "previous": "Previous",
@@ -126,7 +126,7 @@
       "update": "Impuestos, descuentos y códigos calculados en el momento de la compra.",
       "checkout": "Pagar",
       "empty": "Su carrito está vacío.",
-      "continue_browsing_html": "<a href='{{ url }}'>Continue shopping</a>",
+      "continue_browsing_html": "<a href='{{ url }}'>Seguir comprando</a>",
       "close_cart": "Close cart",
       "reduce_quantity": "Disminuir la cantidad de un item en 1",
       "increase_quantity": "Aumentar la cantidad de un item en 1",
@@ -424,7 +424,8 @@
       "thank_you": {
         "billing_address_title": "Dirección de Facturación",
         "shipping_method_title": "Metodo de Entrega",
-        "contact_information_title": "Contacto"
+        "contact_information_title": "Contacto",
+        "return_to_store_link_label": "Seguir comprando"
       },
       "notice_banner": {
         "individual_violations_title": {
