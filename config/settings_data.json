@@ -1595,7 +1595,7 @@
             "settings": {
               "parallax": true,
               "title": "convertite en distribuidor",
-              "title_size": 80,
+              "title_size": 100,
               "subheading": "",
               "link": "",
               "link_text": "",
@@ -1603,9 +1603,9 @@
               "link_text_2": "",
               "color_accent": "rgba(0,0,0,0)",
               "text_align": "vertical-center horizontal-center",
-              "image": "shopify://shop_images/BG_01_1944x_fb70b502-b19d-4445-8f99-4799591ade76.webp",
+              "image": "shopify://shop_images/5C4A3498_2400x_2fbdd945-c2f1-4a83-9c45-7d6b9d52d10e.webp",
               "focal_point": "center center",
-              "section_height": "650px",
+              "section_height": "450px",
               "mobile_height": "auto"
             }
           },
