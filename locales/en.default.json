@@ -493,6 +493,9 @@
         "price_ascending": "Precio, de menor a mayor",
         "price_descending": "Precio, de mayor a menor"
       }
+    },
+    "errors": {
+      "invalid": "invalido"
     }
   },
   "customer_accounts": {
