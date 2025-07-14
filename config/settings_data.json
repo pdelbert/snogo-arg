@@ -122,7 +122,7 @@
           "logo_VfjKcC": {
             "type": "logo",
             "settings": {
-              "logo": "shopify://shop_images/SNO-GO_full_logo_white.png",
+              "logo": "shopify://shop_images/SNO-_GO_ARGENTINA.png",
               "desktop_logo_width": 200,
               "mobile_logo_width": 140
             }
@@ -180,7 +180,7 @@
           "1494301487048": {
             "type": "logo_social",
             "settings": {
-              "logo": "shopify://shop_images/SNO-GO_full_logo_white.png",
+              "logo": "shopify://shop_images/SNO-_GO_ARGENTINA.png",
               "desktop_logo_height": 50,
               "container_width": 25
             }
