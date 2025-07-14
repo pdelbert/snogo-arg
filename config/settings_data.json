@@ -1617,6 +1617,48 @@
           "page_title_enable": false,
           "page_content_enable": false
         }
+      },
+      "promo_grid_ibVhWP": {
+        "type": "promo-grid",
+        "blocks": {
+          "simple_p4XGy9": {
+            "type": "simple",
+            "settings": {
+              "link": "",
+              "text": "",
+              "image": "shopify://shop_images/5C4A3292_2400x_99d7f313-33e9-4c27-850c-cee9071d8e7a.webp",
+              "width": "50",
+              "height": 300,
+              "color_tint": "#000",
+              "color_tint_opacity": 8,
+              "framed": false
+            }
+          },
+          "simple_BfrdeA": {
+            "type": "simple",
+            "settings": {
+              "link": "",
+              "text": "",
+              "image": "shopify://shop_images/Nicholi_Hero_Background_2ee797ce-f1f2-469d-a440-91f52d3d5ec7_2160x_jpg.jpg",
+              "width": "50",
+              "height": 300,
+              "color_tint": "#000",
+              "color_tint_opacity": 8,
+              "framed": false
+            }
+          }
+        },
+        "block_order": [
+          "simple_p4XGy9",
+          "simple_BfrdeA"
+        ],
+        "name": "Promotional grid",
+        "settings": {
+          "full_width": false,
+          "gutter_size": 20,
+          "space_above": false,
+          "space_below": false
+        }
       }
     },
     "content_for_index": [
@@ -1624,6 +1666,7 @@
       "slideshow_JUbDnw",
       "logo_list_tDXAKd",
       "featured_collection_9jqqUU",
+      "promo_grid_ibVhWP",
       "text_columns_PDdVFg",
       "background_image_text_eAhabD",
       "text_and_image_phDLCa",
