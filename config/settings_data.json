@@ -1631,7 +1631,7 @@
               "height": 660,
               "color_tint": "#000",
               "color_tint_opacity": 8,
-              "framed": false
+              "framed": true
             }
           },
           "simple_BfrdeA": {
@@ -1643,8 +1643,8 @@
               "width": "50",
               "height": 300,
               "color_tint": "#000",
-              "color_tint_opacity": 8,
-              "framed": false
+              "color_tint_opacity": 0,
+              "framed": true
             }
           }
         },
