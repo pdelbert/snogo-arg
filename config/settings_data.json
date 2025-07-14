@@ -1618,46 +1618,58 @@
           "page_content_enable": false
         }
       },
-      "promo_grid_ibVhWP": {
-        "type": "promo-grid",
+      "slideshow_3k3VWK": {
+        "type": "slideshow",
         "blocks": {
-          "simple_p4XGy9": {
-            "type": "simple",
+          "image_dbThEg": {
+            "type": "image",
             "settings": {
+              "top_subheading": "",
+              "title": "Endless\npossibilities.",
+              "title_size": 80,
+              "subheading": "Bring your brand to life",
               "link": "",
-              "text": "",
-              "image": "shopify://shop_images/5C4A3292_2400x_99d7f313-33e9-4c27-850c-cee9071d8e7a.webp",
-              "width": "50",
-              "height": 660,
-              "color_tint": "#000",
-              "color_tint_opacity": 8,
-              "framed": true
+              "link_text": "Optional button",
+              "link_2": "",
+              "link_text_2": "",
+              "color_accent": "rgba(0,0,0,0)",
+              "text_align": "vertical-center horizontal-center",
+              "image": "shopify://shop_images/spencerkofoed-Sno-go-fest-5.jpg",
+              "mobile_image": "shopify://shop_images/spencerkofoed-Sno-go-fest-5.jpg",
+              "focal_point": "center center"
             }
           },
-          "simple_BfrdeA": {
-            "type": "simple",
+          "image_mHYQwC": {
+            "type": "image",
             "settings": {
+              "top_subheading": "",
+              "title": "Two line\ntitle slide.",
+              "title_size": 80,
+              "subheading": "And big, beautiful imagery",
               "link": "",
-              "text": "",
-              "image": "shopify://shop_images/Nicholi_Hero_Background_2ee797ce-f1f2-469d-a440-91f52d3d5ec7_2160x_jpg.jpg",
-              "width": "50",
-              "height": 300,
-              "color_tint": "#000",
-              "color_tint_opacity": 0,
-              "framed": true
+              "link_text": "Optional button",
+              "link_2": "",
+              "link_text_2": "",
+              "color_accent": "rgba(0,0,0,0)",
+              "text_align": "vertical-center horizontal-center",
+              "image": "shopify://shop_images/4T0A6492.jpg",
+              "mobile_image": "shopify://shop_images/4T0A6492.jpg",
+              "focal_point": "center center"
             }
           }
         },
         "block_order": [
-          "simple_p4XGy9",
-          "simple_BfrdeA"
+          "image_dbThEg",
+          "image_mHYQwC"
         ],
-        "name": "Promotional grid",
+        "name": "Slideshow",
         "settings": {
-          "full_width": false,
-          "gutter_size": 20,
-          "space_above": false,
-          "space_below": false
+          "section_height": "650px",
+          "mobile_height": "auto",
+          "parallax": true,
+          "style": "minimal",
+          "autoplay": true,
+          "autoplay_speed": 5
         }
       }
     },
@@ -1666,7 +1678,7 @@
       "slideshow_JUbDnw",
       "logo_list_tDXAKd",
       "featured_collection_9jqqUU",
-      "promo_grid_ibVhWP",
+      "slideshow_3k3VWK",
       "text_columns_PDdVFg",
       "background_image_text_eAhabD",
       "text_and_image_phDLCa",
