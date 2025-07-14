@@ -1586,6 +1586,46 @@
           "page_title_enable": false,
           "page_content_enable": false
         }
+      },
+      "page-dealers-template": {
+        "type": "page-dealers-template",
+        "blocks": {
+          "image_hero_H3KLpE": {
+            "type": "image-hero",
+            "settings": {
+              "parallax": true,
+              "title": "convertite en distribuidor",
+              "title_size": 80,
+              "subheading": "",
+              "link": "",
+              "link_text": "",
+              "link_2": "",
+              "link_text_2": "",
+              "color_accent": "rgba(0,0,0,0)",
+              "text_align": "vertical-center horizontal-center",
+              "image": "shopify://shop_images/BG_01_1944x_fb70b502-b19d-4445-8f99-4799591ade76.webp",
+              "focal_point": "center center",
+              "section_height": "650px",
+              "mobile_height": "auto"
+            }
+          },
+          "contact_form_Cherbn": {
+            "type": "contact-form",
+            "settings": {
+              "title": "",
+              "show_phone": true,
+              "narrow_column": true
+            }
+          }
+        },
+        "block_order": [
+          "image_hero_H3KLpE",
+          "contact_form_Cherbn"
+        ],
+        "settings": {
+          "page_title_enable": false,
+          "page_content_enable": false
+        }
       }
     },
     "content_for_index": [
