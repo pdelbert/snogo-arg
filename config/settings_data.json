@@ -130,24 +130,16 @@
           "announcement_W76tE8": {
             "type": "announcement",
             "settings": {
-              "text": "free shipping on bike orders //",
-              "link_text": "ARGENTINA",
-              "link": "shopify://collections"
-            }
-          },
-          "1524770292306": {
-            "type": "announcement",
-            "settings": {
-              "text": "the best way into snow sports just got betters",
-              "link_text": "Save $500",
-              "link": "shopify://collections"
+              "text": "Envios a todo el pais",
+              "link_text": "",
+              "link": "shopify://collections/shifted"
             }
           },
           "1524770296206": {
             "type": "announcement",
             "settings": {
-              "text": "shifted bikes now at scheels",
-              "link_text": "Find \"Scheels sotre here\".",
+              "text": "10% off con transferencia",
+              "link_text": "",
               "link": "shopify://collections"
             }
           }
@@ -155,7 +147,6 @@
         "block_order": [
           "logo_VfjKcC",
           "announcement_W76tE8",
-          "1524770292306",
           "1524770296206"
         ],
         "settings": {
