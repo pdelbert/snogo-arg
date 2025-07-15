@@ -441,7 +441,8 @@
             "billing_address": "Dirección de Facturación"
           },
           "missing": {
-            "address1": "Ingresa Dirección"
+            "address1": "Ingresa Dirección",
+            "city": "Ingresa Ciudad"
           }
         }
       },
@@ -491,7 +492,8 @@
       },
       "field_errors": {
         "email_or_phone_blank": "Ingresa email ó número de telefono",
-        "address_address1_blank": "Ingresa Dirección"
+        "address_address1_blank": "Ingresa Dirección",
+        "address_city_blank": "Ingresa Ciudad"
       }
     },
     "collections": {
