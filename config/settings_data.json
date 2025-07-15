@@ -1351,6 +1351,7 @@
           },
           "background_image_text_EBD4ir": {
             "type": "background-image-text",
+            "disabled": true,
             "settings": {
               "subtitle": "",
               "title": "CENTROS DE esquí",
