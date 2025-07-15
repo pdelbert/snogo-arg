@@ -444,7 +444,8 @@
           "missing": {
             "address1": "Ingresa Dirección",
             "city": "Ingresa Ciudad",
-            "zip": "Código Postal"
+            "zip": "Código Postal",
+            "last_name": "Ingresa Apellido"
           }
         }
       },
@@ -496,7 +497,8 @@
         "email_or_phone_blank": "Ingresa email ó número de telefono",
         "address_address1_blank": "Ingresa Dirección",
         "address_city_blank": "Ingresa Ciudad",
-        "address_zip_blank": "Código Postal"
+        "address_zip_blank": "Código Postal",
+        "address_last_name_blank": "Ingresa Apellido"
       }
     },
     "collections": {
