@@ -485,6 +485,9 @@
             "link": " "
           }
         }
+      },
+      "field_errors": {
+        "email_or_phone_blank": "Ingresa email ó número de telefono"
       }
     },
     "collections": {
