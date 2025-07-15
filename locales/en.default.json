@@ -289,7 +289,7 @@
     "customer": {
       "account": "Account",
       "log_out": "Log out",
-      "log_in": "Log in",
+      "log_in": "",
       "create_account": "Create account"
     },
     "footer": {
