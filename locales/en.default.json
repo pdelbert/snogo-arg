@@ -462,11 +462,11 @@
       "marketing": {
         "accept_marketing_checkbox_label": "Quiero recibir novedades por mail",
         "disclaimer": {
-          "privacy_policy": "Política de privacidad"
+          "privacy_policy": " "
         },
         "sms": {
           "disclaimer": {
-            "privacy_policy": "Política de privacidad"
+            "privacy_policy": " "
           }
         }
       },
@@ -477,7 +477,7 @@
         "empty_state": "Ingrese su dirección de envío para visualizar los métodos de envío disponibles."
       },
       "shop_policies": {
-        "privacy_policy": "Política de privacidad"
+        "privacy_policy": " "
       },
       "payment_gateway": {
         "login_prompt": {
@@ -550,7 +550,7 @@
       }
     },
     "shop_policies": {
-      "privacy_policy": "Política de privacidad"
+      "privacy_policy": " "
     }
   }
 }
