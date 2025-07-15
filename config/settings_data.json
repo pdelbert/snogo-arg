@@ -1621,24 +1621,6 @@
       "slideshow_3k3VWK": {
         "type": "slideshow",
         "blocks": {
-          "image_dbThEg": {
-            "type": "image",
-            "settings": {
-              "top_subheading": "",
-              "title": "10% off  con pago \nen tranferencia",
-              "title_size": 80,
-              "subheading": "",
-              "link": "",
-              "link_text": "",
-              "link_2": "",
-              "link_text_2": "",
-              "color_accent": "rgba(0,0,0,0)",
-              "text_align": "vertical-center horizontal-center",
-              "image": "shopify://shop_images/SNOGO-Ski-bike-Backpack-Bag-Carry-Tote-64.jpg",
-              "mobile_image": "shopify://shop_images/SNOGO-Ski-bike-Backpack-Bag-Carry-Tote-66.jpg",
-              "focal_point": "center center"
-            }
-          },
           "image_mHYQwC": {
             "type": "image",
             "settings": {
@@ -1656,11 +1638,29 @@
               "mobile_image": "shopify://shop_images/SNOGO-Ski-bike-Backpack-Bag-Carry-Tote-83.jpg",
               "focal_point": "center center"
             }
+          },
+          "image_dbThEg": {
+            "type": "image",
+            "settings": {
+              "top_subheading": "",
+              "title": "10% off  con pago \nen tranferencia",
+              "title_size": 80,
+              "subheading": "",
+              "link": "",
+              "link_text": "",
+              "link_2": "",
+              "link_text_2": "",
+              "color_accent": "rgba(0,0,0,0)",
+              "text_align": "vertical-center horizontal-center",
+              "image": "shopify://shop_images/SNOGO-Ski-bike-Backpack-Bag-Carry-Tote-64.jpg",
+              "mobile_image": "shopify://shop_images/SNOGO-Ski-bike-Backpack-Bag-Carry-Tote-66.jpg",
+              "focal_point": "center center"
+            }
           }
         },
         "block_order": [
-          "image_dbThEg",
-          "image_mHYQwC"
+          "image_mHYQwC",
+          "image_dbThEg"
         ],
         "name": "Slideshow",
         "settings": {
