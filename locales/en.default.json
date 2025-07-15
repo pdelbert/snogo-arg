@@ -364,7 +364,8 @@
         "estimated_taxes_finalization_tooltip_content": "El impuesto final y total sera confirmado via email, luego de realizar la orden de compra.",
         "payment_due_label": "Pago pendiente",
         "enter_shipping_address": "Ingrese dirección de envío",
-        "vat_label_html": "Incluye {{amount}} de IVA"
+        "vat_label_html": "Incluye {{amount}} de IVA",
+        "title": "Pedido"
       },
       "general": {
         "choose_billing_address": "Dirección de Entrega",
@@ -530,7 +531,8 @@
       "login_card": {
         "log_in": " "
       },
-      "log_in": " "
+      "log_in": " ",
+      "summary_title": "Pedido"
     },
     "orders": {
       "buy_again": "Comprar nuevamente",
