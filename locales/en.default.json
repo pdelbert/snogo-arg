@@ -439,6 +439,9 @@
         "errors": {
           "invalid": {
             "billing_address": "Dirección de Facturación"
+          },
+          "missing": {
+            "address1": "Ingresa Dirección"
           }
         }
       },
@@ -487,7 +490,8 @@
         }
       },
       "field_errors": {
-        "email_or_phone_blank": "Ingresa email ó número de telefono"
+        "email_or_phone_blank": "Ingresa email ó número de telefono",
+        "address_address1_blank": "Ingresa Dirección"
       }
     },
     "collections": {
