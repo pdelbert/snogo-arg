@@ -419,7 +419,8 @@
         "offsite_gateway_review_page_redirect_hint": "Luego de hacer click en “{{ button_label }}”, será redireccionado a {{ gateway_label }} para completar su compra de manera segura.",
         "same_billing_address_label": "Usar dirección de entrega",
         "billing_address_title": "Dirección de entrega",
-        "credit_card_vaulting_sign_in_banner_button_label": " "
+        "credit_card_vaulting_sign_in_banner_button_label": " ",
+        "payment_method": "Metodo de pago"
       },
       "payment_summary": {
         "billing_address_title": "Dirección de Facturación"
@@ -447,7 +448,8 @@
         },
         "missing_shipping_address_banner": {
           "title": "La orden no pose dirección de envio"
-        }
+        },
+        "payment_method_title": "Metodo de pago"
       },
       "notice_banner": {
         "individual_violations_title": {
@@ -479,7 +481,9 @@
       "review": {
         "blocks": {
           "shipping_method_title": "Metodo de Entrega",
-          "contact_method_title": "Contacto"
+          "contact_method_title": "Contacto",
+          "payment_method_title": "Método de pago",
+          "change_payment_method_link_label": "Cambiar método de pago"
         }
       },
       "customer_account": {
@@ -529,6 +533,10 @@
       },
       "billing": {
         "same_as_shipping": "Misma de dirección de envio"
+      },
+      "customer_payment_methods": {
+        "page_title": "Métodos de pago",
+        "title": "Metodos de pago"
       }
     },
     "collections": {
@@ -617,6 +625,13 @@
     "addresses": {
       "edit_modal_title": {
         "shipping": "Editar dirección de envio"
+      }
+    },
+    "payment_methods": {
+      "title": "Métodos de pago",
+      "add_payment_method": {
+        "title": "Agregar método de pago",
+        "payment_method_added_confirmation": "Método de pago agregado"
       }
     }
   }
