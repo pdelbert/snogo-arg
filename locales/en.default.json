@@ -236,7 +236,7 @@
       "cancelled_reason": "Reason: {{ reason }}",
       "billing_address": "Billing address",
       "payment_status": "Payment status",
-      "shipping_address": "Shipping address",
+      "shipping_address": "Dirección de envio",
       "fulfillment_status": "Fulfillment status",
       "discount": "Discount",
       "shipping": "Shipping",
@@ -440,11 +440,19 @@
         "thank_you_payments_app_pending_payment_description_default_with_email_and_phone_pick_up": "Recibiras un email de confirmación con tu número de orden en breve.",
         "thank_you_payments_app_pending_payment_description_default_with_email": "Recibiras un email de confirmación con tu número de orden en breve.",
         "thank_you_payments_app_pending_payment_description_default_with_email_payment": "Recibiras un email de confirmación con tu número de orden en breve.",
-        "thank_you_payments_app_pending_payment_description_default_with_email_pick_up": "Recibiras un email de confirmación con tu número de orden en breve."
+        "thank_you_payments_app_pending_payment_description_default_with_email_pick_up": "Recibiras un email de confirmación con tu número de orden en breve.",
+        "shipping_address_title": "Dirección de envio",
+        "marker": {
+          "shipping": "Dirección de envio"
+        },
+        "missing_shipping_address_banner": {
+          "title": "La orden no pose dirección de envio"
+        }
       },
       "notice_banner": {
         "individual_violations_title": {
-          "PaymentViolations": "Dirección de facturación"
+          "PaymentViolations": "Dirección de facturación",
+          "DeliveryViolations": "Dirección de envio"
         }
       },
       "wallets": {
@@ -465,7 +473,8 @@
         "delivery_title": "Entrega",
         "duties_and_taxes_options": {
           "ddp_title": "Pagar"
-        }
+        },
+        "missing_shipping_address": "Falta Dirección de envio"
       },
       "review": {
         "blocks": {
@@ -514,6 +523,12 @@
       "post_purchase": {
         "escape_confirmation": "Haz pago de manera exitosa",
         "escape_action": "Ver confirmación de la orden de pago."
+      },
+      "delivery_options": {
+        "shipping_address": "Dirección de envio"
+      },
+      "billing": {
+        "same_as_shipping": "Misma de dirección de envio"
       }
     },
     "collections": {
@@ -542,7 +557,9 @@
     "order_details": {
       "billing_address": "Dirección de Facturación",
       "shipping": {
-        "method": "Metodo de Entrega"
+        "method": "Metodo de Entrega",
+        "address": "Dirección de envio",
+        "address_map_marker": "Dirección de envio"
       },
       "marketing_checkbox_label": "Quiero recibir novedades por mail",
       "contact": "Contacto",
@@ -580,6 +597,12 @@
       },
       "orders": {
         "order_list_column_headers_contact": "Contacto"
+      },
+      "addresses": {
+        "add_shipping_address_button": "Agregar dirección de envio",
+        "add_shipping_address_section_accessibility_label": "Agregar dirección de envio",
+        "save_new_shipping_address_accessibility_label": "Guardar dirección de envio",
+        "shipping_address_card_title": "Dirección de envio"
       }
     },
     "shop_policies": {
@@ -589,6 +612,11 @@
       "delete_confirmation": {
         "cancel": "Cancelar",
         "delete": "Eliminar"
+      }
+    },
+    "addresses": {
+      "edit_modal_title": {
+        "shipping": "Editar dirección de envio"
       }
     }
   }
