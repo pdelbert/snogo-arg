@@ -12262,9 +12262,16 @@ h1.hero__title .animation-contents {
 
 .footer__custom {
   .footer__custom-item {
+    display: flex;
+    flex-direction: column;
     span { font-weight: bold }
     .whatsapp-float {
         display: flex;
+        justify-content: center;
+        .pill-container {
+          border: 1px solid;
+          border-radius: 4em;
+        }
     }
   }
 }
