@@ -366,7 +366,10 @@
         "enter_shipping_address": "Ingrese dirección de envío",
         "vat_label_html": "Incluye {{amount}} de IVA",
         "title": "Pedido",
-        "confirmation_number_label": "Confirmación #{{ confirmation_number }}"
+        "confirmation_number_label": "Confirmación #{{ confirmation_number }}",
+        "free_shipping_discount_label": "Envio gratuito",
+        "shipping_label": "Envio",
+        "multiple_shipping_lines_label": "Total del envio"
       },
       "general": {
         "choose_billing_address": "Dirección de Entrega",
@@ -476,7 +479,8 @@
         "duties_and_taxes_options": {
           "ddp_title": "Pagar"
         },
-        "missing_shipping_address": "Falta Dirección de envio"
+        "missing_shipping_address": "Falta Dirección de envio",
+        "title": "Envio"
       },
       "review": {
         "blocks": {
