@@ -452,7 +452,10 @@
         "missing_shipping_address_banner": {
           "title": "La orden no pose dirección de envio"
         },
-        "payment_method_title": "Metodo de pago"
+        "payment_method_title": "Metodo de pago",
+        "title": "Gracias por tu compra!",
+        "page_title": "Gracias, {{ display_name }}!",
+        "page_title_no_name": "Gracias!"
       },
       "notice_banner": {
         "individual_violations_title": {
