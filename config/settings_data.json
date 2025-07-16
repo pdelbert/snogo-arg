@@ -546,6 +546,7 @@
         "blocks": {
           "1524772580942": {
             "type": "tags_all",
+            "disabled": true,
             "settings": {
               "title": "MAS FILTros",
               "collapsed": false
