@@ -64,7 +64,6 @@
           </div>
         {% endif %}
       {% endfor %}
-      {% include 'footer-custom', block: block %}
     </div>
 
     {%- if show_selectors -%}
@@ -99,8 +98,8 @@
       </p>
     {% endif %}
     <p class="footer__small-text">{{ powered_by_link }}</p>
-
   </div>
+  {% include 'footer-custom', block: block %}
 </footer>
 
 {% schema %}
