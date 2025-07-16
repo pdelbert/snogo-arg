@@ -431,7 +431,8 @@
         "return_to_store_link_label": "Seguir comprando",
         "login_title": " ",
         "login": " ",
-        "confirmation_email_sent_text": "Un mail de confirmación ha sido enviado {{ email }}"
+        "confirmation_email_sent_text": "Un mail de confirmación ha sido enviado {{ email }}",
+        "thank_you_title": "Tu orden de compra ha sido confirmada"
       },
       "notice_banner": {
         "individual_violations_title": {
@@ -558,6 +559,9 @@
           }
         },
         "sort_title": "Ordenar"
+      },
+      "order_status": {
+        "confirmed_title": "Tu orden de compra ha sido confirmada"
       }
     },
     "B2B": {
