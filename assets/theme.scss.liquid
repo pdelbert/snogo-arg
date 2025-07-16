@@ -4027,8 +4027,13 @@ $color-blankstate-background: #e1e1e1;
   }
 }
 
-.footer__small-text {
+
+.footer__small-text:nth-child(2) {
   display:none;
+}
+
+.footer__small-text {
+  
   @include baseExtraSmallFontStack;
   padding: ($gutter / 4) 0;
   margin: 0;
@@ -12259,7 +12264,7 @@ h1.hero__title .animation-contents {
 }
 
 #shopify-section-footer > footer > div > p:nth-child(2) { margin-top: 70px; font-size: 16px; }
-#shopify-section-footer > footer > div > p:nth-child(3) { display: none; }
+///#shopify-section-footer > footer > div > p:nth-child(3) { display: none; }
 
 .footer__custom {
   margin-top: 20px;
