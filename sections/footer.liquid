@@ -88,6 +88,8 @@
         </ul>
       {% endunless %}
     {% endif %}
+    
+    {% include 'footer-custom', block: block %}
 
     {% if section.settings.show_copyright %}
       <p class="footer__small-text">
@@ -97,9 +99,6 @@
         {% endif %}
       </p>
     {% endif %}
-    
-    {% include 'footer-custom', block: block %}
-
     <p class="footer__small-text">{{ powered_by_link }}</p>
 
   </div>
