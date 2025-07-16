@@ -48,6 +48,7 @@
           {% case block.type %}
           {% when 'logo_social' %}
             {% include 'footer-logo', block: block %}
+            {% include 'footer-custom', block: block %}
           {% when 'custom' %}
             {% include 'footer-custom-text', block: block %}
           {% when 'newsletter' %}
