@@ -365,7 +365,8 @@
         "payment_due_label": "Pago pendiente",
         "enter_shipping_address": "Ingrese dirección de envío",
         "vat_label_html": "Incluye {{amount}} de IVA",
-        "title": "Pedido"
+        "title": "Pedido",
+        "confirmation_number_label": "Confirmación #{{ confirmation_number }}"
       },
       "general": {
         "choose_billing_address": "Dirección de Entrega",
@@ -429,7 +430,8 @@
         "contact_information_title": "Contacto",
         "return_to_store_link_label": "Seguir comprando",
         "login_title": " ",
-        "login": " "
+        "login": " ",
+        "confirmation_email_sent_text": "Un mail de confirmación ha sido enviado {{ email }}"
       },
       "notice_banner": {
         "individual_violations_title": {
@@ -499,6 +501,10 @@
         "address_city_blank": "Ingresa Ciudad",
         "address_zip_blank": "Código Postal",
         "address_last_name_blank": "Ingresa Apellido"
+      },
+      "post_purchase": {
+        "escape_confirmation": "Haz pago de manera exitosa",
+        "escape_action": "Ver confirmación de la orden de pago."
       }
     },
     "collections": {
@@ -566,6 +572,12 @@
     },
     "shop_policies": {
       "privacy_policy": " "
+    },
+    "navigation_and_structure": {
+      "delete_confirmation": {
+        "cancel": "Cancelar",
+        "delete": "Eliminar"
+      }
     }
   }
 }
