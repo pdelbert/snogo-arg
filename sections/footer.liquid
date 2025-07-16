@@ -97,9 +97,12 @@
         {% endif %}
       </p>
     {% endif %}
+    
+    {% include 'footer-custom', block: block %}
+
     <p class="footer__small-text">{{ powered_by_link }}</p>
+
   </div>
-  {% include 'footer-custom', block: block %}
 </footer>
 
 {% schema %}
