@@ -1706,7 +1706,14 @@
       "background_image_text_nqLFfQ",
       "background_image_text_4TgEne",
       "map_p6hmyc"
-    ]
+    ],
+    "blocks": {
+      "14710812113501315912": {
+        "type": "shopify://apps/kor-order-limit-quantity/blocks/app-embed/143c1e59-4c01-4de6-ad3e-90b86ada592d",
+        "disabled": false,
+        "settings": {}
+      }
+    }
   },
   "presets": {
     "Modern": {
