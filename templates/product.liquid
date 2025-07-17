@@ -26,47 +26,61 @@
   const PRODUCT_Y_VARIANT_ID = 42564514643991; 
   // Replace with your Product Y variant ID
 
-  document.addEventListener("DOMContentLoaded", function () {
-    const form = document.querySelector('form[action^="/cart/add"]');
-    if (!form) return;
+  (function() {
+    const VARIANT_X = 1234567890; // Your Product X variant ID
 
-    form.addEventListener("submit", function (event) {
-      const formData = new FormData(form);
-      const selectedVariantId = Number(formData.get("id"));
+    const PRODUCT_X_VARIANT_ID_1 = 42522982776855;
+    const PRODUCT_X_VARIANT_ID_2 = 42522982842391;
+    const PRODUCT_X_VARIANT_ID_3 = 42523003322391;
+    const PRODUCT_Y_VARIANT_ID = 42564514643991; 
 
-      // Check if the user is adding Product X
-      if (
-        selectedVariantId === PRODUCT_X_VARIANT_ID_1 ||
-        selectedVariantId === PRODUCT_X_VARIANT_ID_2 ||
-        selectedVariantId === PRODUCT_X_VARIANT_ID_3
-      ) {
-        event.preventDefault();
+    const VARIANT_Y = 9876543210; // Your free Product Y variant ID
+    const QUANTITY_Y = 1;
 
-        // Add Product X
-        fetch('/cart/add.js', {
-          method: 'POST',
-          body: formData,
-        })
-          .then(res => res.json())
-          .then(() => {
-            // Then add Product Y
-            return fetch('/cart/add.js', {
+    function initAutoAdd() {
+      const forms = document.querySelectorAll('form[action^="/cart/add"]');
+      forms.forEach(form => {
+        form.addEventListener('submit', async (e) => {
+          const formData = new FormData(form);
+          const variantId = Number(formData.get('id'));
+          if (
+            variantId !== PRODUCT_X_VARIANT_ID_1 ||
+            variantId !== PRODUCT_X_VARIANT_ID_2 ||
+            variantId !== PRODUCT_X_VARIANT_ID_3
+          ) return; // Only trigger for X
+
+          e.preventDefault();
+
+          try {
+            // Add Product X
+            await fetch('/cart/add.js', {
+              method: 'POST',
+              body: formData,
+            });
+
+            // Add Product Y
+            await fetch('/cart/add.js', {
               method: 'POST',
               headers: { 'Content-Type': 'application/json' },
-              body: JSON.stringify({
-                id: PRODUCT_Y_VARIANT_ID,
-                quantity: 1,
-              }),
+              body: JSON.stringify({ id: PRODUCT_Y_VARIANT_ID, quantity: QUANTITY_Y }),
             });
-          })
-          .then(() => {
-            // Redirect to cart (optional)
+
+            // Reload cart or navigate
             window.location.href = '/cart';
-          })
-          .catch(console.error);
-      }
-    });
-  });
+          } catch (err) {
+            console.error('Auto-add error', err);
+            window.location.reload(); // fallback
+          }
+        });
+      });
+    }
+
+    // Initialize on load
+    document.addEventListener('DOMContentLoaded', initAutoAdd);
+
+    // Re-init later (for AJAX theme features)
+    document.addEventListener('theme:load', initAutoAdd);
+  })();
 </script>
 
 {% render 'judgeme_widgets', widget_type: 'judgeme_review_widget', concierge_install: true, auto_install: true, product: product %}
