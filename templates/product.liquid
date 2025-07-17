@@ -19,6 +19,54 @@
     soldOut: {{ 'products.product.sold_out' | t | json }},
     unavailable: {{ 'products.product.unavailable' | t | json }}
   };
+  
+  const PRODUCT_X_VARIANT_ID_1 = 42522982776855;
+  const PRODUCT_X_VARIANT_ID_2 = 42522982842391;
+  const PRODUCT_X_VARIANT_ID_3 = 42523003322391;
+  const PRODUCT_Y_VARIANT_ID = 42564514643991; 
+  // Replace with your Product Y variant ID
+
+  document.addEventListener("DOMContentLoaded", function () {
+    const form = document.querySelector('form[action^="/cart/add"]');
+    if (!form) return;
+
+    form.addEventListener("submit", function (event) {
+      const formData = new FormData(form);
+      const selectedVariantId = Number(formData.get("id"));
+
+      // Check if the user is adding Product X
+      if (
+        selectedVariantId === PRODUCT_X_VARIANT_ID_1 ||
+        selectedVariantId === PRODUCT_X_VARIANT_ID_2 ||
+        selectedVariantId === PRODUCT_X_VARIANT_ID_3
+      ) {
+        event.preventDefault();
+
+        // Add Product X
+        fetch('/cart/add.js', {
+          method: 'POST',
+          body: formData,
+        })
+          .then(res => res.json())
+          .then(() => {
+            // Then add Product Y
+            return fetch('/cart/add.js', {
+              method: 'POST',
+              headers: { 'Content-Type': 'application/json' },
+              body: JSON.stringify({
+                id: PRODUCT_Y_VARIANT_ID,
+                quantity: 1,
+              }),
+            });
+          })
+          .then(() => {
+            // Redirect to cart (optional)
+            window.location.href = '/cart';
+          })
+          .catch(console.error);
+      }
+    });
+  });
 </script>
 
 {% render 'judgeme_widgets', widget_type: 'judgeme_review_widget', concierge_install: true, auto_install: true, product: product %}
