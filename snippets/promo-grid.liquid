@@ -457,7 +457,22 @@
                                 {% endif %}
                                 {% if block.settings.enable_price %}
                                   <div class="type-product__label type-product__label--secondary">
-                                    {{ product.price | money }}
+                                    {% if product.compare_at_price > product.price %}
+                                      <p class="price">
+                                        <span class="original-price" style="text-decoration: line-through; color: gray;">
+                                          {{ product.compare_at_price | money }}
+                                        </span>
+                                        <span class="sale-price" style="color: red; font-weight: bold;">
+                                          {{ product.price | money }}
+                                        </span>
+                                        <span class="discount" style="color: green;">
+                                          Ahorra {{ product.compare_at_price | minus: product.price | money }}
+                                        </span>
+                                      </p>
+                                    {% else %}
+                                      <p class="price">{{ product.price | money }}</p>
+                                    {% endif %}
+                                    
                                   </div>
                                 {% endif %}
                               </div>
