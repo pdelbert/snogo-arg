@@ -118,20 +118,6 @@
                   {%- endif -%}
                 </span>
               </span>
-
-              {% assign compare_price = current_variant.compare_at_price | times: 1 %}
-              {% assign current_price = current_variant.price | times: 1 %}
-
-              {% if compare_price > current_price %}
-                {% assign discount = compare_price | minus: current_price %}
-                {% assign discount_percentage = discount | times: 100 | divided_by: compare_price %}
-                <p class="product-discount">
-                  Save {{ discount_percentage | round }}%
-                </p>
-              {% endif %}
-
-
-
               <span id="ComparePriceA11y-{{ section_id }}" class="visually-hidden">{{ 'products.general.sale_price' | t }}</span>
             {% else %}
               <span id="PriceA11y-{{ section_id }}" class="visually-hidden">{{ 'products.general.regular_price' | t }}</span>
@@ -141,6 +127,17 @@
               class="product__price{% if current_variant.compare_at_price > current_variant.price %} on-sale{% endif %}">
               {{ current_variant.price | money }}
             </span>
+
+            {% assign compare_price = current_variant.compare_at_price | times: 1 %}
+            {% assign current_price = current_variant.price | times: 1 %}
+
+            {% if compare_price > current_price %}
+              {% assign discount = compare_price | minus: current_price %}
+              {% assign discount_percentage = discount | times: 100 | divided_by: compare_price %}
+              <p class="product-discount">
+                Ahorra {{ discount_percentage | round }}%
+              </p>
+            {% endif %}
 
             {%- if settings.product_save_amount -%}
               {%- if settings.product_save_type == 'dollar' -%}
