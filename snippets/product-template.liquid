@@ -119,8 +119,8 @@
                 </span>
               </span>
 
-              {% assign compare_price = product.compare_at_price | times: 1 %}
-              {% assign current_price = product.price | times: 1 %}
+              {% assign compare_price = current_variant.compare_at_price | times: 1 %}
+              {% assign current_price = current_variant.price | times: 1 %}
 
               {% if compare_price > current_price %}
                 {% assign discount = compare_price | minus: current_price %}
