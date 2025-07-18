@@ -144,7 +144,15 @@
                         <span class="visually-hidden">{{ 'products.general.regular_price' | t }}</span>
                         <small class="cart__price cart__price--strikethrough">{{ item.original_line_price | money }}</small>
                         <span class="visually-hidden">{{ 'products.general.sale_price' | t }}</span>
-                        <span class="cart__price cart__discount">{{ item.final_line_price | money }}</span>
+                        {% if item.variant.compare_at_price > item.variant.price %}
+                          <p class="cart-original-price" style="text-decoration: line-through; color: gray;">
+                            {{ item.variant.compare_at_price | money }}
+                          </p>
+                        {% endif %}
+                        
+                        <p class="cart-sale-price" style="font-weight: bold;">
+                          {{ item.variant.price | money }}
+                        </p>
                       {% else %}
                         <span class="cart__price">{{ item.original_line_price | money }}</span>
                       {% endif %}
