@@ -648,8 +648,8 @@
         ],
         "settings": {
           "subtitle": "",
-          "title": "¿QUÉ SON LAS BICIS DE NIEVE SNO-GO?",
-          "text": "<p>Las SNO-GO, también conocidas como ski bikes o snow bikes, traen una energía totalmente nueva a los deportes de invierno. Son la fusión perfecta entre el esquí y el ciclismo, ofreciendo una forma emocionante y accesible de bajar por pistas nevadas. Cada SNO-GO tiene tres esquíes articulados, se adapta a cualquier aerosilla de centro de esquí, y cuenta con extremely fast and easy learning curve.</p><p>★★★★★ Más de 1.500 reseñas positivas.</p>",
+          "title": "¿Qué son las bicis de nieve SNO-GO?",
+          "text": "<p>Las SNO-GO, también conocidas como bicicletas de esquí o bicicletas de nieve, traen una energía totalmente nueva a los deportes de invierno. Son la fusión perfecta entre el esquí y el ciclismo, ofreciendo una forma emocionante y accesible de bajar por pistas nevadas.</p><p>Cada SNO-GO cuenta con tres esquíes articulados, se adapta a cualquier aerosilla de centro de esquí y tiene una curva de aprendizaje rápida y sencilla.</p><p>★★★★★ Más de 1.500 reseñas positivas.</p>",
           "button_label": "",
           "button_link": "shopify://collections/all",
           "image": "shopify://shop_images/home-section-07.jpg",
@@ -897,8 +897,8 @@
         ],
         "settings": {
           "subtitle": "COMENZAR",
-          "title": "TU PRIMERA VEZ EN SNO GO",
-          "text": "<p>Vas a encarar las pistas de manera violenta, pero es importante estar preparado para cualquier sorpresa que te depare el clima. Casco, antiparras y ropa de montaña son imprescindibles.</p><p>¿Con ganas de velocidad? Manejalo con inteligencia. Lo primero es aprender a frenar y controlar bien la bici para disfrutar al máximo sin riesgos.</p><p>Tómate tu tiempo. Empezá por pistas fáciles, ganá confianza de a poco, y en menos de lo que pensás vas a estar bajando pistas negras con seguridad.</p>",
+          "title": "Tu primera vez en SNO-GO",
+          "text": "<p>Vas a encarar la montaña con adrenalina, pero es clave estar preparado. Casco, antiparras y ropa de montaña son imprescindibles.</p><p>¿Con ganas de velocidad? Manejala con inteligencia. Primero aprendé a frenar y dominar la bici para disfrutar sin riesgos.</p><p>Tomate tu tiempo: empezá por pistas fáciles, ganá confianza de a poco… y antes de lo que pensás, vas a estar bajando pistas negras como un pro.</p>",
           "button_label": "tutorial",
           "button_link": "shopify://pages/tutorial",
           "image": "shopify://shop_images/home-section-08.jpg",
@@ -919,8 +919,8 @@
               "enable_image": true,
               "image": "shopify://shop_images/c91413f2-a70d-4137-ac80-f8e77913e317.svg",
               "image_width": 80,
-              "title": "FÁCIL DE EMPEZAR",
-              "text": "<p>Sujetá el manubrio como en tu bici de siempre: esa sensación conocida se combina con una nueva forma de aventura. Tus pies se encastran en fijaciones montadas sobre los esquíes, lo que te permite estar listo para lo que sea que la montaña te proponga.</p><p>Bajá con confianza y, cuando quieras tomarte un descanso o subir a la aerosilla, simplemente te bajás sin tener que pelearte con trabas, hebillas ni clips. Nada de mojarte ni sentarte en la nieve para volver a engancharte.</p><p>Tu SNO-GO es la compañera ideal durante el invierno. Si te gusta el aire libre y la brisa en la cara, vas a amar esta experiencia.</p>",
+              "title": "Fácil de empezar",
+              "text": "<p>Sujetá el manubrio como en tu bici de siempre. Esa sensación conocida se combina con una nueva forma de aventura.</p><p>Tus pies se encastran en fijaciones montadas sobre los esquíes: estás listo para lo que la montaña te proponga.</p><p>Cuando quieras descansar o subir a la aerosilla, simplemente te bajás. Sin trabas, hebillas ni clips. Sin mojarte ni tirarte en la nieve para volver a engancharte.</p><p>Tu SNO-GO es tu compañera ideal en invierno. Si te gusta el aire libre y la brisa en la cara, esta experiencia es para vos.</p>",
               "button_label": "",
               "button_link": "",
               "custom_svg": "<svg aria-hidden=\"true\" focusable=\"false\" role=\"presentation\" class=\"icon-svg icon-tcwi-chat\" viewbox=\"0 0 100 100\"><defs><style>.a{fill:none;stroke:#000;stroke-width:2px}</style></defs><path class=\"a\" d=\"M88.78 28.25v47.18h-9.42v10.58L62.91 75.43H32.55V28.25h56.23zM41.85 42.53h37.51M41.85 51.83h37.51M41.85 61.14h26.58\"></path><path class=\"a\" d=\"M67.45 13.99v14.26h-34.9v35.83l-11.91 7.67V61.16h-9.42V13.99h56.23z\"></path></svg>"
@@ -932,8 +932,8 @@
               "enable_image": true,
               "image": "shopify://shop_images/logo-01.jpg",
               "image_width": 200,
-              "title": "SOLO NECESITÁS BOTAS DE INVIERNO",
-              "text": "<p>Queríamos mantener esta parte lo más simple posible: nada de botas de esquí.</p><p>Según la National Ski Area Association, las botas de esquí son la tercera razón más común por la que la gente abandona este deporte. Con SNO-GO eso no es un problema: solo necesitás un buen par de botas de invierno para empezar.</p><p>A medida que avances, muchos descubren que las botas de snowboard son ideales para usar con SNO-GO: ofrecen abrigo, comodidad y estabilidad en cualquier tipo de terreno.</p>",
+              "title": "Solo necesitás botas de invierno",
+              "text": "<p>Queríamos mantener esto simple: nada de botas de esquí.</p><p>Según la Asociación Nacional de Áreas de Esquí, las botas de esquí son la tercera razón más común por la que la gente abandona el deporte.</p><p>Con SNO-GO, eso no es un problema: solo necesitás un buen par de botas de invierno para empezar.</p><p>Muchos descubren que las botas de snowboard son ideales: abrigo, comodidad y estabilidad en todo tipo de terreno.</p>",
               "button_label": "",
               "button_link": "",
               "custom_svg": "<svg aria-hidden=\"true\" focusable=\"false\" role=\"presentation\" class=\"icon-svg icon-tcwi-shield\" viewbox=\"0 0 100 100\"><defs><style>.a{fill:none;stroke:#000;stroke-width:2px}</style></defs><path class=\"a\" d=\"M51.18 7.63c5.54 3.1 17.09 8.07 34.33 8.07h1.07v23.72A56.14 56.14 0 0 1 80 66.07C73.58 78 63.89 85.62 51.18 88.83 38.48 85.62 28.79 78 22.36 66.06a56.08 56.08 0 0 1-6.58-26.64V15.7h1.07c17.25 0 28.8-4.97 34.33-8.07z\"></path><path class=\"a\" d=\"M66.15 37.87L45.43 58.59l-9.21-9.21\"></path></svg>"
@@ -945,8 +945,8 @@
               "enable_image": true,
               "image": "shopify://shop_images/logo-01.jpg",
               "image_width": 200,
-              "title": "APRENDÉS RÁPIDO",
-              "text": "<p>No necesitás ser experto en esquí o snowboard para sumarte. SNO-GO es para todos. Tanto si es tu primera vez como si venís del alto rendimiento, vas a agarrarle la mano enseguida.</p><p>La mayoría de los que prueban por primera vez aprenden a girar y frenar con confianza en menos de una hora. Y si querés ir un paso más allá, también podés: saltos, velocidad, y trucos tipo BMX sobre nieve de alto rendimiento te esperan para liberar tu adrenalina todo el año.</p><p>Hoy en día, centros de esquí de todos los tamaños en Estados Unidos ya permiten SNO-GO en sus aerosillas. ¿Qué estamos esperando para subirlo a las pistas?</p>",
+              "title": "Aprendé rápido",
+              "text": "<p>No necesitás ser experto en esquí ni snowboard para sumarte. SNO-GO es para todos.</p><p>Tanto si es tu primera vez como si venís del alto rendimiento, vas a agarrarle la mano enseguida.</p><p>La mayoría aprende a girar y frenar con confianza en menos de una hora.</p><p>¿Querés ir un paso más allá? También podés: saltos, velocidad y trucos tipo BMX sobre nieve te esperan para liberar tu adrenalina todo el año.</p><p>Cada vez más centros de esquí en Estados Unidos permiten SNO-GO en sus aerosillas. ¿Qué estamos esperando para subirla a las pistas?</p>",
               "button_label": "",
               "button_link": "",
               "custom_svg": "<svg aria-hidden=\"true\" focusable=\"false\" role=\"presentation\" class=\"icon-svg icon-tcwi-stopwatch\" viewbox=\"0 0 100 100\"><defs><style>.a{fill:none;stroke:#000;stroke-width:2px}</style></defs><circle class=\"a\" cx=\"60.82\" cy=\"54.12\" r=\"4.26\"></circle><path class=\"a\" d=\"M46.92 78.41a28 28 0 1 0-14.08-24.28M32.84 54.13a28 28 0 1 1 14.08 24.28M34.14 69.37H11.19M38.7 62.65H23.4M38.7 76.09H23.4M32.84 54.13a28 28 0 1 1 14.08 24.28M60.82 16.94v14.24M42.84 32.69l3.08 3.99M33.27 49.27l4.96.87M51.25 80.42l1.72-4.73M70.39 80.42l-1.72-4.73M85.06 68.12L80.7 65.6M88.38 49.27l-4.88 1.31M78.81 32.69l-3.08 4.03M60.82 49.87V39.6M54.4 16.94h12.84\"></path></svg>"
@@ -959,7 +959,7 @@
           "text_block_aTmbMY"
         ],
         "settings": {
-          "title": "COMO ES USAR UNA SNO-GO ski bike?",
+          "title": "¿Cómo es usar una bicicleta de esquí SNO-GO?",
           "align_text": "center",
           "divider": false
         }
@@ -992,8 +992,8 @@
         ],
         "settings": {
           "subtitle": "",
-          "title": "¿DÓNDE PUEDO USAR MI SNO-GO EN ARGENTINA?",
-          "text": "<p>Cada vez más centros de esquí en Argentina están habilitando el uso de SNO-GO como una alternativa segura, accesible y llena de adrenalina.</p><p>Ya estamos presentes en varios destinos icónicos del país, como:</p><ul><li><strong>Las Leñas</strong> (Mendoza)</li><li><strong>Cerro Castor</strong> (Ushuaia)</li><li><strong>Villa La Angostura</strong> (Cerro Bayo)</li><li><strong>Cerro Perito Moreno</strong> (El Bolsón)</li></ul><p></p>",
+          "title": "¿Dónde puedo usar mi SNO-GO en Argentina?",
+          "text": "<p>Cada vez más centros de esquí en Argentina están habilitando el uso de SNO-GO como una alternativa segura, accesible y llena de adrenalina.</p><p>Ya estamos presentes en destinos icónicos como:</p><ul><li><strong>Las Leñas</strong> (Mendoza)</li><li><strong>Cerro Castor</strong> (Ushuaia)</li><li><strong>Villa La Angostura</strong> (Cerro Bayo)</li><li><strong>Cerro Perito Moreno</strong> (El Bolsón)</li></ul><p></p>",
           "button_label": "",
           "button_link": "shopify://products/shifted-1",
           "image": "shopify://shop_images/home-section-10.jpg",
@@ -1012,9 +1012,9 @@
           "image": "shopify://shop_images/Shred_with_SLAT_360x_jpg.jpg",
           "image2": "shopify://shop_images/Fast_Progression_360x_jpg.jpg",
           "image_width": 500,
-          "subtitle": "La progresión más rápida en deportes de nieve",
-          "title": "CONQUISTÁ LA MONTAÑA",
-          "text": "<p>Las bicicletas de nieve SNO-GO permiten que personas de cualquier edad puedan disfrutar las pistas en cuestión de minutos, sin  necesidad de tomar clases caras ni pasar horas aprendiendo.</p>",
+          "subtitle": "La progresión más rápida en deportes de nieve.",
+          "title": "Conquistá la montaña",
+          "text": "<p>Las bicicletas de nieve SNO-GO permiten que personas de cualquier edad disfruten de las pistas en minutos, sin clases caras ni horas de práctica.</p>",
           "button_label": "TUTORIAL",
           "button_link": "shopify://pages/tutorial",
           "layout": "left",
@@ -1706,14 +1706,7 @@
       "background_image_text_nqLFfQ",
       "background_image_text_4TgEne",
       "map_p6hmyc"
-    ],
-    "blocks": {
-      "14710812113501315912": {
-        "type": "shopify://apps/kor-order-limit-quantity/blocks/app-embed/143c1e59-4c01-4de6-ad3e-90b86ada592d",
-        "disabled": false,
-        "settings": {}
-      }
-    }
+    ]
   },
   "presets": {
     "Modern": {
