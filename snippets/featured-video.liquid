@@ -1,0 +1,23 @@
+{% if block.settings.divider %}<div class="section--divider">{% endif %}
+
+<div class="page-width">
+  {% if block.settings.title != blank %}
+    <div class="section-header">
+      <h2>{{ block.settings.title }}</h2>
+    </div>
+  {% endif %}
+  <div class="video-wrapper">
+  {% if block.settings.video_url == blank %}
+    <iframe src="//www.youtube.com/embed/_9VUPq3SxOc?rel=0&showinfo=0&vq=720" width="850" height="480" frameborder="0" allowfullscreen></iframe>
+  {% else %}
+    {% if block.settings.video_url.type == "youtube" %}
+      <iframe src="//www.youtube.com/embed/{{ block.settings.video_url.id }}?rel=0&showinfo=0&vq=720" width="850" height="480" frameborder="0" allowfullscreen></iframe>
+    {% endif %}
+    {% if block.settings.video_url.type == "vimeo" %}
+      <iframe src="//player.vimeo.com/video/{{ block.settings.video_url.id }}?color={{ settings.color_button | remove: "#" }}&byline=0&portrait=0&badge=0" width="850" height="480" frameborder="0" allowfullscreen></iframe>
+    {% endif %}
+  {% endif %}
+  </div>
+</div>
+
+{% if block.settings.divider %}</div>{% endif %} 
