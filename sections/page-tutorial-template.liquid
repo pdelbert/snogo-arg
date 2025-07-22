@@ -30,54 +30,6 @@
       <div class="featured-video-block">
         {% include 'featured-video' with block %}
       </div>
-    {% when 'contact-form' %}
-      <div class="featured-video-block">
-        {% include 'contact-form', section: block %}
-      </div>
-    {% when 'custom-html' %}
-      <div class="featured-video-block">
-        {% include 'custom-html', section: block %}
-      </div>
-    {% when 'featured-collection' %}
-      <div class="featured-video-block">
-        {% include 'featured-collection', section: block %}
-      </div>
-    {% when 'image-hero' %}
-      <div class="featured-video-block">
-        {% include 'image-hero', section: block %}
-      </div>
-    {% when 'text-and-image' %}
-      <div class="featured-video-block">
-        {% include 'text-and-image', section: block %}
-      </div>
-    {% when 'background-image-text' %}
-      <div class="featured-video-block">
-        {% include 'background-image-text', section: block %}
-      </div>
-    {% when 'map' %}
-      <div class="featured-video-block">
-        {% include 'map', section: block %}
-      </div>
-    {% when 'rich-text' %}
-      <div class="featured-video-block">
-        {% include 'rich-text', section: block %}
-      </div>
-    {% when 'image-row' %}
-      <div class="featured-video-block">
-        {% include 'image-row', section: block %}
-      </div>
-    {% when 'testimonials' %}
-      <div class="featured-video-block">
-        {% include 'testimonials', section: block %}
-      </div>
-    {% when 'text-columns' %}
-      <div class="featured-video-block">
-        {% include 'text-columns', section: block %}
-      </div>
-    {% when 'hero-video' %}
-      <div class="featured-video-block">
-        {% include 'hero-video', section: block %}
-      </div>
   {% endcase %}
 {% endfor %}
 
